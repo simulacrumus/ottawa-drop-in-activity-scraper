@@ -6,7 +6,7 @@ on:
     - cron: "0 5 * * *"
 
 jobs:
-  update-file:
+  scrape-and-save:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     permissions:
