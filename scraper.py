@@ -316,7 +316,7 @@ class Scraper:
 
 async def main():
     start_time = time.time()
-    logging.basicConfig(level=logging.DEBUG)
+    logging.basicConfig(level=LOG_LEVEL)
 
     config = {
         'facilities_list_url':FACILITIES_LIST_URL,
