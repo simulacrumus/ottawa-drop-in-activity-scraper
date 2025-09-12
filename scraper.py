@@ -13,10 +13,9 @@ import asyncio
 import logging
 import re
 from bs4 import BeautifulSoup
-from browser import BrowserManager, BrowserConfig
+from browser import BrowserManager
 from model import ScheduleData
 from config import *
-from new_browser import EnhancedBrowserManager
 from utility import *
 import hashlib
 import datetime
