@@ -17101,34 +17101,34 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Public Skating",
+    "activity": "Public skating",
     "startTime": "13:00",
     "endTime": "13:50",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-12-24",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public Skating",
-    "startTime": "16:00",
-    "endTime": "16:50",
     "periodStartDate": "2025-09-15",
     "periodEndDate": "2025-12-24",
     "dayOfWeek": 2
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Public Skating",
+    "activity": "Public skating",
     "startTime": "16:00",
     "endTime": "16:50",
     "periodStartDate": "2025-09-15",
     "periodEndDate": "2025-12-24",
-    "dayOfWeek": 4
+    "dayOfWeek": 3
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Public Skating",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2025-09-15",
+    "periodEndDate": "2025-12-24",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
     "startTime": "14:00",
     "endTime": "15:50",
     "periodStartDate": "2025-09-15",
@@ -17137,25 +17137,16 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Adult Skating",
+    "activity": "Adult skating",
     "startTime": "12:00",
     "endTime": "12:50",
     "periodStartDate": "2025-09-15",
     "periodEndDate": "2025-12-24",
-    "dayOfWeek": 1
+    "dayOfWeek": 2
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Adult Skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-12-24",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Adult Skating",
+    "activity": "Adult skating",
     "startTime": "12:00",
     "endTime": "12:50",
     "periodStartDate": "2025-09-15",
@@ -17164,7 +17155,7 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Adult Skating",
+    "activity": "Adult skating",
     "startTime": "12:00",
     "endTime": "12:50",
     "periodStartDate": "2025-09-15",
@@ -17173,21 +17164,30 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "18+ Pick-up Hockey",
-    "startTime": "14:30",
-    "endTime": "15:50",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
     "periodStartDate": "2025-09-15",
     "periodEndDate": "2025-12-24",
-    "dayOfWeek": 2
+    "dayOfWeek": 6
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "18+ Pick-up Hockey",
+    "activity": "18+ Pick-up hockey",
     "startTime": "14:30",
     "endTime": "15:50",
     "periodStartDate": "2025-09-15",
     "periodEndDate": "2025-12-24",
-    "dayOfWeek": 4
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "18+ Pick-up hockey",
+    "startTime": "14:30",
+    "endTime": "15:50",
+    "periodStartDate": "2025-09-15",
+    "periodEndDate": "2025-12-24",
+    "dayOfWeek": 5
   },
   {
     "facility": "Tom Brown Arena",

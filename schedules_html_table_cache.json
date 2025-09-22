@@ -15437,33 +15437,33 @@
       "day_of_week": 7
     }
   ],
-  "ae0c6d7a2ed09a7cf3ba779c123dedf9": [
+  "ffd64ad35348370d85135d991cbcdc86": [
     {
-      "activity": "Public Skating",
+      "activity": "Public skating",
       "start_time": "13:00",
       "end_time": "13:50",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-12-24",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public Skating",
-      "start_time": "16:00",
-      "end_time": "16:50",
       "period_start_date": "2025-09-15",
       "period_end_date": "2025-12-24",
       "day_of_week": 2
     },
     {
-      "activity": "Public Skating",
+      "activity": "Public skating",
       "start_time": "16:00",
       "end_time": "16:50",
       "period_start_date": "2025-09-15",
       "period_end_date": "2025-12-24",
-      "day_of_week": 4
+      "day_of_week": 3
     },
     {
-      "activity": "Public Skating",
+      "activity": "Public skating",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2025-09-15",
+      "period_end_date": "2025-12-24",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Public skating",
       "start_time": "14:00",
       "end_time": "15:50",
       "period_start_date": "2025-09-15",
@@ -15471,23 +15471,15 @@
       "day_of_week": 7
     },
     {
-      "activity": "Adult Skating",
+      "activity": "Adult skating",
       "start_time": "12:00",
       "end_time": "12:50",
       "period_start_date": "2025-09-15",
       "period_end_date": "2025-12-24",
-      "day_of_week": 1
+      "day_of_week": 2
     },
     {
-      "activity": "Adult Skating",
-      "start_time": "12:00",
-      "end_time": "12:50",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-12-24",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Adult Skating",
+      "activity": "Adult skating",
       "start_time": "12:00",
       "end_time": "12:50",
       "period_start_date": "2025-09-15",
@@ -15495,7 +15487,7 @@
       "day_of_week": 4
     },
     {
-      "activity": "Adult Skating",
+      "activity": "Adult skating",
       "start_time": "12:00",
       "end_time": "12:50",
       "period_start_date": "2025-09-15",
@@ -15503,20 +15495,28 @@
       "day_of_week": 5
     },
     {
-      "activity": "18+ Pick-up Hockey",
-      "start_time": "14:30",
-      "end_time": "15:50",
+      "activity": "Adult skating",
+      "start_time": "12:00",
+      "end_time": "12:50",
       "period_start_date": "2025-09-15",
       "period_end_date": "2025-12-24",
-      "day_of_week": 2
+      "day_of_week": 6
     },
     {
-      "activity": "18+ Pick-up Hockey",
+      "activity": "18+ Pick-up hockey",
       "start_time": "14:30",
       "end_time": "15:50",
       "period_start_date": "2025-09-15",
       "period_end_date": "2025-12-24",
-      "day_of_week": 4
+      "day_of_week": 3
+    },
+    {
+      "activity": "18+ Pick-up hockey",
+      "start_time": "14:30",
+      "end_time": "15:50",
+      "period_start_date": "2025-09-15",
+      "period_end_date": "2025-12-24",
+      "day_of_week": 5
     }
   ],
   "54c0f009f9cde2efeedeba861ed72d12": [
