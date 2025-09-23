@@ -37,6 +37,9 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
+      - name: Upload schedules
+        run: python uploader.py
+
       - name: Commit and push changes
         run: |
           git pull origin main
