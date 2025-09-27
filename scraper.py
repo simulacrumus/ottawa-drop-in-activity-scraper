@@ -239,7 +239,8 @@ class Scraper:
                 # Copy to new cache
                 self.temp_schedules_html_table_cache[cache_key] = self.html_table_cache[cache_key]
                 logger.debug('Previous table cache hit')
-            else:                
+            else:        
+                # Injecting the current year in case LLM miscalculates the current year        
                 message =   f"""Extract all schedule entries from this HTML table and return a JSON array.
                                 Each object should have these exact fields:
                                 - activity: string (remove text after * including the *)
@@ -251,6 +252,7 @@ class Scraper:
 
                                 Rules:
                                 - Use {datetime.datetime.now().year} for missing years
+                                - Use {datetime.datetime.now().year + 1} if the period_end_date is before period_start_date
                                 - Use null for unclear values
                                 - Convert day names to numbers (Monday=1, Sunday=7)
                                 - Return only valid JSON array, no explanations
