@@ -3335,7 +3335,7 @@
     "startTime": "06:30",
     "endTime": "16:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 1
   },
   {
@@ -3344,7 +3344,7 @@
     "startTime": "17:30",
     "endTime": "21:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 1
   },
   {
@@ -3353,7 +3353,7 @@
     "startTime": "06:30",
     "endTime": "20:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 2
   },
   {
@@ -3362,7 +3362,7 @@
     "startTime": "09:30",
     "endTime": "16:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 3
   },
   {
@@ -3371,7 +3371,7 @@
     "startTime": "06:30",
     "endTime": "21:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 4
   },
   {
@@ -3380,7 +3380,7 @@
     "startTime": "06:30",
     "endTime": "21:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 5
   },
   {
@@ -3389,7 +3389,7 @@
     "startTime": "10:00",
     "endTime": "14:00",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 6
   },
   {
@@ -3398,7 +3398,7 @@
     "startTime": "10:00",
     "endTime": "14:00",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 7
   },
   {
@@ -5383,123 +5383,6 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "17:10",
-    "endTime": "18:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "17:10",
-    "endTime": "18:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "18:20",
-    "endTime": "19:20",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "12:40",
-    "endTime": "13:40",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 16+",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball Family - parent with child",
-    "startTime": "15:20",
-    "endTime": "16:20",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball Family - parent with child",
-    "startTime": "16:30",
-    "endTime": "17:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Volleyball 16+",
-    "startTime": "18:40",
-    "endTime": "19:40",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Volleyball 16+",
-    "startTime": "19:50",
-    "endTime": "20:50",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
     "activity": "Badminton 16 +",
     "startTime": "18:40",
     "endTime": "19:40",
@@ -5803,6 +5686,123 @@
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-21",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:10",
+    "endTime": "18:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:10",
+    "endTime": "18:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "18:20",
+    "endTime": "19:20",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "12:40",
+    "endTime": "13:40",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 16+",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball Family - parent with child",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball Family - parent with child",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "18:40",
+    "endTime": "19:40",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
   },
   {
     "facility": "Fred Barrett Arena",
@@ -7642,177 +7642,6 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Qigong",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Qigong",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Step and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Step and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Tai Chi",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Tai Chi",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba Gold",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Yoga",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Yoga",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Yoga",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-11-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Hot tub and sauna",
     "startTime": "08:00",
     "endTime": "13:00",
@@ -8206,6 +8035,177 @@
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-11-03",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Qigong",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Qigong",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Step and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Step and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Tai Chi",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Tai Chi",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-03",
+    "dayOfWeek": 6
   },
   {
     "facility": "Kanata Seniors Centre",
@@ -8735,7 +8735,7 @@
     "startTime": "08:30",
     "endTime": "11:30",
     "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 1
   },
   {
@@ -8744,7 +8744,7 @@
     "startTime": "08:30",
     "endTime": "11:30",
     "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 2
   },
   {
@@ -8753,7 +8753,7 @@
     "startTime": "08:30",
     "endTime": "11:30",
     "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 3
   },
   {
@@ -8762,7 +8762,7 @@
     "startTime": "09:00",
     "endTime": "10:00",
     "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 4
   },
   {
@@ -8771,7 +8771,7 @@
     "startTime": "08:30",
     "endTime": "10:30",
     "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 5
   },
   {
@@ -8780,7 +8780,7 @@
     "startTime": "13:30",
     "endTime": "14:30",
     "periodStartDate": "2024-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 6
   },
   {
@@ -8789,7 +8789,7 @@
     "startTime": "19:00",
     "endTime": "20:00",
     "periodStartDate": "2024-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 1
   },
   {
@@ -8798,7 +8798,7 @@
     "startTime": "18:00",
     "endTime": "19:00",
     "periodStartDate": "2024-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 4
   },
   {
@@ -8807,7 +8807,7 @@
     "startTime": "19:00",
     "endTime": "21:00",
     "periodStartDate": "2024-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 5
   },
   {
@@ -8816,7 +8816,7 @@
     "startTime": "19:00",
     "endTime": "21:00",
     "periodStartDate": "2024-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 5
   },
   {
@@ -8825,7 +8825,7 @@
     "startTime": "17:30",
     "endTime": "20:30",
     "periodStartDate": "2024-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 6
   },
   {
@@ -8834,7 +8834,7 @@
     "startTime": "14:00",
     "endTime": "18:00",
     "periodStartDate": "2024-09-08",
-    "periodEndDate": "2025-01-04",
+    "periodEndDate": "2026-01-04",
     "dayOfWeek": 7
   },
   {
@@ -9487,6 +9487,267 @@
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Dance",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Dance",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength",
+    "startTime": "21:30",
+    "endTime": "22:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yin yoga",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "20-20-20",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "HIIT",
+    "startTime": "19:05",
+    "endTime": "20:05",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yoga Tune Up",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yoga",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yoga",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Core conditioning",
+    "startTime": "19:05",
+    "endTime": "20:05",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Core conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Cardio and strength",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Cardio and strength",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Balance and stability - Heartwise (older adult)",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Balance and stability - Heartwise (older adult)",
+    "startTime": "11:35",
+    "endTime": "12:35",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Stretch and strength",
+    "startTime": "13:05",
+    "endTime": "14:05",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Stretch and strength",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength circuit",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "TRX",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Pickleball",
     "startTime": "11:45",
     "endTime": "12:45",
@@ -9835,267 +10096,6 @@
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-31",
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Dance",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Dance",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength",
-    "startTime": "21:30",
-    "endTime": "22:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yin yoga",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "20-20-20",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "HIIT",
-    "startTime": "19:05",
-    "endTime": "20:05",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yoga Tune Up",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yoga",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yoga",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Core conditioning",
-    "startTime": "19:05",
-    "endTime": "20:05",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Core conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Cardio and strength",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Cardio and strength",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Balance and stability - Heartwise (older adult)",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Balance and stability - Heartwise (older adult)",
-    "startTime": "11:35",
-    "endTime": "12:35",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Stretch and strength",
-    "startTime": "13:05",
-    "endTime": "14:05",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Stretch and strength",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength circuit",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "TRX",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
   },
   {
     "facility": "Nepean Seniors Centre",
@@ -11449,6 +11449,51 @@
   },
   {
     "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
     "activity": "Public Skating",
     "startTime": "13:30",
     "endTime": "15:00",
@@ -11518,51 +11563,6 @@
     "periodStartDate": "2025-11-21",
     "periodEndDate": "2026-03-20",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "15:30",
-    "endTime": "16:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "15:30",
-    "endTime": "16:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "15:30",
-    "endTime": "16:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
   },
   {
     "facility": "Osgoode Community Centre and Stuart Holmes Arena",
@@ -15827,7 +15827,7 @@
     "startTime": "18:00",
     "endTime": "20:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 1
   },
   {
@@ -15836,7 +15836,7 @@
     "startTime": "14:30",
     "endTime": "16:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 7
   },
   {
@@ -15845,7 +15845,7 @@
     "startTime": "18:00",
     "endTime": "20:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 4
   },
   {
@@ -15854,7 +15854,7 @@
     "startTime": "20:00",
     "endTime": "22:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 4
   },
   {
@@ -15863,7 +15863,7 @@
     "startTime": "16:30",
     "endTime": "18:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 7
   },
   {
@@ -15872,7 +15872,7 @@
     "startTime": "18:00",
     "endTime": "20:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 3
   },
   {
@@ -15881,7 +15881,7 @@
     "startTime": "15:00",
     "endTime": "16:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 4
   },
   {
@@ -15890,7 +15890,7 @@
     "startTime": "16:00",
     "endTime": "17:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 4
   },
   {
@@ -15899,7 +15899,7 @@
     "startTime": "17:00",
     "endTime": "18:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 4
   },
   {
@@ -15908,7 +15908,7 @@
     "startTime": "20:00",
     "endTime": "22:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 3
   },
   {
@@ -15917,7 +15917,7 @@
     "startTime": "09:30",
     "endTime": "11:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 2
   },
   {
@@ -15926,7 +15926,7 @@
     "startTime": "09:30",
     "endTime": "11:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 3
   },
   {
@@ -15935,7 +15935,7 @@
     "startTime": "09:30",
     "endTime": "11:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 4
   },
   {
@@ -15944,7 +15944,7 @@
     "startTime": "20:00",
     "endTime": "22:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 1
   },
   {
@@ -15953,7 +15953,7 @@
     "startTime": "12:00",
     "endTime": "14:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 7
   },
   {
@@ -15962,7 +15962,7 @@
     "startTime": "16:00",
     "endTime": "17:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 1
   },
   {
@@ -15971,7 +15971,7 @@
     "startTime": "16:00",
     "endTime": "17:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 3
   },
   {
@@ -15980,7 +15980,7 @@
     "startTime": "16:00",
     "endTime": "17:30",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 5
   },
   {
@@ -15989,7 +15989,7 @@
     "startTime": "17:45",
     "endTime": "19:45",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 1
   },
   {
@@ -15998,7 +15998,7 @@
     "startTime": "18:15",
     "endTime": "20:15",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 2
   },
   {
@@ -16007,7 +16007,7 @@
     "startTime": "14:00",
     "endTime": "16:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 6
   },
   {
@@ -16016,7 +16016,7 @@
     "startTime": "16:00",
     "endTime": "18:00",
     "periodStartDate": "2025-09-01",
-    "periodEndDate": "2025-06-17",
+    "periodEndDate": "2026-06-17",
     "dayOfWeek": 6
   },
   {
@@ -17735,7 +17735,7 @@
     "startTime": "13:15",
     "endTime": "14:05",
     "periodStartDate": "2025-09-16",
-    "periodEndDate": "2025-04-21",
+    "periodEndDate": "2026-04-21",
     "dayOfWeek": 2
   },
   {
@@ -17744,7 +17744,7 @@
     "startTime": "13:00",
     "endTime": "13:50",
     "periodStartDate": "2025-09-16",
-    "periodEndDate": "2025-04-21",
+    "periodEndDate": "2026-04-21",
     "dayOfWeek": 3
   },
   {
@@ -17753,7 +17753,7 @@
     "startTime": "13:00",
     "endTime": "13:50",
     "periodStartDate": "2025-09-16",
-    "periodEndDate": "2025-04-21",
+    "periodEndDate": "2026-04-21",
     "dayOfWeek": 4
   },
   {
@@ -17762,7 +17762,7 @@
     "startTime": "19:15",
     "endTime": "20:05",
     "periodStartDate": "2025-09-16",
-    "periodEndDate": "2025-04-21",
+    "periodEndDate": "2026-04-21",
     "dayOfWeek": 5
   },
   {
@@ -17771,7 +17771,7 @@
     "startTime": "12:15",
     "endTime": "13:05",
     "periodStartDate": "2025-09-16",
-    "periodEndDate": "2025-04-21",
+    "periodEndDate": "2026-04-21",
     "dayOfWeek": 7
   },
   {
@@ -17780,7 +17780,7 @@
     "startTime": "13:15",
     "endTime": "14:05",
     "periodStartDate": "2025-09-16",
-    "periodEndDate": "2025-04-21",
+    "periodEndDate": "2026-04-21",
     "dayOfWeek": 7
   },
   {
