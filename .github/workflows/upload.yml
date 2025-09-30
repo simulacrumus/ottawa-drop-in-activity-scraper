@@ -1,0 +1,29 @@
+name: Uploader
+
+on:
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    env:
+      UPLOAD_API_KEY: ${{ secrets.UPLOAD_API_KEY }}
+      UPLOAD_API_URL: ${{ secrets.UPLOAD_API_URL }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Upload schedules
+        run: python uploader.py
