@@ -1629,6 +1629,15 @@
     "dayOfWeek": 5
   },
   {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
     "facility": "Brewer Pool and Arena",
     "activity": "Lane swim",
     "startTime": "07:30",
@@ -5447,15 +5456,6 @@
   {
     "facility": "Eva James Memorial Community Centre",
     "activity": "Kindergym",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Kindergym",
     "startTime": "10:00",
     "endTime": "11:00",
     "periodStartDate": "2025-09-08",
@@ -6961,25 +6961,7 @@
     "activity": "Public swim",
     "startTime": "12:00",
     "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
+    "periodStartDate": "2025-10-01",
     "periodEndDate": "2025-10-03",
     "dayOfWeek": 3
   },
@@ -6988,7 +6970,7 @@
     "activity": "Public swim",
     "startTime": "12:00",
     "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
+    "periodStartDate": "2025-10-01",
     "periodEndDate": "2025-10-03",
     "dayOfWeek": 4
   },
@@ -6996,53 +6978,17 @@
     "facility": "General Burns Pool",
     "activity": "Public swim",
     "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
+    "endTime": "18:00",
+    "periodStartDate": "2025-10-01",
     "periodEndDate": "2025-10-03",
     "dayOfWeek": 5
   },
   {
     "facility": "General Burns Pool",
-    "activity": "Public swim",
-    "startTime": "10:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Public swim",
-    "startTime": "10:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "General Burns Pool",
     "activity": "Lane swim",
     "startTime": "12:00",
     "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
+    "periodStartDate": "2025-10-01",
     "periodEndDate": "2025-10-03",
     "dayOfWeek": 3
   },
@@ -7051,7 +6997,7 @@
     "activity": "Lane swim",
     "startTime": "12:00",
     "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
+    "periodStartDate": "2025-10-01",
     "periodEndDate": "2025-10-03",
     "dayOfWeek": 4
   },
@@ -7059,28 +7005,10 @@
     "facility": "General Burns Pool",
     "activity": "Lane swim",
     "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-15",
+    "endTime": "18:00",
+    "periodStartDate": "2025-10-01",
     "periodEndDate": "2025-10-03",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Lane swim",
-    "startTime": "10:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Lane swim",
-    "startTime": "10:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 7
   },
   {
     "facility": "Heron Seniors Centre",
@@ -10181,6 +10109,141 @@
   {
     "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Lane swim",
+    "startTime": "12:15",
+    "endTime": "14:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:45",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "12:15",
+    "endTime": "14:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "11:00",
+    "endTime": "12:45",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "14:30",
+    "endTime": "17:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "11:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public Swim with WIBIT",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Core conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
     "startTime": "07:30",
     "endTime": "08:30",
     "periodStartDate": "2025-09-02",
@@ -11256,141 +11319,6 @@
     "endTime": "16:50",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "12:15",
-    "endTime": "14:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "12:45",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "12:15",
-    "endTime": "14:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "11:00",
-    "endTime": "12:45",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "09:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "14:30",
-    "endTime": "17:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "11:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public Swim with WIBIT",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Core conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
     "dayOfWeek": 7
   },
   {
@@ -13492,6 +13420,96 @@
   },
   {
     "facility": "Pinecrest Recreation Complex",
+    "activity": "Public swim",
+    "startTime": "12:30",
+    "endTime": "13:45",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public swim",
+    "startTime": "12:30",
+    "endTime": "13:45",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "14:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "11:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public skate",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public skate",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
     "activity": "Public Swim",
     "startTime": "11:30",
     "endTime": "12:45",
@@ -14319,91 +14337,73 @@
     "dayOfWeek": 1
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public swim",
-    "startTime": "12:30",
-    "endTime": "13:45",
+    "facility": "Plant Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:30",
     "periodStartDate": "2025-10-11",
     "periodEndDate": "2025-10-11",
     "dayOfWeek": 6
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public swim",
-    "startTime": "12:30",
-    "endTime": "13:45",
+    "facility": "Plant Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:30",
     "periodStartDate": "2025-10-12",
     "periodEndDate": "2025-10-12",
     "dayOfWeek": 7
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
+    "facility": "Plant Recreation Centre",
+    "activity": "Lane swim - reduced capacity",
+    "startTime": "11:00",
+    "endTime": "12:00",
     "periodStartDate": "2025-10-11",
     "periodEndDate": "2025-10-11",
     "dayOfWeek": 6
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
+    "facility": "Plant Recreation Centre",
+    "activity": "Lane swim - reduced capacity",
+    "startTime": "11:00",
+    "endTime": "12:00",
     "periodStartDate": "2025-10-12",
     "periodEndDate": "2025-10-12",
     "dayOfWeek": 7
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "09:30",
-    "endTime": "14:30",
+    "facility": "Plant Recreation Centre",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "16:00",
     "periodStartDate": "2025-10-11",
     "periodEndDate": "2025-10-11",
     "dayOfWeek": 6
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "11:30",
+    "facility": "Plant Recreation Centre",
+    "activity": "Public swim",
+    "startTime": "13:30",
     "endTime": "16:00",
     "periodStartDate": "2025-10-12",
     "periodEndDate": "2025-10-12",
     "dayOfWeek": 7
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Yoga",
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
     "startTime": "10:30",
-    "endTime": "11:30",
+    "endTime": "16:00",
     "periodStartDate": "2025-10-11",
     "periodEndDate": "2025-10-11",
     "dayOfWeek": 6
   },
   {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public skate",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public skate",
-    "startTime": "15:00",
-    "endTime": "15:50",
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "10:30",
+    "endTime": "16:00",
     "periodStartDate": "2025-10-12",
     "periodEndDate": "2025-10-12",
     "dayOfWeek": 7
@@ -15066,78 +15066,6 @@
     "dayOfWeek": 1
   },
   {
-    "facility": "Plant Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Lane swim - reduced capacity",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Lane swim - reduced capacity",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "10:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "10:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
     "facility": "R.J. Kennedy Community Centre and Arena",
     "activity": "Public skating",
     "startTime": "15:00",
@@ -15631,6 +15559,168 @@
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "08:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "08:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "07:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Basketball - adult",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Basketball - adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open gym - family",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open gym - family",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
   },
   {
     "facility": "Richcraft Recreation Complex-Kanata",
@@ -17037,168 +17127,6 @@
     "dayOfWeek": 1
   },
   {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Basketball - adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Basketball - adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open gym - family",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open gym - family",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "08:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "08:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "07:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
     "facility": "Richelieu Vanier Community Centre",
     "activity": "Pickleball 18+ - recreational play",
     "startTime": "13:00",
@@ -18022,6 +17950,51 @@
     "activity": "Lane swim",
     "startTime": "11:00",
     "endTime": "13:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim (shared pool)",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
     "periodStartDate": "2025-09-08",
     "periodEndDate": "2025-12-14",
     "dayOfWeek": 1
@@ -18396,49 +18369,85 @@
     "dayOfWeek": 5
   },
   {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Pickleball - adult",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Pickleball - adult",
     "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Pickleball - adult",
+    "startTime": "12:00",
     "endTime": "13:00",
     "periodStartDate": "2025-10-11",
     "periodEndDate": "2025-10-11",
     "dayOfWeek": 6
   },
   {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Pickleball - adult",
     "startTime": "13:00",
-    "endTime": "15:00",
+    "endTime": "14:00",
     "periodStartDate": "2025-10-11",
     "periodEndDate": "2025-10-11",
     "dayOfWeek": 6
   },
   {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Basketball - youth",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
   },
   {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim (shared pool)",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Kindergym",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Kindergym",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Kindergym",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "South Fallingbrook Community Centre",
+    "activity": "Kindergym",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
   },
   {
     "facility": "South Fallingbrook Community Centre",
@@ -18690,87 +18699,6 @@
     "endTime": "16:30",
     "periodStartDate": "2025-10-14",
     "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Basketball - youth",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
     "dayOfWeek": 6
   },
   {
@@ -19087,6 +19015,87 @@
     "periodStartDate": "2025-09-29",
     "periodEndDate": "2025-12-14",
     "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio 50+",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Pilates",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
   },
   {
     "facility": "St. Laurent Complex",
@@ -19737,87 +19746,6 @@
     "dayOfWeek": 5
   },
   {
-    "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Pilates",
-    "startTime": "10:00",
-    "endTime": "10:30",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Adult skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
     "facility": "Tom Brown Arena",
     "activity": "Figure skating",
     "startTime": "20:00",
@@ -20041,6 +19969,78 @@
     "periodStartDate": "2025-10-10",
     "periodEndDate": "2026-03-31",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Hot tub and steam room",
+    "startTime": "10:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Hot tub and steam room",
+    "startTime": "10:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
   },
   {
     "facility": "Walter Baker Sports Centre",
@@ -20859,78 +20859,6 @@
     "endTime": "13:05",
     "periodStartDate": "2025-09-12",
     "periodEndDate": "2026-04-05",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Hot tub and steam room",
-    "startTime": "10:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Hot tub and steam room",
-    "startTime": "10:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Lane swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Lane swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
     "dayOfWeek": 7
   }
 ]
