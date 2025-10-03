@@ -316,6 +316,15 @@
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Aqua general deep",
     "startTime": "08:00",
     "endTime": "09:00",
@@ -1627,15 +1636,6 @@
     "periodStartDate": "2025-09-03",
     "periodEndDate": "2026-03-29",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
   },
   {
     "facility": "Brewer Pool and Arena",
@@ -10109,141 +10109,6 @@
   {
     "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Lane swim",
-    "startTime": "12:15",
-    "endTime": "14:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "12:45",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "12:15",
-    "endTime": "14:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "11:00",
-    "endTime": "12:45",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "09:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "14:30",
-    "endTime": "17:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "11:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public Swim with WIBIT",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Core conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
     "startTime": "07:30",
     "endTime": "08:30",
     "periodStartDate": "2025-09-02",
@@ -11322,6 +11187,240 @@
     "dayOfWeek": 7
   },
   {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "12:15",
+    "endTime": "14:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:45",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "12:15",
+    "endTime": "14:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "11:00",
+    "endTime": "12:45",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "14:30",
+    "endTime": "17:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "11:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public Swim with WIBIT",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Core conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kindergym",
+    "startTime": "15:45",
+    "endTime": "17:15",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kindergym",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Volleyball - adult",
+    "startTime": "18:50",
+    "endTime": "19:50",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Volleyball - family",
+    "startTime": "17:45",
+    "endTime": "19:50",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Open Gym - Child (6 to 12) with Guardian",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "12:50",
+    "endTime": "13:50",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "13:55",
+    "endTime": "14:55",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "18:45",
+    "endTime": "19:45",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
     "facility": "Nepean Seniors Centre",
     "activity": "Mah Jong",
     "startTime": "13:00",
@@ -11518,60 +11617,6 @@
     "periodStartDate": "2025-10-13",
     "periodEndDate": "2025-10-13",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
   },
   {
     "facility": "Nepean Sportsplex",
@@ -12223,339 +12268,6 @@
   },
   {
     "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "TMC",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Bootcamp",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
     "activity": "Pickleball",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -13048,6 +12760,393 @@
     "periodStartDate": "2025-11-21",
     "periodEndDate": "2026-03-20",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "TMC",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Bootcamp",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
   },
   {
     "facility": "Osgoode Community Centre and Stuart Holmes Arena",
@@ -17533,78 +17632,6 @@
   },
   {
     "facility": "Rideauview Community Centre",
-    "activity": "Basketball - child",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Rideauview Community Centre",
-    "activity": "Basketball - youth",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Rideauview Community Centre",
-    "activity": "Basketball - adult",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Rideauview Community Centre",
-    "activity": "Basketball - adult",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Rideauview Community Centre",
-    "activity": "Basketball - adult",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Rideauview Community Centre",
-    "activity": "Basketball - adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Rideauview Community Centre",
-    "activity": "Kindergym",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Rideauview Community Centre",
-    "activity": "Volleyball - adult",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Rideauview Community Centre",
     "activity": "Badminton - adult",
     "startTime": "12:00",
     "endTime": "13:00",
@@ -17680,6 +17707,78 @@
     "activity": "Pickleball - adult",
     "startTime": "12:30",
     "endTime": "13:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Basketball - child",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Basketball - youth",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Basketball - adult",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Basketball - adult",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Basketball - adult",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Basketball - adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Kindergym",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Rideauview Community Centre",
+    "activity": "Volleyball - adult",
+    "startTime": "20:00",
+    "endTime": "21:00",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 4
@@ -18884,6 +18983,33 @@
   {
     "facility": "Splash Wave Pool",
     "activity": "Public swim - warm pool only",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-29",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim - warm pool only",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-29",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim - warm pool only",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-29",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim - warm pool only",
     "startTime": "12:00",
     "endTime": "13:00",
     "periodStartDate": "2025-09-29",
@@ -18920,6 +19046,15 @@
   {
     "facility": "Splash Wave Pool",
     "activity": "Lane swim",
+    "startTime": "20:15",
+    "endTime": "21:15",
+    "periodStartDate": "2025-09-29",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
     "startTime": "12:00",
     "endTime": "13:00",
     "periodStartDate": "2025-09-29",
@@ -18940,6 +19075,15 @@
     "activity": "Lane swim",
     "startTime": "09:30",
     "endTime": "13:00",
+    "periodStartDate": "2025-09-29",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:15",
+    "endTime": "21:15",
     "periodStartDate": "2025-09-29",
     "periodEndDate": "2025-12-14",
     "dayOfWeek": 3
