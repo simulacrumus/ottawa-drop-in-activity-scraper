@@ -6957,60 +6957,6 @@
     "dayOfWeek": 5
   },
   {
-    "facility": "General Burns Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-10-01",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-10-01",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-10-01",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-10-01",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-10-01",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "General Burns Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-10-01",
-    "periodEndDate": "2025-10-03",
-    "dayOfWeek": 5
-  },
-  {
     "facility": "Heron Seniors Centre",
     "activity": "Art studio",
     "startTime": "10:00",
@@ -15661,6 +15607,114 @@
   },
   {
     "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "08:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "08:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "07:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Badminton doubles - adult",
     "startTime": "11:00",
     "endTime": "12:00",
@@ -17118,114 +17172,6 @@
     "dayOfWeek": 1
   },
   {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "08:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "08:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "07:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
     "facility": "Richelieu Vanier Community Centre",
     "activity": "Pickleball 18+ - recreational play",
     "startTime": "13:00",
@@ -18091,24 +18037,6 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance – older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance – older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Lane swim",
     "startTime": "11:00",
     "endTime": "13:00",
@@ -18474,6 +18402,24 @@
     "endTime": "11:00",
     "periodStartDate": "2025-09-08",
     "periodEndDate": "2025-12-14",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance – older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance – older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-20",
     "dayOfWeek": 5
   },
   {

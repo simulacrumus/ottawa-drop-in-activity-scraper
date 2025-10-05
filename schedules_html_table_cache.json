@@ -6283,56 +6283,6 @@
       "day_of_week": 5
     }
   ],
-  "eead5f42830a8c499bac86b12245ac31": [
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "19:00",
-      "period_start_date": "2025-10-01",
-      "period_end_date": "2025-10-03",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "19:00",
-      "period_start_date": "2025-10-01",
-      "period_end_date": "2025-10-03",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "18:00",
-      "period_start_date": "2025-10-01",
-      "period_end_date": "2025-10-03",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "12:00",
-      "end_time": "19:00",
-      "period_start_date": "2025-10-01",
-      "period_end_date": "2025-10-03",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "12:00",
-      "end_time": "19:00",
-      "period_start_date": "2025-10-01",
-      "period_end_date": "2025-10-03",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "12:00",
-      "end_time": "18:00",
-      "period_start_date": "2025-10-01",
-      "period_end_date": "2025-10-03",
-      "day_of_week": 5
-    }
-  ],
   "6bb4176f9586060c576cdd9ce50a6b85": [
     {
       "activity": "Art studio",
@@ -14194,6 +14144,104 @@
       "day_of_week": 5
     }
   ],
+  "f1ea302d29b4a68ac84c20615b797d76": [
+    {
+      "activity": "Lane swim",
+      "start_time": "08:30",
+      "end_time": "13:30",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-11",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:30",
+      "end_time": "13:30",
+      "period_start_date": "2025-10-12",
+      "period_end_date": "2025-10-12",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "07:30",
+      "end_time": "13:00",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:30",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-11",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:30",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-12",
+      "period_end_date": "2025-10-12",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim - leisure pool only",
+      "start_time": "08:30",
+      "end_time": "13:30",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-11",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim - leisure pool only",
+      "start_time": "08:30",
+      "end_time": "13:30",
+      "period_start_date": "2025-10-12",
+      "period_end_date": "2025-10-12",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public swim - leisure pool only",
+      "start_time": "08:30",
+      "end_time": "13:00",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Sauna",
+      "start_time": "08:30",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-11",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Sauna",
+      "start_time": "08:30",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-12",
+      "period_end_date": "2025-10-12",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Sauna",
+      "start_time": "07:30",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    }
+  ],
   "430db8a33aab3d06329cf733cddf87f5": [
     {
       "activity": "Badminton doubles - adult",
@@ -15504,104 +15552,6 @@
       "day_of_week": 1
     }
   ],
-  "f1ea302d29b4a68ac84c20615b797d76": [
-    {
-      "activity": "Lane swim",
-      "start_time": "08:30",
-      "end_time": "13:30",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-11",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:30",
-      "end_time": "13:30",
-      "period_start_date": "2025-10-12",
-      "period_end_date": "2025-10-12",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "07:30",
-      "end_time": "13:00",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:30",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-11",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:30",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-12",
-      "period_end_date": "2025-10-12",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim - leisure pool only",
-      "start_time": "08:30",
-      "end_time": "13:30",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-11",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public swim - leisure pool only",
-      "start_time": "08:30",
-      "end_time": "13:30",
-      "period_start_date": "2025-10-12",
-      "period_end_date": "2025-10-12",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Public swim - leisure pool only",
-      "start_time": "08:30",
-      "end_time": "13:00",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Sauna",
-      "start_time": "08:30",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-11",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Sauna",
-      "start_time": "08:30",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-12",
-      "period_end_date": "2025-10-12",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Sauna",
-      "start_time": "07:30",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    }
-  ],
   "38f6f8172ee4f6ff2b0fa7b0c8d29431": [
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16392,24 +16342,6 @@
       "day_of_week": 7
     }
   ],
-  "7ad8f31346c81656e0d69166d990254e": [
-    {
-      "activity": "Strength and balance – older adult",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2025-09-08",
-      "period_end_date": "2025-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Strength and balance – older adult",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2025-09-08",
-      "period_end_date": "2025-12-20",
-      "day_of_week": 5
-    }
-  ],
   "42618eb2a80038c14e727b1ab03fd4a9": [
     {
       "activity": "Lane swim",
@@ -16737,6 +16669,24 @@
       "end_time": "11:00",
       "period_start_date": "2025-09-08",
       "period_end_date": "2025-12-14",
+      "day_of_week": 5
+    }
+  ],
+  "7ad8f31346c81656e0d69166d990254e": [
+    {
+      "activity": "Strength and balance – older adult",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2025-09-08",
+      "period_end_date": "2025-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Strength and balance – older adult",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2025-09-08",
+      "period_end_date": "2025-12-20",
       "day_of_week": 5
     }
   ],
