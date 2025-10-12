@@ -1135,69 +1135,6 @@
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "10:00",
-    "endTime": "10:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "19:15",
-    "endTime": "20:05",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "50+ skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Figure skating",
-    "startTime": "20:15",
-    "endTime": "21:05",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Racquetball - courts 4, 6, and 8",
     "startTime": "06:15",
     "endTime": "07:15",
@@ -1690,6 +1627,69 @@
     "periodStartDate": "2025-01-01",
     "periodEndDate": "2025-12-31",
     "dayOfWeek": 4
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "50+ skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Figure skating",
+    "startTime": "20:15",
+    "endTime": "21:05",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 5
   },
   {
     "facility": "Brewer Pool and Arena",
@@ -9659,6 +9659,141 @@
   {
     "facility": "Lowertown Community Centre and Pool",
     "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-11",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-10-12",
+    "periodEndDate": "2025-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "50+ vitality",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-10-13",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Basketball",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Basketball",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "17:30",
+    "endTime": "20:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "14:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "13:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym - family",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-10-11",
+    "periodEndDate": "2025-10-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
     "startTime": "07:30",
     "endTime": "10:00",
     "periodStartDate": "2025-09-08",
@@ -10051,141 +10186,6 @@
     "periodStartDate": "2025-09-08",
     "periodEndDate": "2026-01-04",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "17:30",
-    "endTime": "20:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "14:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "13:00",
-    "endTime": "15:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym - family",
-    "startTime": "10:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "10:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-10-11",
-    "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-10-12",
-    "periodEndDate": "2025-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "50+ vitality",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-10-13",
-    "periodEndDate": "2025-10-13",
-    "dayOfWeek": 1
   },
   {
     "facility": "Manotick Community Centre and Mike O’Neil Arena",
@@ -18807,87 +18807,6 @@
     "endTime": "14:00",
     "periodStartDate": "2025-10-11",
     "periodEndDate": "2025-10-11",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Badminton - adult",
-    "startTime": "20:15",
-    "endTime": "21:15",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kindergym",
-    "startTime": "15:30",
-    "endTime": "16:30",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-10-10",
     "dayOfWeek": 6
   },
   {

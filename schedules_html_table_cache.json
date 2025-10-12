@@ -1027,64 +1027,6 @@
       "day_of_week": 4
     }
   ],
-  "e80781542b604d18c17634f9e53da094": [
-    {
-      "activity": "Public skating",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "10:00",
-      "end_time": "10:50",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "19:15",
-      "end_time": "20:05",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "13:00",
-      "end_time": "13:50",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 7
-    },
-    {
-      "activity": "50+ skating",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Figure skating",
-      "start_time": "20:15",
-      "end_time": "21:05",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 5
-    }
-  ],
   "ad6748e257757763f8f5faed5569a860": [
     {
       "activity": "Racquetball - courts 4, 6, and 8",
@@ -1525,6 +1467,64 @@
       "period_start_date": "2025-01-01",
       "period_end_date": "2025-12-31",
       "day_of_week": 4
+    }
+  ],
+  "e80781542b604d18c17634f9e53da094": [
+    {
+      "activity": "Public skating",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "10:00",
+      "end_time": "10:50",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "19:15",
+      "end_time": "20:05",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "13:00",
+      "end_time": "13:50",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 7
+    },
+    {
+      "activity": "50+ skating",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Figure skating",
+      "start_time": "20:15",
+      "end_time": "21:05",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 5
     }
   ],
   "a14c1d1b902f7f84fd2329d45d67c204": [
@@ -8739,6 +8739,132 @@
       "day_of_week": 7
     }
   ],
+  "44f2560eea51fa90c16af1cdc4302848": [
+    {
+      "activity": "Lane swim",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-11",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "period_start_date": "2025-10-12",
+      "period_end_date": "2025-10-12",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:30",
+      "end_time": "10:00",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "11:00",
+      "end_time": "13:30",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "12:00",
+      "end_time": "15:00",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-11",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "12:00",
+      "end_time": "15:00",
+      "period_start_date": "2025-10-12",
+      "period_end_date": "2025-10-12",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:30",
+      "end_time": "15:30",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    },
+    {
+      "activity": "50+ vitality",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2025-10-13",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    }
+  ],
+  "f3713be7b19499d0bed49eba64f824ab": [
+    {
+      "activity": "Basketball",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Basketball",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "17:30",
+      "end_time": "20:30",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "14:00",
+      "end_time": "18:00",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "13:00",
+      "end_time": "15:30",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open gym - family",
+      "start_time": "10:30",
+      "end_time": "13:30",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 6
+    }
+  ],
+  "c91341b5befd40a7db70552d756251f6": [
+    {
+      "activity": "Pickleball",
+      "start_time": "08:30",
+      "end_time": "10:30",
+      "period_start_date": "2025-10-11",
+      "period_end_date": "2025-10-13",
+      "day_of_week": 1
+    }
+  ],
   "9be618432a98c8e55a7b98516dbd390c": [
     {
       "activity": "Lane swim",
@@ -9095,132 +9221,6 @@
       "period_start_date": "2025-09-08",
       "period_end_date": "2026-01-04",
       "day_of_week": 6
-    }
-  ],
-  "c91341b5befd40a7db70552d756251f6": [
-    {
-      "activity": "Pickleball",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    }
-  ],
-  "f3713be7b19499d0bed49eba64f824ab": [
-    {
-      "activity": "Basketball",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Basketball",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "17:30",
-      "end_time": "20:30",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "14:00",
-      "end_time": "18:00",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "13:00",
-      "end_time": "15:30",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open gym - family",
-      "start_time": "10:30",
-      "end_time": "13:30",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 6
-    }
-  ],
-  "44f2560eea51fa90c16af1cdc4302848": [
-    {
-      "activity": "Lane swim",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-11",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "period_start_date": "2025-10-12",
-      "period_end_date": "2025-10-12",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:30",
-      "end_time": "10:00",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:00",
-      "end_time": "13:30",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "15:00",
-      "period_start_date": "2025-10-11",
-      "period_end_date": "2025-10-11",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "15:00",
-      "period_start_date": "2025-10-12",
-      "period_end_date": "2025-10-12",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:30",
-      "end_time": "15:30",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
-    },
-    {
-      "activity": "50+ vitality",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2025-10-13",
-      "period_end_date": "2025-10-13",
-      "day_of_week": 1
     }
   ],
   "d8904ed9519ab77915d6c41f59220de6": [
@@ -17041,80 +17041,6 @@
       "end_time": "14:00",
       "period_start_date": "2025-10-11",
       "period_end_date": "2025-10-11",
-      "day_of_week": 6
-    }
-  ],
-  "226052a647be4bd1df0bae5de79a6592": [
-    {
-      "activity": "Badminton - adult",
-      "start_time": "20:15",
-      "end_time": "21:15",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "period_start_date": "2025-09-15",
-      "period_end_date": "2025-10-10",
       "day_of_week": 6
     }
   ],
