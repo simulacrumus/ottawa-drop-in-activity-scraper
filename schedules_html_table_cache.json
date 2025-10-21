@@ -4745,136 +4745,6 @@
       "day_of_week": 7
     }
   ],
-  "74059a1a58d039998b04663be2b13dfd": [
-    {
-      "activity": "Core conditioning",
-      "start_time": "19:45",
-      "end_time": "20:45",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 2
-    },
-    {
-      "activity": "HIIT",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Kickboxing",
-      "start_time": "10:45",
-      "end_time": "11:45",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Pilates",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Pilates",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pilates",
-      "start_time": "19:45",
-      "end_time": "20:45",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pilates 50+",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "17:15",
-      "end_time": "18:15",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Yoga 50 +",
-      "start_time": "10:45",
-      "end_time": "11:45",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Yoga 50 +",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 3
-    },
-    {
-      "activity": "TMC",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 2
-    },
-    {
-      "activity": "TMC",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Zumba Gold 50 +",
-      "start_time": "11:45",
-      "end_time": "12:45",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2025-12-21",
-      "day_of_week": 3
-    }
-  ],
   "b3567b1a91ae6afb0327bdde8adb9daf": [
     {
       "activity": "Badminton 16 +",
@@ -5325,6 +5195,152 @@
       "period_start_date": "2025-09-02",
       "period_end_date": "2025-12-21",
       "day_of_week": 4
+    }
+  ],
+  "96031c5e71670f3f8b195a4e55cfc9a7": [
+    {
+      "activity": "Core conditioning",
+      "start_time": "19:45",
+      "end_time": "20:45",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 2
+    },
+    {
+      "activity": "HIIT",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Kickboxing",
+      "start_time": "19:45",
+      "end_time": "20:45",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Kickboxing",
+      "start_time": "10:45",
+      "end_time": "11:45",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Pilates",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Pilates",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pilates",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Pilates 50+",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "17:15",
+      "end_time": "18:15",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Yoga 50 +",
+      "start_time": "10:45",
+      "end_time": "11:45",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Yoga 50 +",
+      "start_time": "11:15",
+      "end_time": "12:15",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Yoga 50 +",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 3
+    },
+    {
+      "activity": "TMC",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 2
+    },
+    {
+      "activity": "TMC",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Zumba Gold 50 +",
+      "start_time": "11:45",
+      "end_time": "12:45",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-12-21",
+      "day_of_week": 3
     }
   ],
   "9b828cb37a3403cb741045758414ce9f": [
