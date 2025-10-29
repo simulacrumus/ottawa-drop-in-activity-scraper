@@ -36,6 +36,42 @@
     "dayOfWeek": 6
   },
   {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Family skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-27",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-27",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Stick and puck - preschool and child (3 to 12 years)",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-29",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Stick and puck - youth and adult (13+)",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-29",
+    "dayOfWeek": 1
+  },
+  {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Aqua general deep",
     "startTime": "08:00",
@@ -1918,222 +1954,6 @@
   },
   {
     "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Open gym",
-    "startTime": "11:45",
-    "endTime": "12:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - child",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - youth",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - adult",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Public skating",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Public skating",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Public skating",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Public skating",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Family skating",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Adult skating",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Adult skating",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Adult skating",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
     "activity": "Lane swim",
     "startTime": "07:30",
     "endTime": "08:55",
@@ -2381,6 +2201,222 @@
     "startTime": "09:00",
     "endTime": "10:00",
     "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Table tennis",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Open gym",
+    "startTime": "11:45",
+    "endTime": "12:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Basketball - child",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Basketball - youth",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Basketball - adult",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Public skating",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Public skating",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Public skating",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Public skating",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Family skating",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Adult skating",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Adult skating",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Adult skating",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 5
   },
@@ -5680,132 +5716,6 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "17:10",
-    "endTime": "18:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "17:10",
-    "endTime": "18:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "18:20",
-    "endTime": "19:20",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "12:40",
-    "endTime": "13:40",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 16+",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball Family - parent with child",
-    "startTime": "15:20",
-    "endTime": "16:20",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball Family - parent with child",
-    "startTime": "16:30",
-    "endTime": "17:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Volleyball 16+",
-    "startTime": "18:40",
-    "endTime": "19:40",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Volleyball 16+",
-    "startTime": "19:50",
-    "endTime": "20:50",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Rock Climbing 5+",
-    "startTime": "12:40",
-    "endTime": "13:40",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
     "activity": "Badminton 16 +",
     "startTime": "18:40",
     "endTime": "19:40",
@@ -6199,6 +6109,132 @@
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-21",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:10",
+    "endTime": "18:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:10",
+    "endTime": "18:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "18:20",
+    "endTime": "19:20",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "12:40",
+    "endTime": "13:40",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 16+",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball Family - parent with child",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball Family - parent with child",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "18:40",
+    "endTime": "19:40",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Rock Climbing 5+",
+    "startTime": "12:40",
+    "endTime": "13:40",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
   },
   {
     "facility": "Fred Barrett Arena",
@@ -11116,6 +11152,348 @@
   },
   {
     "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga - older adult",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "TMC - older adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Bootcamp",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
     "activity": "Pickleball",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -11608,348 +11986,6 @@
     "periodStartDate": "2025-11-21",
     "periodEndDate": "2026-03-20",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga - older adult",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "TMC - older adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Bootcamp",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-18",
-    "dayOfWeek": 2
   },
   {
     "facility": "Osgoode Community Centre and Stuart Holmes Arena",
