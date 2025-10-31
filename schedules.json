@@ -37,24 +37,6 @@
   },
   {
     "facility": "Bernard Grandmaître Arena",
-    "activity": "Family skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2025-11-01",
-    "periodEndDate": "2025-12-27",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bernard Grandmaître Arena",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2025-11-01",
-    "periodEndDate": "2025-12-27",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bernard Grandmaître Arena",
     "activity": "Stick and puck - preschool and child (3 to 12 years)",
     "startTime": "15:00",
     "endTime": "15:50",
@@ -70,6 +52,24 @@
     "periodStartDate": "2025-11-01",
     "periodEndDate": "2025-12-29",
     "dayOfWeek": 1
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Family skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2025-11-01",
+    "periodEndDate": "2025-12-27",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2025-11-01",
+    "periodEndDate": "2025-12-27",
+    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -3682,6 +3682,69 @@
   },
   {
     "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "06:30",
     "endTime": "16:30",
@@ -3701,7 +3764,7 @@
   {
     "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
-    "startTime": "06:30",
+    "startTime": "07:00",
     "endTime": "20:30",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2026-01-04",
@@ -3719,7 +3782,7 @@
   {
     "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
-    "startTime": "06:30",
+    "startTime": "07:00",
     "endTime": "20:30",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2026-01-04",
@@ -3747,69 +3810,6 @@
     "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "10:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
     "endTime": "14:00",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2026-01-04",
@@ -6096,10 +6096,10 @@
     "facility": "François Dupuis Recreation Centre",
     "activity": "Public swim - therapeutic pool (reduced capacity)",
     "startTime": "11:30",
-    "endTime": "15:30",
+    "endTime": "13:00",
     "periodStartDate": "2025-09-08",
     "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
+    "dayOfWeek": 4
   },
   {
     "facility": "François Dupuis Recreation Centre",
@@ -14095,249 +14095,6 @@
   },
   {
     "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "08:45",
-    "endTime": "09:45",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Zumba Toning",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-20",
-    "periodEndDate": "2025-11-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "17:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "08:45",
-    "endTime": "09:45",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Zumba Toning",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
     "activity": "Lane swim",
     "startTime": "07:00",
     "endTime": "09:00",
@@ -14877,6 +14634,249 @@
     "dayOfWeek": 7
   },
   {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "17:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "08:45",
+    "endTime": "09:45",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba Toning",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-20",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "08:45",
+    "endTime": "09:45",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba Toning",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-14",
+    "dayOfWeek": 1
+  },
+  {
     "facility": "R.J. Kennedy Community Centre and Arena",
     "activity": "Public skating",
     "startTime": "15:00",
@@ -14884,411 +14884,6 @@
     "periodStartDate": "2025-09-14",
     "periodEndDate": "2026-03-21",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "20 - 20 - 20",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "20 - 20 - 20",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Bootcamp",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Bootcamp",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Core conditioning",
-    "startTime": "10:30",
-    "endTime": "11:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Core conditioning",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pilates",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pilates",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Sport conditioning",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:00",
-    "endTime": "14:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:00",
-    "endTime": "14:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:00",
-    "endTime": "14:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TMC",
-    "startTime": "08:30",
-    "endTime": "09:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TMC",
-    "startTime": "09:15",
-    "endTime": "10:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TRX",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - QiGong",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:30",
-    "endTime": "20:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "18:00",
-    "endTime": "18:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - older adult",
-    "startTime": "10:30",
-    "endTime": "11:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - older adult",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Zumba Gold",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
   },
   {
     "facility": "Ray Friel Recreation Complex",
@@ -15369,6 +14964,1086 @@
     "endTime": "13:30",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "06:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "06:00",
+    "endTime": "08:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "06:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "06:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "06:00",
+    "endTime": "08:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "19:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - shallow",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - shallow",
+    "startTime": "08:05",
+    "endTime": "09:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - shallow",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - shallow",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - shallow",
+    "startTime": "08:05",
+    "endTime": "09:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - shallow",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - deep",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - deep",
+    "startTime": "08:05",
+    "endTime": "09:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - deep",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - deep",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - deep",
+    "startTime": "08:05",
+    "endTime": "09:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - deep",
+    "startTime": "09:05",
+    "endTime": "10:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Bootcamp",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Bootcamp",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Core conditioning",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Core conditioning",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Sport conditioning",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TMC",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TMC",
+    "startTime": "09:15",
+    "endTime": "10:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TRX",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - QiGong",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:00",
+    "endTime": "18:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba Gold",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Bootcamp",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Bootcamp",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Core conditioning",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Drums Alive",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Sport conditioning",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TMC",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TMC",
+    "startTime": "09:15",
+    "endTime": "10:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TRX",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yin Yoga",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - QiGong",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:00",
+    "endTime": "18:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba Gold",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
     "dayOfWeek": 5
   },
   {
