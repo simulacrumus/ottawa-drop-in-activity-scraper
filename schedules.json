@@ -3682,69 +3682,6 @@
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "06:30",
     "endTime": "16:30",
@@ -3810,6 +3747,69 @@
     "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "10:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
     "endTime": "14:00",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2026-01-04",
@@ -4915,6 +4915,582 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "10:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "13:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "13:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Lane swim - shared pool",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Preschool swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Preschool swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Preschool swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Preschool swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Preschool swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Preschool swim",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Preschool swim",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "11:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "12:30",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool (reduced capacity)",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - therapeutic pool (reduced capacity)",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aqua general deep",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aqua general deep",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aqua general deep",
+    "startTime": "18:00",
+    "endTime": "18:55",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aqua general deep",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aqua general deep",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aqua general deep",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aqua general deep",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2025-12-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
     "activity": "Weight and cardio room",
     "startTime": "07:15",
     "endTime": "21:15",
@@ -5661,582 +6237,6 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "10:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "13:00",
-    "endTime": "15:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "13:00",
-    "endTime": "15:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "08:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "12:30",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "13:00",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "08:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "13:00",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "10:30",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "10:30",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Lane swim - shared pool",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "11:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "12:30",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "12:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
-    "startTime": "12:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool (reduced capacity)",
-    "startTime": "13:00",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool (reduced capacity)",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "12:30",
-    "endTime": "14:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "14:30",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Aqua general deep",
-    "startTime": "08:30",
-    "endTime": "09:25",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Aqua general deep",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Aqua general deep",
-    "startTime": "18:00",
-    "endTime": "18:55",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Aqua general deep",
-    "startTime": "08:30",
-    "endTime": "09:25",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Aqua general deep",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Aqua general deep",
-    "startTime": "08:30",
-    "endTime": "09:25",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Aqua general deep",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2025-12-21",
-    "dayOfWeek": 4
-  },
-  {
     "facility": "Fred Barrett Arena",
     "activity": "Public skating",
     "startTime": "19:00",
@@ -6377,7 +6377,7 @@
     "startTime": "10:00",
     "endTime": "15:00",
     "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-11-02",
     "dayOfWeek": 1
   },
   {
@@ -6386,7 +6386,7 @@
     "startTime": "12:30",
     "endTime": "15:30",
     "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-11-02",
     "dayOfWeek": 2
   },
   {
@@ -6395,7 +6395,7 @@
     "startTime": "12:30",
     "endTime": "15:30",
     "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-11-02",
     "dayOfWeek": 4
   },
   {
@@ -6404,7 +6404,7 @@
     "startTime": "09:00",
     "endTime": "12:00",
     "periodStartDate": "2025-09-15",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-11-02",
     "dayOfWeek": 3
   },
   {
@@ -6413,8 +6413,170 @@
     "startTime": "12:30",
     "endTime": "15:30",
     "periodStartDate": "2025-09-15",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Art studio",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Art studio",
+    "startTime": "09:00",
+    "endTime": "15:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Bridge",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Bridge",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Tea and chat",
+    "startTime": "09:30",
+    "endTime": "12:00",
+    "periodStartDate": "2025-11-03",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Euchre",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Social games",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:00",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "08:00",
+    "endTime": "09:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "08:00",
+    "endTime": "09:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "08:00",
+    "endTime": "09:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "08:00",
+    "endTime": "09:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "08:00",
+    "endTime": "09:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Silver screen movies",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
   },
   {
     "facility": "Hintonburg Community Centre",
@@ -14887,150 +15049,6 @@
   },
   {
     "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-10-30",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-10-30",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-10-30",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-10-30",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-10-30",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-10-30",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-10-30",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
     "activity": "Lane swim",
     "startTime": "06:00",
     "endTime": "09:00",
@@ -15346,345 +15364,66 @@
   },
   {
     "facility": "Ray Friel Recreation Complex",
-    "activity": "20 - 20 - 20",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2025-11-03",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 1
   },
   {
     "facility": "Ray Friel Recreation Complex",
-    "activity": "20 - 20 - 20",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2025-11-03",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 2
   },
   {
     "facility": "Ray Friel Recreation Complex",
-    "activity": "Bootcamp",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-11-03",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
     "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
+    "dayOfWeek": 3
   },
   {
     "facility": "Ray Friel Recreation Complex",
-    "activity": "Bootcamp",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-11-03",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 4
   },
   {
     "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2025-11-03",
+    "activity": "Weight and cardio room",
+    "startTime": "06:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-10-30",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-10-30",
     "periodEndDate": "2025-12-19",
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Core conditioning",
-    "startTime": "10:30",
-    "endTime": "11:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Core conditioning",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:10",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pilates",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pilates",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Sport conditioning",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:00",
-    "endTime": "14:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:00",
-    "endTime": "14:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:00",
-    "endTime": "14:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TMC",
-    "startTime": "08:30",
-    "endTime": "09:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TMC",
-    "startTime": "09:15",
-    "endTime": "10:10",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TRX",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - QiGong",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:30",
-    "endTime": "20:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "18:00",
-    "endTime": "18:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - older adult",
-    "startTime": "10:30",
-    "endTime": "11:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - older adult",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Zumba Gold",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
-    "dayOfWeek": 5
   },
   {
     "facility": "Ray Friel Recreation Complex",
@@ -16042,6 +15781,510 @@
     "activity": "Zumba Gold",
     "startTime": "13:00",
     "endTime": "13:55",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Bootcamp",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Bootcamp",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Core conditioning",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Core conditioning",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Sport conditioning",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TMC",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TMC",
+    "startTime": "09:15",
+    "endTime": "10:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TRX",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - QiGong",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:00",
+    "endTime": "18:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba Gold",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "10:00",
+    "endTime": "11:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2025-12-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2025-11-02",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:30",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2025-11-02",
     "dayOfWeek": 5
@@ -18010,123 +18253,6 @@
   },
   {
     "facility": "Routhier Community Centre",
-    "activity": "Table Tennis",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton - Family",
-    "startTime": "14:30",
-    "endTime": "16:30",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton - Feather Advanced",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton - Feather Advanced",
-    "startTime": "20:00",
-    "endTime": "22:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton - Feather Advanced",
-    "startTime": "16:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton -Plastics Advanced",
-    "startTime": "20:00",
-    "endTime": "22:00",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Pickleball - Adult",
-    "startTime": "09:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Pickleball - Adult",
-    "startTime": "09:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Pickleball - Adult",
-    "startTime": "09:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
     "activity": "Basketball",
     "startTime": "20:00",
     "endTime": "22:00",
@@ -18205,6 +18331,114 @@
     "periodStartDate": "2025-09-01",
     "periodEndDate": "2026-06-17",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton - Family",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton – Feather Advanced",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton – Feather Advanced",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton – Feather Advanced",
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton - Plastics Advanced",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Pickleball - Adult",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Pickleball - Adult",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Pickleball - Adult",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-06-17",
+    "dayOfWeek": 4
   },
   {
     "facility": "Sandy Hill Arena",
