@@ -3313,11 +3313,74 @@
   },
   {
     "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "06:30",
     "endTime": "16:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 1
   },
   {
@@ -3326,7 +3389,7 @@
     "startTime": "17:30",
     "endTime": "21:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 1
   },
   {
@@ -3335,7 +3398,7 @@
     "startTime": "07:00",
     "endTime": "20:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 2
   },
   {
@@ -3344,7 +3407,7 @@
     "startTime": "09:30",
     "endTime": "18:00",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 3
   },
   {
@@ -3353,7 +3416,7 @@
     "startTime": "07:00",
     "endTime": "20:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 4
   },
   {
@@ -3362,7 +3425,7 @@
     "startTime": "06:30",
     "endTime": "21:30",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 5
   },
   {
@@ -3371,7 +3434,7 @@
     "startTime": "10:00",
     "endTime": "14:00",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 6
   },
   {
@@ -3380,70 +3443,124 @@
     "startTime": "10:00",
     "endTime": "14:00",
     "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodEndDate": "2025-11-30",
     "dayOfWeek": 7
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
+    "activity": "Lane swim",
     "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "endTime": "16:30",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 1
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
+    "activity": "Lane swim",
+    "startTime": "17:30",
+    "endTime": "19:30",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Lane swim",
+    "startTime": "20:30",
     "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 2
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
+    "activity": "Lane swim",
+    "startTime": "13:00",
+    "endTime": "15:30",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Lane swim",
+    "startTime": "17:00",
+    "endTime": "20:30",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Lane swim",
     "startTime": "09:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "endTime": "18:00",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 3
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 4
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
+    "activity": "Lane swim",
+    "startTime": "13:00",
+    "endTime": "15:30",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Lane swim",
+    "startTime": "17:00",
+    "endTime": "20:30",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Lane swim",
     "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "endTime": "19:00",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 5
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
+    "activity": "Lane swim",
+    "startTime": "10:00",
     "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 6
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
+    "activity": "Lane swim",
+    "startTime": "10:00",
     "endTime": "14:00",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-01-04",
+    "periodStartDate": "2024-12-01",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 7
   },
   {
@@ -14558,7 +14675,7 @@
     "startTime": "19:00",
     "endTime": "20:00",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 2
   },
   {
@@ -14567,7 +14684,7 @@
     "startTime": "10:00",
     "endTime": "11:50",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 5
   },
   {
@@ -14576,7 +14693,7 @@
     "startTime": "12:00",
     "endTime": "13:00",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 6
   },
   {
@@ -14585,7 +14702,7 @@
     "startTime": "17:00",
     "endTime": "19:00",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 7
   },
   {
@@ -14594,7 +14711,7 @@
     "startTime": "12:00",
     "endTime": "13:30",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 1
   },
   {
@@ -14603,7 +14720,7 @@
     "startTime": "12:00",
     "endTime": "13:30",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 2
   },
   {
@@ -14612,7 +14729,7 @@
     "startTime": "12:00",
     "endTime": "13:30",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 3
   },
   {
@@ -14621,7 +14738,7 @@
     "startTime": "12:00",
     "endTime": "13:30",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 4
   },
   {
@@ -14630,7 +14747,7 @@
     "startTime": "12:00",
     "endTime": "13:30",
     "periodStartDate": "2025-11-03",
-    "periodEndDate": "2025-12-19",
+    "periodEndDate": "2025-12-21",
     "dayOfWeek": 5
   },
   {

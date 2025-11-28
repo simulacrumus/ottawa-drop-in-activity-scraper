@@ -2981,72 +2981,6 @@
       "day_of_week": 6
     }
   ],
-  "dafb80119b4d714e2489fc19ac0e9038": [
-    {
-      "activity": "Lane swim",
-      "start_time": "06:30",
-      "end_time": "16:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "17:30",
-      "end_time": "21:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "07:00",
-      "end_time": "20:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "09:30",
-      "end_time": "18:00",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "07:00",
-      "end_time": "20:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "06:30",
-      "end_time": "21:30",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "10:00",
-      "end_time": "14:00",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "10:00",
-      "end_time": "14:00",
-      "period_start_date": "2025-09-02",
-      "period_end_date": "2026-01-04",
-      "day_of_week": 7
-    }
-  ],
   "36746c809940a680680168ee3292cee3": [
     {
       "activity": "Weight and cardio room",
@@ -3102,6 +3036,178 @@
       "end_time": "14:00",
       "period_start_date": "2025-09-02",
       "period_end_date": "2026-01-04",
+      "day_of_week": 7
+    }
+  ],
+  "88ed582435de0b71cecbc96db1a49e14": [
+    {
+      "activity": "Lane swim",
+      "start_time": "06:30",
+      "end_time": "16:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "17:30",
+      "end_time": "21:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "07:00",
+      "end_time": "20:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "09:30",
+      "end_time": "18:00",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "07:00",
+      "end_time": "20:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "06:30",
+      "end_time": "21:30",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "period_start_date": "2025-09-02",
+      "period_end_date": "2025-11-30",
+      "day_of_week": 7
+    }
+  ],
+  "097d051a1c4991cf9f03518ee2d18a83": [
+    {
+      "activity": "Lane swim",
+      "start_time": "06:30",
+      "end_time": "16:30",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "17:30",
+      "end_time": "19:30",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "13:00",
+      "end_time": "15:30",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "17:00",
+      "end_time": "20:30",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "09:30",
+      "end_time": "18:00",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "13:00",
+      "end_time": "15:30",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "17:00",
+      "end_time": "20:30",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "06:30",
+      "end_time": "19:00",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "period_start_date": "2024-12-01",
+      "period_end_date": "2025-01-04",
       "day_of_week": 7
     }
   ],
@@ -10709,7 +10815,7 @@
       "day_of_week": 4
     }
   ],
-  "56a03d264d55b6963b882f252d478709": [
+  "5537e6bfe4c35b2e4d59fe183ef9f92a": [
     {
       "activity": "Curling 50+",
       "start_time": "09:00",
@@ -13151,13 +13257,13 @@
       "day_of_week": 5
     }
   ],
-  "cf26fce4d70066f41a33e8fab16ef8ad": [
+  "a9187dd7763147b64854986b3b06d262": [
     {
       "activity": "Public Skating",
       "start_time": "19:00",
       "end_time": "20:00",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 2
     },
     {
@@ -13165,7 +13271,7 @@
       "start_time": "10:00",
       "end_time": "11:50",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 5
     },
     {
@@ -13173,7 +13279,7 @@
       "start_time": "12:00",
       "end_time": "13:00",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 6
     },
     {
@@ -13181,7 +13287,7 @@
       "start_time": "17:00",
       "end_time": "19:00",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 7
     },
     {
@@ -13189,7 +13295,7 @@
       "start_time": "12:00",
       "end_time": "13:30",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 1
     },
     {
@@ -13197,7 +13303,7 @@
       "start_time": "12:00",
       "end_time": "13:30",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 2
     },
     {
@@ -13205,7 +13311,7 @@
       "start_time": "12:00",
       "end_time": "13:30",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 3
     },
     {
@@ -13213,7 +13319,7 @@
       "start_time": "12:00",
       "end_time": "13:30",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 4
     },
     {
@@ -13221,7 +13327,7 @@
       "start_time": "12:00",
       "end_time": "13:30",
       "period_start_date": "2025-11-03",
-      "period_end_date": "2025-12-19",
+      "period_end_date": "2025-12-21",
       "day_of_week": 5
     }
   ],
