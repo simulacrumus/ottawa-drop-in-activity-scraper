@@ -2404,6 +2404,60 @@
   },
   {
     "facility": "Canterbury Recreation Complex",
+    "activity": "Public skating",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Public skating",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Public skating",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-03",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Family skating",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-03",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Adult skating",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
+    "activity": "Adult skating",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Canterbury Recreation Complex",
     "activity": "Lane swim",
     "startTime": "06:30",
     "endTime": "08:25",
@@ -2880,58 +2934,517 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Public skating",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-03",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "07:15",
+    "endTime": "15:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 1
   },
   {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Public skating",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-03",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Public skating",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Family skating",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Adult skating",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-03",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 1
   },
   {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Adult skating",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-03",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "08:30",
+    "endTime": "15:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "07:15",
+    "endTime": "15:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "07:15",
+    "endTime": "15:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "19:00",
+    "endTime": "21:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "12:30",
+    "endTime": "16:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "12:30",
+    "endTime": "16:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Therapeutic pool",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "07:15",
+    "endTime": "08:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "07:15",
+    "endTime": "08:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "07:15",
+    "endTime": "08:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "12:15",
+    "endTime": "15:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "18:00",
+    "endTime": "19:45",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "12:15",
+    "endTime": "15:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "12:15",
+    "endTime": "15:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with no slide",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Aqua general - shallow/deep combo",
+    "startTime": "08:20",
+    "endTime": "09:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Aqua general - shallow/deep combo",
+    "startTime": "09:20",
+    "endTime": "10:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Aqua general - shallow/deep combo",
+    "startTime": "19:50",
+    "endTime": "20:45",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Aqua general - shallow/deep combo",
+    "startTime": "08:20",
+    "endTime": "09:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Aqua general - shallow/deep combo",
+    "startTime": "09:20",
+    "endTime": "10:15",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "16:00",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:45",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:45",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Step and strength",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2024-12-29",
+    "periodEndDate": "2025-01-04",
+    "dayOfWeek": 1
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
@@ -3889,123 +4402,6 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ skate",
-    "startTime": "10:00",
-    "endTime": "10:50",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ skate",
-    "startTime": "10:15",
-    "endTime": "11:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Adult skate",
-    "startTime": "11:15",
-    "endTime": "12:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Pick-up hockey 35+",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Pick-up hockey 35+",
-    "startTime": "12:15",
-    "endTime": "13:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "11:00",
-    "endTime": "11:50",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "16:15",
-    "endTime": "17:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "13:15",
-    "endTime": "14:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "18:15",
-    "endTime": "19:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "14:15",
-    "endTime": "15:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "17:15",
-    "endTime": "18:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "19:15",
-    "endTime": "20:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "15:15",
-    "endTime": "16:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "Badminton - 16+",
     "startTime": "19:45",
     "endTime": "21:45",
@@ -4222,516 +4618,120 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "07:15",
-    "endTime": "15:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "activity": "50+ skate",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 1
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "18:00",
-    "endTime": "21:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "08:30",
-    "endTime": "15:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "18:00",
-    "endTime": "21:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "07:15",
-    "endTime": "15:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "07:15",
-    "endTime": "15:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "19:00",
-    "endTime": "21:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "12:30",
-    "endTime": "16:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "12:30",
-    "endTime": "16:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Therapeutic pool",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "07:15",
-    "endTime": "08:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:15",
-    "endTime": "12:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "07:15",
-    "endTime": "08:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:15",
-    "endTime": "12:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "07:15",
-    "endTime": "08:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:15",
-    "endTime": "12:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:15",
-    "endTime": "12:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:15",
-    "endTime": "12:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:15",
-    "endTime": "12:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
+    "activity": "50+ skate",
     "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "endTime": "11:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Adult skate",
+    "startTime": "11:15",
+    "endTime": "12:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-up hockey 35+",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 1
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
+    "activity": "Pick-up hockey 35+",
+    "startTime": "12:15",
+    "endTime": "13:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 4
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "activity": "Family skate",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "16:15",
+    "endTime": "17:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 3
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "activity": "Family skate",
+    "startTime": "13:15",
+    "endTime": "14:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "18:15",
+    "endTime": "19:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 5
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "12:15",
-    "endTime": "15:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "12:30",
-    "endTime": "15:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "18:00",
-    "endTime": "19:45",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "12:15",
-    "endTime": "15:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "12:15",
-    "endTime": "15:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "activity": "Family skate",
+    "startTime": "14:15",
+    "endTime": "15:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 6
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with no slide",
-    "startTime": "19:00",
-    "endTime": "20:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Aqua general - shallow/deep combo",
-    "startTime": "08:20",
-    "endTime": "09:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Aqua general - shallow/deep combo",
-    "startTime": "09:20",
-    "endTime": "10:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Aqua general - shallow/deep combo",
-    "startTime": "19:50",
-    "endTime": "20:45",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Aqua general - shallow/deep combo",
-    "startTime": "08:20",
-    "endTime": "09:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Aqua general - shallow/deep combo",
-    "startTime": "09:20",
-    "endTime": "10:15",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "16:00",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "activity": "Public skate",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 3
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "activity": "Public skate",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 5
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:45",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
+    "activity": "Public skate",
+    "startTime": "15:15",
+    "endTime": "16:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:45",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Step and strength",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2024-12-29",
-    "periodEndDate": "2025-01-04",
-    "dayOfWeek": 1
   },
   {
     "facility": "Champagne Fitness Centre",
@@ -16480,6 +16480,348 @@
   },
   {
     "facility": "Nepean Sportsplex",
+    "activity": "Bootcamp",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Indoor Cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Strength",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "TMC - older adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Yoga - older adult",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Zumba",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
     "activity": "Basketball",
     "startTime": "15:30",
     "endTime": "16:30",
@@ -16972,348 +17314,6 @@
     "periodStartDate": "2025-11-21",
     "periodEndDate": "2026-03-20",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Bootcamp",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Indoor Cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Strength",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "TMC - older adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Yoga - older adult",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Zumba",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
   },
   {
     "facility": "Osgoode Community Centre and Stuart Holmes Arena",
@@ -19387,6 +19387,168 @@
   },
   {
     "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "17:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "08:45",
+    "endTime": "09:45",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba Toning",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba Toning",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
     "activity": "Lane swim",
     "startTime": "07:00",
     "endTime": "09:00",
@@ -19506,7 +19668,7 @@
     "facility": "Plant Recreation Centre",
     "activity": "Lane swim",
     "startTime": "15:00",
-    "endTime": "17:00",
+    "endTime": "15:30",
     "periodStartDate": "2025-01-03",
     "periodEndDate": "2025-04-19",
     "dayOfWeek": 4
@@ -19785,7 +19947,7 @@
     "facility": "Plant Recreation Centre",
     "activity": "Public swim - leisure pool only",
     "startTime": "10:30",
-    "endTime": "12:00",
+    "endTime": "13:00",
     "periodStartDate": "2025-01-03",
     "periodEndDate": "2025-04-19",
     "dayOfWeek": 4
@@ -19957,168 +20119,6 @@
     "activity": "Aqua - general",
     "startTime": "17:00",
     "endTime": "18:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "17:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "08:45",
-    "endTime": "09:45",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Zumba Toning",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
     "periodStartDate": "2025-01-03",
     "periodEndDate": "2025-04-19",
     "dayOfWeek": 1
@@ -22132,555 +22132,6 @@
   },
   {
     "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "06:15",
-    "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "06:15",
-    "endTime": "07:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "06:15",
-    "endTime": "07:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "10:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "14:00",
-    "endTime": "16:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "14:00",
-    "endTime": "16:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "10:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "15:00",
-    "endTime": "16:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Preschool swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Preschool swim - leisure pool only",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - deep",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - deep",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - deep",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - deep",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - deep",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - shallow",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - shallow",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - shallow",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aquafit - shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aqua Zumba",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Aqua Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "06:15",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "14:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "06:15",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "16:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "07:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "06:15",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "16:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "07:30",
-    "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "08:30",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "08:30",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Weight and cardio room",
     "startTime": "06:30",
     "endTime": "22:00",
@@ -23560,6 +23011,555 @@
     "periodStartDate": "2025-01-05",
     "periodEndDate": "2025-03-15",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "06:15",
+    "endTime": "08:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "06:15",
+    "endTime": "07:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "06:15",
+    "endTime": "07:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "10:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "14:00",
+    "endTime": "16:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "14:00",
+    "endTime": "16:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "10:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Preschool swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Preschool swim - leisure pool only",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - deep",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - deep",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - deep",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - deep",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - deep",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - shallow",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - shallow",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - shallow",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aquafit - shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aqua Zumba",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Aqua Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "06:15",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "14:00",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "06:15",
+    "endTime": "16:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "16:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "07:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "06:15",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "16:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "16:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "07:30",
+    "endTime": "19:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "08:30",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "08:30",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
   },
   {
     "facility": "Richelieu Vanier Community Centre",
@@ -24743,6 +24743,240 @@
   {
     "facility": "Splash Wave Pool",
     "activity": "Wave swim",
+    "startTime": "11:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "11:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "11:00",
+    "endTime": "16:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - shallow",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - shallow",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - deep",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - deep",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Aquafit general - deep",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim",
+    "startTime": "16:30",
+    "endTime": "20:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim",
+    "startTime": "16:30",
+    "endTime": "20:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "periodStartDate": "2025-12-29",
+    "periodEndDate": "2026-01-02",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Wave swim",
     "startTime": "19:05",
     "endTime": "21:00",
     "periodStartDate": "2025-01-03",
@@ -25054,240 +25288,6 @@
     "periodStartDate": "2025-01-03",
     "periodEndDate": "2025-03-15",
     "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "11:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "11:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "11:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - shallow",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - shallow",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - deep",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - deep",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit general - deep",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim",
-    "startTime": "09:30",
-    "endTime": "11:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim",
-    "startTime": "16:30",
-    "endTime": "20:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim",
-    "startTime": "16:30",
-    "endTime": "20:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim",
-    "startTime": "09:30",
-    "endTime": "11:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "09:30",
-    "endTime": "11:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "09:30",
-    "endTime": "11:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "periodStartDate": "2025-12-29",
-    "periodEndDate": "2026-01-02",
-    "dayOfWeek": 5
   },
   {
     "facility": "St. Laurent Complex",
