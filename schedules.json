@@ -8065,11 +8065,29 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
+    "activity": "Cardio and strength 50+",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Cardio and strength 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
     "activity": "Core conditioning",
     "startTime": "19:45",
     "endTime": "20:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8077,8 +8095,8 @@
     "activity": "Core conditioning",
     "startTime": "10:45",
     "endTime": "11:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
   },
   {
@@ -8086,17 +8104,17 @@
     "activity": "HIIT",
     "startTime": "18:30",
     "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "activity": "HIIT",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8104,8 +8122,17 @@
     "activity": "Pilates",
     "startTime": "18:30",
     "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8113,8 +8140,8 @@
     "activity": "Pilates",
     "startTime": "09:30",
     "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
   },
   {
@@ -8122,17 +8149,35 @@
     "activity": "Pilates 50+",
     "startTime": "13:00",
     "endTime": "14:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
   },
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Yoga",
     "startTime": "19:45",
     "endTime": "20:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8140,26 +8185,17 @@
     "activity": "Yoga",
     "startTime": "17:15",
     "endTime": "18:15",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga 50 +",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
-    "dayOfWeek": 1
   },
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Yoga 50 +",
     "startTime": "11:15",
     "endTime": "12:15",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8167,8 +8203,8 @@
     "activity": "Yoga 50 +",
     "startTime": "13:00",
     "endTime": "14:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8176,8 +8212,8 @@
     "activity": "Yoga 50 +",
     "startTime": "08:30",
     "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 6
   },
   {
@@ -8185,8 +8221,8 @@
     "activity": "TMC",
     "startTime": "18:30",
     "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8194,8 +8230,26 @@
     "activity": "TMC",
     "startTime": "18:30",
     "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC 50+",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8203,17 +8257,35 @@
     "activity": "Zumba",
     "startTime": "18:30",
     "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
   },
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Zumba",
     "startTime": "18:30",
     "endTime": "19:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8221,8 +8293,8 @@
     "activity": "Zumba Gold 50 +",
     "startTime": "11:45",
     "endTime": "12:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8230,8 +8302,8 @@
     "activity": "Badminton 16 +",
     "startTime": "18:40",
     "endTime": "19:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8239,26 +8311,17 @@
     "activity": "Badminton 16 +",
     "startTime": "19:50",
     "endTime": "20:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton 16 +",
-    "startTime": "19:50",
-    "endTime": "20:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
-    "dayOfWeek": 3
   },
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Badminton 16 +",
     "startTime": "16:30",
     "endTime": "17:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
   },
   {
@@ -8266,8 +8329,8 @@
     "activity": "Badminton family - parent with child",
     "startTime": "14:20",
     "endTime": "15:20",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
   },
   {
@@ -8275,8 +8338,8 @@
     "activity": "Badminton family - parent with child",
     "startTime": "15:25",
     "endTime": "16:25",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
   },
   {
@@ -8284,8 +8347,8 @@
     "activity": "Pickleball 16+",
     "startTime": "17:30",
     "endTime": "18:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8293,8 +8356,8 @@
     "activity": "Pickleball 16+",
     "startTime": "18:40",
     "endTime": "19:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8302,8 +8365,8 @@
     "activity": "Pickleball 16+",
     "startTime": "14:00",
     "endTime": "15:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 6
   },
   {
@@ -8311,8 +8374,8 @@
     "activity": "Pickleball 50+",
     "startTime": "09:50",
     "endTime": "10:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8320,8 +8383,8 @@
     "activity": "Pickleball 50+",
     "startTime": "11:00",
     "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8329,8 +8392,8 @@
     "activity": "Pickleball 50+",
     "startTime": "12:10",
     "endTime": "13:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8338,8 +8401,8 @@
     "activity": "Pickleball 50+",
     "startTime": "13:20",
     "endTime": "14:20",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8347,8 +8410,8 @@
     "activity": "Pickleball 50+",
     "startTime": "14:30",
     "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8356,8 +8419,8 @@
     "activity": "Pickleball 50+",
     "startTime": "07:30",
     "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8365,8 +8428,8 @@
     "activity": "Pickleball 50+",
     "startTime": "09:50",
     "endTime": "10:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8374,8 +8437,8 @@
     "activity": "Pickleball 50+",
     "startTime": "11:00",
     "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8383,8 +8446,8 @@
     "activity": "Pickleball 50+",
     "startTime": "12:10",
     "endTime": "13:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8392,8 +8455,8 @@
     "activity": "Pickleball 50+",
     "startTime": "09:50",
     "endTime": "10:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8401,8 +8464,8 @@
     "activity": "Pickleball 50+",
     "startTime": "11:00",
     "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8410,8 +8473,8 @@
     "activity": "Pickleball 50+",
     "startTime": "12:10",
     "endTime": "13:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8419,8 +8482,8 @@
     "activity": "Pickleball 50+",
     "startTime": "13:20",
     "endTime": "14:20",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8428,8 +8491,8 @@
     "activity": "Pickleball 50+",
     "startTime": "14:30",
     "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8437,8 +8500,8 @@
     "activity": "Pickleball 50+",
     "startTime": "09:50",
     "endTime": "10:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8446,8 +8509,8 @@
     "activity": "Pickleball 50+",
     "startTime": "11:00",
     "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8455,8 +8518,8 @@
     "activity": "Pickleball 50+",
     "startTime": "12:10",
     "endTime": "13:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8464,8 +8527,8 @@
     "activity": "Pickleball 50+",
     "startTime": "07:30",
     "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8473,8 +8536,8 @@
     "activity": "Pickleball 50+",
     "startTime": "08:40",
     "endTime": "09:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8482,8 +8545,8 @@
     "activity": "Pickleball 50+",
     "startTime": "09:50",
     "endTime": "10:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8491,8 +8554,8 @@
     "activity": "Pickleball 50+",
     "startTime": "11:00",
     "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8500,8 +8563,8 @@
     "activity": "Pickleball 50+",
     "startTime": "12:10",
     "endTime": "13:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8509,8 +8572,8 @@
     "activity": "Pickleball family - parent with child",
     "startTime": "12:50",
     "endTime": "13:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
   },
   {
@@ -8518,8 +8581,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "07:30",
     "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8527,8 +8590,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "08:40",
     "endTime": "09:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8536,8 +8599,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "19:50",
     "endTime": "20:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8545,8 +8608,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "13:20",
     "endTime": "14:20",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8554,8 +8617,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "14:30",
     "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8563,8 +8626,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "07:30",
     "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8572,8 +8635,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "08:40",
     "endTime": "09:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
   },
   {
@@ -8581,8 +8644,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "07:30",
     "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8590,8 +8653,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "08:40",
     "endTime": "09:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8599,8 +8662,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "14:30",
     "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8608,8 +8671,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "13:20",
     "endTime": "14:20",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8617,8 +8680,8 @@
     "activity": "Pickleball - intermediate",
     "startTime": "14:30",
     "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8626,8 +8689,8 @@
     "activity": "Basketball 12+",
     "startTime": "16:00",
     "endTime": "17:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
   },
   {
@@ -8635,8 +8698,8 @@
     "activity": "Basketball 12+",
     "startTime": "16:00",
     "endTime": "17:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8644,8 +8707,8 @@
     "activity": "Basketball 12+",
     "startTime": "17:10",
     "endTime": "18:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
   },
   {
@@ -8653,8 +8716,8 @@
     "activity": "Basketball 12+",
     "startTime": "16:00",
     "endTime": "17:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8662,8 +8725,8 @@
     "activity": "Basketball 12+",
     "startTime": "17:10",
     "endTime": "18:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8671,8 +8734,8 @@
     "activity": "Basketball 12+",
     "startTime": "16:00",
     "endTime": "17:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8680,8 +8743,8 @@
     "activity": "Basketball 12+",
     "startTime": "17:10",
     "endTime": "18:10",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8689,8 +8752,8 @@
     "activity": "Basketball 12+",
     "startTime": "18:20",
     "endTime": "19:20",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8698,8 +8761,8 @@
     "activity": "Basketball 12+",
     "startTime": "12:40",
     "endTime": "13:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 6
   },
   {
@@ -8707,8 +8770,8 @@
     "activity": "Basketball 16+",
     "startTime": "19:45",
     "endTime": "20:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
   },
   {
@@ -8716,8 +8779,8 @@
     "activity": "Basketball Family - parent with child",
     "startTime": "15:20",
     "endTime": "16:20",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 6
   },
   {
@@ -8725,8 +8788,8 @@
     "activity": "Basketball Family - parent with child",
     "startTime": "16:30",
     "endTime": "17:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 6
   },
   {
@@ -8734,8 +8797,8 @@
     "activity": "Volleyball 16+",
     "startTime": "18:40",
     "endTime": "19:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8743,8 +8806,8 @@
     "activity": "Volleyball 16+",
     "startTime": "19:50",
     "endTime": "20:50",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
   },
   {
@@ -8752,8 +8815,8 @@
     "activity": "Rock Climbing 5+",
     "startTime": "12:40",
     "endTime": "13:40",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-06-21",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
     "dayOfWeek": 6
   },
   {
@@ -19387,168 +19450,6 @@
   },
   {
     "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "17:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "08:45",
-    "endTime": "09:45",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Zumba Toning",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Zumba Toning",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-03",
-    "periodEndDate": "2025-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
     "activity": "Lane swim",
     "startTime": "07:00",
     "endTime": "09:00",
@@ -20119,6 +20020,168 @@
     "activity": "Aqua - general",
     "startTime": "17:00",
     "endTime": "18:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "17:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "08:45",
+    "endTime": "09:45",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba Toning",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba Toning",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2025-01-03",
+    "periodEndDate": "2025-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
     "periodStartDate": "2025-01-03",
     "periodEndDate": "2025-04-19",
     "dayOfWeek": 1
@@ -22132,888 +22195,6 @@
   },
   {
     "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "22:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "22:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "22:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "22:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-01",
-    "periodEndDate": "2025-12-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Bootcamp",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Bootcamp",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Cardio and strength",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Cardio and strength",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Cardio 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "HIIT",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Indoor cycling",
-    "startTime": "06:30",
-    "endTime": "07:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Indoor cycling",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pilates",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pilates",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "TRX",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba Gold",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba Gold",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba Toning",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - adult",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - all ages",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - all ages",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - all ages",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - all ages",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - all ages",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - all ages",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton doubles - all ages",
-    "startTime": "12:45",
-    "endTime": "13:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton - family",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Badminton - family",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pickleball - rotations (intermediate)",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Table Tennis - adult",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Table Tennis - adult",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Table Tennis doubles - adult",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Table Tennis doubles - adult",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "17:45",
-    "endTime": "18:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2025-01-05",
-    "periodEndDate": "2025-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Reduced lane swim",
     "startTime": "06:15",
     "endTime": "08:30",
@@ -23560,6 +22741,888 @@
     "periodStartDate": "2025-01-05",
     "periodEndDate": "2025-03-15",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "22:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "22:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "22:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "22:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-01-01",
+    "periodEndDate": "2025-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "HIIT",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "06:30",
+    "endTime": "07:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "TRX",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Toning",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2025-01-05",
+    "periodEndDate": "2025-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - adult",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - all ages",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - all ages",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - all ages",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - all ages",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - all ages",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - all ages",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton doubles - all ages",
+    "startTime": "12:45",
+    "endTime": "13:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton - family",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Badminton - family",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pickleball - rotations (intermediate)",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Table Tennis - adult",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Table Tennis - adult",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Table Tennis doubles - adult",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Table Tennis doubles - adult",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "17:45",
+    "endTime": "18:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
   },
   {
     "facility": "Richelieu Vanier Community Centre",
