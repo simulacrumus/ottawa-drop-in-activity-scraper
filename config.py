@@ -12,14 +12,16 @@
 import os
 import logging
 from deepseek import DeepSeekClient
+from open_ai import OpenAIClient
 
 # KEYS
 UPLOAD_API_KEY=os.environ.get("UPLOAD_API_KEY")
 UPLOAD_API_URL=os.environ.get("UPLOAD_API_URL")
 DEEPSEEK_API_KEY=os.environ.get("DEEPSEEK_API_KEY")
+OPEN_AI_API_KEY=os.environ.get("OPEN_AI_API_KEY")
 
 # LLM
-LLM_API_CLIENT=DeepSeekClient( api_key = DEEPSEEK_API_KEY )
+LLM_API_CLIENT=OpenAIClient( api_key = OPEN_AI_API_KEY )
 
 # URLS
 FACILITIES_LIST_URL='https://ottawa.ca/en/recreation-and-parks/recreation-facilities/place-listing'

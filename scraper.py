@@ -251,8 +251,7 @@ class Scraper:
                                 - day_of_week: number (1=Monday, 2=Tuesday, ..., 7=Sunday)
 
                                 Rules:
-                                - Use {datetime.datetime.now().year} for missing years
-                                - Use {datetime.datetime.now().year + 1} if the period_end_date is before period_start_date
+                                - The current year is {datetime.datetime.now().year}
                                 - Use null for unclear values
                                 - Convert day names to numbers (Monday=1, Sunday=7)
                                 - Return only valid JSON array, no explanations
