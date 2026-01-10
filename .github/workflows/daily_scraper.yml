@@ -16,6 +16,7 @@ jobs:
       UPLOAD_API_KEY: ${{ secrets.UPLOAD_API_KEY }}
       UPLOAD_API_URL: ${{ secrets.UPLOAD_API_URL }}
       DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      OPEN_AI_API_KEY: ${{ secrets.OPEN_AI_API_KEY }}
 
     steps:
       - name: Checkout repo
