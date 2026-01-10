@@ -37,24 +37,6 @@
   },
   {
     "facility": "Bernard Grandmaître Arena",
-    "activity": "Family skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-01-01",
-    "periodEndDate": "2026-03-27",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bernard Grandmaître Arena",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-01-01",
-    "periodEndDate": "2026-03-27",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bernard Grandmaître Arena",
     "activity": "Stick and puck - preschool and child (3 to 12 years)",
     "startTime": "15:00",
     "endTime": "15:50",
@@ -70,6 +52,24 @@
     "periodStartDate": "2026-01-01",
     "periodEndDate": "2026-03-27",
     "dayOfWeek": 1
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Family skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-01-01",
+    "periodEndDate": "2026-03-27",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-01-01",
+    "periodEndDate": "2026-03-27",
+    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -4312,132 +4312,6 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ skate",
-    "startTime": "10:00",
-    "endTime": "10:50",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ skate",
-    "startTime": "10:15",
-    "endTime": "11:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Pick-up hockey 35+",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Pick-up hockey 35+",
-    "startTime": "12:15",
-    "endTime": "13:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "11:00",
-    "endTime": "11:50",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "16:15",
-    "endTime": "17:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "13:15",
-    "endTime": "14:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "18:15",
-    "endTime": "19:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "14:15",
-    "endTime": "15:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "17:15",
-    "endTime": "18:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "19:15",
-    "endTime": "20:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "15:15",
-    "endTime": "16:05",
-    "periodStartDate": "2025-09-01",
-    "periodEndDate": "2026-03-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Kinderplay",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-01-11",
-    "periodEndDate": "2026-03-08",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Kinderplay",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-01-11",
-    "periodEndDate": "2026-03-08",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "Badminton - 16+",
     "startTime": "19:45",
     "endTime": "21:45",
@@ -4653,67 +4527,130 @@
     "dayOfWeek": 4
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-01-11",
+    "periodEndDate": "2026-03-08",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-01-11",
+    "periodEndDate": "2026-03-08",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ skate",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 1
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ skate",
+    "startTime": "10:15",
+    "endTime": "11:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 4
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-up hockey 35+",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-up hockey 35+",
+    "startTime": "12:15",
+    "endTime": "13:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "16:15",
+    "endTime": "17:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "13:15",
+    "endTime": "14:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "18:15",
+    "endTime": "19:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 5
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "14:15",
+    "endTime": "15:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
     "dayOfWeek": 6
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "15:15",
+    "endTime": "16:05",
+    "periodStartDate": "2025-09-01",
+    "periodEndDate": "2026-03-28",
+    "dayOfWeek": 6
   },
   {
     "facility": "Champagne Fitness Centre",
@@ -4782,6 +4719,69 @@
     "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "10:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
     "endTime": "14:00",
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-15",
@@ -7012,6 +7012,285 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
+    "activity": "Cardio and strength 50+",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Cardio and strength 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Kickboxing",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Kickboxing",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates 50+",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "08:15",
+    "endTime": "09:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga 50 +",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga 50 +",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC 50+",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba Gold 50 +",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
     "activity": "Badminton 16 +",
     "startTime": "18:40",
     "endTime": "19:40",
@@ -7531,285 +7810,6 @@
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Cardio and strength 50+",
-    "startTime": "13:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Cardio and strength 50+",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Kickboxing",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Kickboxing",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "16:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates 50+",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "08:15",
-    "endTime": "09:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga 50 +",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga 50 +",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC 50+",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC 50+",
-    "startTime": "13:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba Gold 50 +",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
   },
   {
     "facility": "Fred Barrett Arena",
@@ -8488,15 +8488,6 @@
   },
   {
     "facility": "J.A. Dulude Arena",
-    "activity": "Figure skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2025-09-08",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "J.A. Dulude Arena",
     "activity": "Public skating",
     "startTime": "11:00",
     "endTime": "11:50",
@@ -8611,6 +8602,15 @@
     "periodStartDate": "2025-09-08",
     "periodEndDate": "2026-03-29",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "J.A. Dulude Arena",
+    "activity": "Figure skating",
+    "startTime": "19:00",
+    "endTime": "19:50",
+    "periodStartDate": "2025-09-08",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 4
   },
   {
     "facility": "Jack Charron Arena",
@@ -10027,6 +10027,33 @@
   },
   {
     "facility": "Lois Kemp Arena (Blackburn)",
+    "activity": "Stick and puck - youth and adult (ages 13+)",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lois Kemp Arena (Blackburn)",
+    "activity": "Hockey - child (ages 6 to 12)",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Lois Kemp Arena (Blackburn)",
+    "activity": "Hockey - child (ages 6 to 12)",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2025-11-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Lois Kemp Arena (Blackburn)",
     "activity": "Public skating",
     "startTime": "15:00",
     "endTime": "15:50",
@@ -10077,141 +10104,6 @@
     "endTime": "15:50",
     "periodStartDate": "2025-11-03",
     "periodEndDate": "2026-03-29",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lois Kemp Arena (Blackburn)",
-    "activity": "Stick and puck - youth and adult (ages 13+)",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lois Kemp Arena (Blackburn)",
-    "activity": "Hockey - child (ages 6 to 12)",
-    "startTime": "15:00",
-    "endTime": "15:50",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Lois Kemp Arena (Blackburn)",
-    "activity": "Hockey - child (ages 6 to 12)",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2025-11-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "12:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "19:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "16:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym - family",
-    "startTime": "10:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "17:45",
-    "endTime": "19:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "08:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "12:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
     "dayOfWeek": 7
   },
   {
@@ -10483,6 +10375,114 @@
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-15",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Basketball",
+    "startTime": "12:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "16:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym - family",
+    "startTime": "10:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "17:45",
+    "endTime": "19:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
   },
   {
     "facility": "Manotick Community Centre and Mike O’Neil Arena",
@@ -12403,6 +12403,429 @@
   },
   {
     "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 25m pool",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 25m pool",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 25m pool",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m long course",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m long course",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m long course",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m long course",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m long course",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m short course",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m short course",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m short course",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m short course",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m short course",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m short course",
+    "startTime": "11:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Lane swim - 50m short course",
+    "startTime": "11:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Public swim - 25m pool",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Public swim - 25m pool",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Public swim - 25m pool",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Public swim - 25m pool",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Public swim - 25m pool",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Public swim - 25m pool",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Preschool swim - 25m pool",
+    "startTime": "09:45",
+    "endTime": "10:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua general",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua general",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua general",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua general",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua general",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua lite - 25m pool shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua lite - 25m pool shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua lite - 25m pool shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua lite - 25m pool shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Aqua lite - 25m pool shallow",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "08:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "11:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Whirlpool",
+    "startTime": "11:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
     "activity": "Weight and cardio room",
     "startTime": "07:00",
     "endTime": "22:00",
@@ -13300,429 +13723,6 @@
     "periodStartDate": "2025-11-21",
     "periodEndDate": "2026-03-20",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 25m pool",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 25m pool",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 25m pool",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m long course",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m long course",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m long course",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m long course",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m long course",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m short course",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m short course",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m short course",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m short course",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m short course",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m short course",
-    "startTime": "11:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Lane swim - 50m short course",
-    "startTime": "11:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Public swim - 25m pool",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Public swim - 25m pool",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Public swim - 25m pool",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Public swim - 25m pool",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Public swim - 25m pool",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Public swim - 25m pool",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Preschool swim - 25m pool",
-    "startTime": "09:45",
-    "endTime": "10:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua general",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua general",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua general",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua general",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua general",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua lite - 25m pool shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua lite - 25m pool shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua lite - 25m pool shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua lite - 25m pool shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Aqua lite - 25m pool shallow",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "08:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "11:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Whirlpool",
-    "startTime": "11:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
   },
   {
     "facility": "Osgoode Community Centre and Stuart Holmes Arena",
@@ -19828,105 +19828,6 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public skating",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public skating",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public skating",
-    "startTime": "15:00",
-    "endTime": "15:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Adult skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Adult skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Adult skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Adult skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Family skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "18+ Pick-up hockey",
-    "startTime": "14:30",
-    "endTime": "15:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "18+ Pick-up hockey",
-    "startTime": "14:30",
-    "endTime": "15:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-13",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
     "activity": "Basketball - adult",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -20185,6 +20086,105 @@
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-13",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Family skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "18+ Pick-up hockey",
+    "startTime": "14:30",
+    "endTime": "15:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "18+ Pick-up hockey",
+    "startTime": "14:30",
+    "endTime": "15:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-13",
+    "dayOfWeek": 4
   },
   {
     "facility": "Tom Brown Arena",
