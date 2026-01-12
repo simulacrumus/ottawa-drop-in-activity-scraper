@@ -1,23 +1,5 @@
 [
   {
-    "activit y": "Lane swim",
-    "start_time": "18:30",
-    "end_time": "20:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-01-23",
-    "day_of_week": 5,
-    "facility": "Canterbury Recreation Complex"
-  },
-  {
-    " activity": "Preschool swim",
-    "start_time": "10:30",
-    "end_time": "11:30",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
     " activity": "Family hockey",
     "start_time": "10:00",
     "end_time": "12:00",
@@ -27,40 +9,22 @@
     "facility": "Jim Tubman Chevrolet Rink"
   },
   {
-    "activity": "Lane swim - reduced capacity",
-    "start_time": "n/a",
-    "end_time": "n/a",
+    "activity": "Redacted",
+    "start_time": "",
+    "end_time": "",
     "period_start_date": "2026-01-03",
     "period_end_date": "2026-04-19",
     "day_of_week": 6,
     "facility": "Plant Recreation Centre"
   },
   {
-    "activity": "Lane swim - reduced capacity",
-    "start_time": "n/a",
-    "end_time": "n/a",
-    "period_start_date": "2026-01-03",
-    "period_end_date": "2026-04-19",
-    "day_of_week": 7,
-    "facility": "Plant Recreation Centre"
-  },
-  {
-    "activity": "Public swim - leisure pool only",
-    "start_time": "n/a",
-    "end_time": "n/a",
-    "period_start_date": "2026-01-03",
-    "period_end_date": "2026-04-19",
-    "day_of_week": 6,
-    "facility": "Plant Recreation Centre"
-  },
-  {
-    "activity": "Public swim - leisure pool only",
-    "start_time": "n/a",
-    "end_time": "n/a",
-    "period_start_date": "2026-01-03",
-    "period_end_date": "2026-04-19",
-    "day_of_week": 7,
-    "facility": "Plant Recreation Centre"
+    "activity": "Aquafit - Deep",
+    "start_time": "08:05",
+    "end_time": "",
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
   },
   {
     "activity": "Pickleball - rotations (intermediate)",
@@ -70,5 +34,23 @@
     "period_end_date": "2026-03-15",
     "day_of_week": -1,
     "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "N/A",
+    "end_time": "N/A",
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 6,
+    "facility": "Walter Baker Sports Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "N/A",
+    "end_time": "N/A",
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 7,
+    "facility": "Walter Baker Sports Centre"
   }
 ]
