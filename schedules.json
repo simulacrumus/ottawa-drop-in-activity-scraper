@@ -5663,8 +5663,8 @@
   {
     "facility": "Diane Deans Greenboro Community Centre",
     "activity": "Kinderplay",
-    "startTime": "09:30",
-    "endTime": "11:00",
+    "startTime": "09:45",
+    "endTime": "11:15",
     "periodStartDate": "2026-01-12",
     "periodEndDate": "2026-03-15",
     "dayOfWeek": 6
@@ -13636,7 +13636,7 @@
   },
   {
     "facility": "Overbrook Community Centre",
-    "activity": "Basketball - older youth",
+    "activity": "Basketball - older youth (13 to 17 years)",
     "startTime": "20:00",
     "endTime": "21:45",
     "periodStartDate": "2026-01-05",
@@ -18163,6 +18163,24 @@
   },
   {
     "facility": "Sandy Hill Arena",
+    "activity": "Figure skating",
+    "startTime": "22:00",
+    "endTime": "22:50",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-04-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Speed skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2025-09-02",
+    "periodEndDate": "2026-04-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sandy Hill Arena",
     "activity": "Public skating",
     "startTime": "17:00",
     "endTime": "17:50",
@@ -18173,20 +18191,11 @@
   {
     "facility": "Sandy Hill Arena",
     "activity": "Public skating",
-    "startTime": "21:00",
-    "endTime": "21:50",
+    "startTime": "20:00",
+    "endTime": "20:50",
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2026-04-28",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Sandy Hill Arena",
-    "activity": "Public skating",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2025-09-02",
-    "periodEndDate": "2026-04-28",
-    "dayOfWeek": 7
   },
   {
     "facility": "Sandy Hill Arena",
@@ -18216,13 +18225,22 @@
     "dayOfWeek": 7
   },
   {
-    "facility": "Sandy Hill Arena",
-    "activity": "Figure skating",
-    "startTime": "22:00",
-    "endTime": "22:50",
-    "periodStartDate": "2025-09-06",
-    "periodEndDate": "2026-04-28",
-    "dayOfWeek": 6
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
@@ -18256,15 +18274,6 @@
     "activity": "Lane swim",
     "startTime": "12:00",
     "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-15",
     "dayOfWeek": 2
@@ -18361,6 +18370,15 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Reduced lane swim",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "15:00",
@@ -18388,7 +18406,7 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Womens only swim",
+    "activity": "Women's only swim",
     "startTime": "20:30",
     "endTime": "21:30",
     "periodStartDate": "2026-01-05",
@@ -18580,24 +18598,6 @@
     "activity": "Aquafit General - shallow",
     "startTime": "10:00",
     "endTime": "11:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-15",
     "dayOfWeek": 5
