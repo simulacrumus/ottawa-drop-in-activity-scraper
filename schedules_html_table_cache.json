@@ -3915,72 +3915,6 @@
       "day_of_week": 6
     }
   ],
-  "efa7dde4a464b2fefe60168317675376": [
-    {
-      "activity": "Lane swim",
-      "start_time": "06:30",
-      "end_time": "19:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "07:00",
-      "end_time": "20:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "09:30",
-      "end_time": "18:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "07:00",
-      "end_time": "20:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "06:30",
-      "end_time": "19:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "10:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "10:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 7
-    }
-  ],
   "ed0dabf54642ec7e178adfbb94bfb291": [
     {
       "activity": "Weight and cardio room",
@@ -4035,6 +3969,96 @@
       "start_time": "09:00",
       "end_time": "14:00",
       "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 7
+    }
+  ],
+  "2fbec4a9cb4cfb4df1ea21c513be3cd9": [
+    {
+      "activity": "Lane swim",
+      "start_time": "07:30",
+      "end_time": "16:00",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "17:30",
+      "end_time": "19:30",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "07:00",
+      "end_time": "20:30",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "09:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "14:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "07:00",
+      "end_time": "20:30",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "06:30",
+      "end_time": "16:00",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "17:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-01-26",
       "period_end_date": "2026-03-15",
       "day_of_week": 7
     }
@@ -10758,7 +10782,49 @@
       "day_of_week": 3
     }
   ],
-  "229d3cb05df00e418a6000d05e0288db": [
+  "11575beae783b1a673012ff92a41b67b": [
+    {
+      "activity": "Figure skating",
+      "start_time": "10:15",
+      "end_time": "12:05",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "10:00",
+      "end_time": "10:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "09:00",
+      "end_time": "09:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 7
+    }
+  ],
+  "669b608b4c1e6b9e3c32dddb5bee84aa": [
     {
       "activity": "Pickleball",
       "start_time": "11:45",
@@ -10970,7 +11036,7 @@
     {
       "activity": "Kinderplay",
       "start_time": "09:00",
-      "end_time": "11:00",
+      "end_time": "10:45",
       "period_start_date": "2026-01-10",
       "period_end_date": "2026-03-15",
       "day_of_week": 2
@@ -11008,7 +11074,7 @@
       "day_of_week": 7
     },
     {
-      "activity": "Volleyball - adult",
+      "activity": "Volleyball adult",
       "start_time": "20:35",
       "end_time": "21:35",
       "period_start_date": "2026-01-10",
@@ -11016,7 +11082,7 @@
       "day_of_week": 1
     },
     {
-      "activity": "Volleyball - adult",
+      "activity": "Volleyball adult",
       "start_time": "18:50",
       "end_time": "19:50",
       "period_start_date": "2026-01-10",
@@ -11024,7 +11090,7 @@
       "day_of_week": 7
     },
     {
-      "activity": "Volleyball - family",
+      "activity": "Volleyball family",
       "start_time": "17:45",
       "end_time": "18:45",
       "period_start_date": "2026-01-10",
@@ -11032,7 +11098,7 @@
       "day_of_week": 7
     },
     {
-      "activity": "Basketball - adult",
+      "activity": "Basketball adult",
       "start_time": "19:20",
       "end_time": "20:20",
       "period_start_date": "2026-01-10",
@@ -11040,7 +11106,7 @@
       "day_of_week": 2
     },
     {
-      "activity": "Basketball - adult",
+      "activity": "Basketball adult",
       "start_time": "20:25",
       "end_time": "21:25",
       "period_start_date": "2026-01-10",
@@ -11048,7 +11114,7 @@
       "day_of_week": 2
     },
     {
-      "activity": "Basketball - adult",
+      "activity": "Basketball adult",
       "start_time": "07:30",
       "end_time": "08:30",
       "period_start_date": "2026-01-10",
@@ -11056,7 +11122,7 @@
       "day_of_week": 3
     },
     {
-      "activity": "Basketball - adult",
+      "activity": "Basketball adult",
       "start_time": "20:30",
       "end_time": "21:30",
       "period_start_date": "2026-01-10",
@@ -11064,54 +11130,12 @@
       "day_of_week": 4
     },
     {
-      "activity": "Open Gym - child",
+      "activity": "Open Gym - child (6 to 14 with guardian)",
       "start_time": "16:45",
       "end_time": "18:15",
       "period_start_date": "2026-01-10",
       "period_end_date": "2026-03-15",
       "day_of_week": 6
-    }
-  ],
-  "40139b3c730372ccbe2a8bfae6ba3680": [
-    {
-      "activity": "Figure skating",
-      "start_time": "10:15",
-      "end_time": "12:15",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "10:00",
-      "end_time": "10:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "17:00",
-      "end_time": "17:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "09:00",
-      "end_time": "09:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "16:00",
-      "end_time": "16:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 7
     }
   ],
   "dea7e9a3881af6655523f0e56e126094": [
