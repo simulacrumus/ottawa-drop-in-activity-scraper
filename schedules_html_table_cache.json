@@ -3915,64 +3915,6 @@
       "day_of_week": 6
     }
   ],
-  "ed0dabf54642ec7e178adfbb94bfb291": [
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "09:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "09:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "09:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 7
-    }
-  ],
   "2fbec4a9cb4cfb4df1ea21c513be3cd9": [
     {
       "activity": "Lane swim",
@@ -4059,6 +4001,64 @@
       "start_time": "10:00",
       "end_time": "14:00",
       "period_start_date": "2026-01-26",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 7
+    }
+  ],
+  "ed0dabf54642ec7e178adfbb94bfb291": [
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "09:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "09:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "09:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-01-05",
       "period_end_date": "2026-03-15",
       "day_of_week": 7
     }
@@ -10782,48 +10782,6 @@
       "day_of_week": 3
     }
   ],
-  "11575beae783b1a673012ff92a41b67b": [
-    {
-      "activity": "Figure skating",
-      "start_time": "10:15",
-      "end_time": "12:05",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "10:00",
-      "end_time": "10:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "17:00",
-      "end_time": "17:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "09:00",
-      "end_time": "09:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "16:00",
-      "end_time": "16:50",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 7
-    }
-  ],
   "669b608b4c1e6b9e3c32dddb5bee84aa": [
     {
       "activity": "Pickleball",
@@ -11136,6 +11094,48 @@
       "period_start_date": "2026-01-10",
       "period_end_date": "2026-03-15",
       "day_of_week": 6
+    }
+  ],
+  "11575beae783b1a673012ff92a41b67b": [
+    {
+      "activity": "Figure skating",
+      "start_time": "10:15",
+      "end_time": "12:05",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "10:00",
+      "end_time": "10:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "09:00",
+      "end_time": "09:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 7
     }
   ],
   "dea7e9a3881af6655523f0e56e126094": [
@@ -15433,64 +15433,6 @@
       "day_of_week": 7
     }
   ],
-  "2e0170d0f854364cb4204d4831ad2393": [
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "22:00",
-      "period_start_date": "2026-01-01",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "22:00",
-      "period_start_date": "2026-01-01",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "22:00",
-      "period_start_date": "2026-01-01",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "22:00",
-      "period_start_date": "2026-01-01",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "21:00",
-      "period_start_date": "2026-01-01",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "21:00",
-      "period_start_date": "2026-01-01",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "08:00",
-      "end_time": "20:00",
-      "period_start_date": "2026-01-01",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 7
-    }
-  ],
   "064472c27473e71b9aa0a7960de1700c": [
     {
       "activity": "Bootcamp",
@@ -16342,6 +16284,64 @@
       "period_start_date": "2026-01-05",
       "period_end_date": "2026-03-15",
       "day_of_week": 1
+    }
+  ],
+  "0a9d06e1e98eccd0561fcec06f865aee": [
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:00",
+      "end_time": "22:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 1
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:00",
+      "end_time": "22:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 2
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:00",
+      "end_time": "22:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 3
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:00",
+      "end_time": "22:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 4
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 5
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 6
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "08:00",
+      "end_time": "20:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 7
     }
   ],
   "bda5dbe68ba77324486b802261a35134": [
