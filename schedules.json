@@ -73,6 +73,33 @@
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Aqua general deep",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Aqua general deep",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Aqua general deep",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Aquafit General - Deep",
     "startTime": "08:00",
     "endTime": "09:00",
@@ -1918,15 +1945,6 @@
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "50+ skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Public skating",
     "startTime": "10:00",
     "endTime": "10:50",
@@ -1939,15 +1957,6 @@
     "activity": "Public skating",
     "startTime": "19:15",
     "endTime": "20:05",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Figure skating",
-    "startTime": "20:15",
-    "endTime": "21:05",
     "periodStartDate": "2025-09-03",
     "periodEndDate": "2026-03-29",
     "dayOfWeek": 5
@@ -1972,30 +1981,21 @@
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Aqua general deep",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 6
+    "activity": "50+ skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 3
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Aqua general deep",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Aqua general deep",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 1
+    "activity": "Figure skating",
+    "startTime": "20:15",
+    "endTime": "21:05",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 5
   },
   {
     "facility": "Brewer Pool and Arena",
@@ -2266,132 +2266,6 @@
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-14",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 1
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
@@ -3798,6 +3672,294 @@
     "dayOfWeek": 6
   },
   {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - 16+",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - 16+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - 16+",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - 16+",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - family",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pickleball - adult",
+    "startTime": "12:45",
+    "endTime": "13:45",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pickleball - adult",
+    "startTime": "13:45",
+    "endTime": "14:45",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pickleball - adult",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "14:15",
+    "endTime": "15:05",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "15:15",
+    "endTime": "16:05",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-up hockey 35+",
+    "startTime": "12:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ skate",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
     "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "07:30",
@@ -4879,15 +5041,6 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
     "activity": "Badminton - family (6+ years)",
     "startTime": "14:15",
     "endTime": "15:15",
@@ -4897,25 +5050,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family (6+ years)",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family (6+ years)",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball",
+    "activity": "Pickleball - adult (18+ years)",
     "startTime": "10:45",
     "endTime": "11:45",
     "periodStartDate": "2026-02-14",
@@ -4924,7 +5059,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball",
+    "activity": "Pickleball - adult (18+ years)",
     "startTime": "11:45",
     "endTime": "12:45",
     "periodStartDate": "2026-02-14",
@@ -4933,25 +5068,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-02-14",
-    "periodEndDate": "2026-02-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - family (6+ years)",
+    "activity": "Pickleball - family",
     "startTime": "12:45",
     "endTime": "13:45",
     "periodStartDate": "2026-02-14",
@@ -4975,6 +5092,51 @@
     "periodStartDate": "2026-02-14",
     "periodEndDate": "2026-02-16",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - adult (18+ years)",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - family (6+ years)",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - family (6+ years)",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
   },
   {
     "facility": "Eva James Memorial Community Centre",
@@ -5023,7 +5185,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family",
+    "activity": "Badminton - family (6+ years)",
     "startTime": "18:00",
     "endTime": "19:00",
     "periodStartDate": "2026-01-05",
@@ -5032,7 +5194,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family",
+    "activity": "Badminton - family (6+ years)",
     "startTime": "16:00",
     "endTime": "17:00",
     "periodStartDate": "2026-01-05",
@@ -5140,7 +5302,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - family",
+    "activity": "Pickleball - family (6+ years)",
     "startTime": "12:00",
     "endTime": "13:00",
     "periodStartDate": "2026-01-05",
@@ -5158,7 +5320,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Kinderplay",
+    "activity": "Kinderplay (1 to 5 years old)",
     "startTime": "09:30",
     "endTime": "10:30",
     "periodStartDate": "2026-01-05",
@@ -5176,7 +5338,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - youth",
+    "activity": "Open gym - youth (13 to 17 years old)",
     "startTime": "16:45",
     "endTime": "17:45",
     "periodStartDate": "2026-01-05",
@@ -5185,7 +5347,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - family",
+    "activity": "Open gym - family (6+ years)",
     "startTime": "18:20",
     "endTime": "19:20",
     "periodStartDate": "2026-01-05",
@@ -5194,7 +5356,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - family",
+    "activity": "Open gym - family (6+ years)",
     "startTime": "10:35",
     "endTime": "11:35",
     "periodStartDate": "2026-01-05",
@@ -5239,7 +5401,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family",
+    "activity": "Badminton - family (6+ years)",
     "startTime": "18:00",
     "endTime": "19:00",
     "periodStartDate": "2026-02-11",
@@ -5248,7 +5410,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family",
+    "activity": "Badminton - family (6+ years)",
     "startTime": "16:00",
     "endTime": "17:00",
     "periodStartDate": "2026-02-11",
@@ -5321,20 +5483,11 @@
   {
     "facility": "Eva James Memorial Community Centre",
     "activity": "Pickleball - adult (18+ years)",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-02-11",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
     "startTime": "09:00",
     "endTime": "10:00",
     "periodStartDate": "2026-02-11",
     "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
+    "dayOfWeek": 6
   },
   {
     "facility": "Eva James Memorial Community Centre",
@@ -5356,7 +5509,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - family",
+    "activity": "Pickleball - family (6+ years)",
     "startTime": "12:00",
     "endTime": "13:00",
     "periodStartDate": "2026-02-11",
@@ -5401,7 +5554,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - family",
+    "activity": "Open gym - family (6+ years)",
     "startTime": "18:20",
     "endTime": "19:20",
     "periodStartDate": "2026-02-11",
@@ -5410,7 +5563,7 @@
   },
   {
     "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - family",
+    "activity": "Open gym - family (6+ years)",
     "startTime": "10:35",
     "endTime": "11:35",
     "periodStartDate": "2026-02-11",
@@ -10440,6 +10593,132 @@
     "dayOfWeek": 7
   },
   {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "09:30",
+    "endTime": "12:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "09:30",
+    "endTime": "12:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "50+ Vitality",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "16:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-02-16",
+    "dayOfWeek": 1
+  },
+  {
     "facility": "Manotick Community Centre and Mike O’Neil Arena",
     "activity": "Hockey 18+",
     "startTime": "11:00",
@@ -13462,6 +13741,15 @@
     "periodStartDate": "2025-10-05",
     "periodEndDate": "2026-03-29",
     "dayOfWeek": 2
+  },
+  {
+    "facility": "Osgoode Community Centre and Stuart Holmes Arena",
+    "activity": "Kinderplay",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-02-14",
+    "periodEndDate": "2026-06-20",
+    "dayOfWeek": 6
   },
   {
     "facility": "Overbrook Community Centre",
@@ -20944,42 +21232,6 @@
   },
   {
     "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "11:30",
-    "endTime": "12:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "11:30",
-    "endTime": "12:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "16:00",
-    "endTime": "17:50",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "14:00",
-    "endTime": "15:50",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
     "activity": "Stick and puck - youth and adult",
     "startTime": "12:30",
     "endTime": "13:20",
@@ -21022,6 +21274,42 @@
     "periodStartDate": "2025-10-10",
     "periodEndDate": "2026-03-31",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "W. Erskine Johnston Arena",
+    "activity": "Public skating",
+    "startTime": "11:30",
+    "endTime": "12:20",
+    "periodStartDate": "2025-10-10",
+    "periodEndDate": "2026-03-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "W. Erskine Johnston Arena",
+    "activity": "Public skating",
+    "startTime": "11:30",
+    "endTime": "12:20",
+    "periodStartDate": "2025-10-10",
+    "periodEndDate": "2026-03-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "W. Erskine Johnston Arena",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "17:50",
+    "periodStartDate": "2025-10-10",
+    "periodEndDate": "2026-03-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "W. Erskine Johnston Arena",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "15:50",
+    "periodStartDate": "2025-10-10",
+    "periodEndDate": "2026-03-31",
+    "dayOfWeek": 7
   },
   {
     "facility": "Walter Baker Sports Centre",
