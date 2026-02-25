@@ -3619,69 +3619,6 @@
   },
   {
     "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "06:30",
     "endTime": "19:30",
@@ -3758,6 +3695,69 @@
     "startTime": "10:00",
     "endTime": "14:00",
     "periodStartDate": "2026-01-26",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-15",
     "dayOfWeek": 7
   },
@@ -6022,7 +6022,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton family - parent with child",
+    "activity": "Badminton - Parent with Child (ages 15 and under)",
     "startTime": "14:20",
     "endTime": "15:20",
     "periodStartDate": "2026-01-05",
@@ -6031,7 +6031,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton family - parent with child",
+    "activity": "Badminton - Parent with Child (ages 15 and under)",
     "startTime": "15:25",
     "endTime": "16:25",
     "periodStartDate": "2026-01-05",
@@ -6221,51 +6221,6 @@
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Pickleball 50+",
-    "startTime": "09:50",
-    "endTime": "10:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:10",
-    "endTime": "13:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:20",
-    "endTime": "14:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
     "startTime": "07:30",
     "endTime": "08:30",
     "periodStartDate": "2026-01-05",
@@ -6310,16 +6265,16 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball family - parent with child",
+    "activity": "Pickleball - Parent with Child (ages 15 and under)",
     "startTime": "12:50",
     "endTime": "13:50",
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
+    "dayOfWeek": 7
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "07:30",
     "endTime": "08:30",
     "periodStartDate": "2026-01-05",
@@ -6328,7 +6283,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "08:40",
     "endTime": "09:40",
     "periodStartDate": "2026-01-05",
@@ -6337,7 +6292,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "19:50",
     "endTime": "20:50",
     "periodStartDate": "2026-01-05",
@@ -6346,7 +6301,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "13:20",
     "endTime": "14:20",
     "periodStartDate": "2026-01-05",
@@ -6355,7 +6310,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "14:30",
     "endTime": "15:30",
     "periodStartDate": "2026-01-05",
@@ -6364,7 +6319,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "07:30",
     "endTime": "08:30",
     "periodStartDate": "2026-01-05",
@@ -6373,7 +6328,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "08:40",
     "endTime": "09:40",
     "periodStartDate": "2026-01-05",
@@ -6382,7 +6337,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "07:30",
     "endTime": "08:30",
     "periodStartDate": "2026-01-05",
@@ -6391,7 +6346,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "08:40",
     "endTime": "09:40",
     "periodStartDate": "2026-01-05",
@@ -6400,7 +6355,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "14:30",
     "endTime": "15:30",
     "periodStartDate": "2026-01-05",
@@ -6409,7 +6364,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "13:20",
     "endTime": "14:20",
     "periodStartDate": "2026-01-05",
@@ -6418,7 +6373,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - intermediate",
+    "activity": "Pickleball - Intermediate 16+",
     "startTime": "14:30",
     "endTime": "15:30",
     "periodStartDate": "2026-01-05",
@@ -6466,15 +6421,6 @@
     "activity": "Basketball 12+",
     "startTime": "17:10",
     "endTime": "18:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "18:20",
-    "endTime": "19:20",
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
@@ -6513,7 +6459,7 @@
     "endTime": "13:40",
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
+    "dayOfWeek": 6
   },
   {
     "facility": "François Dupuis Recreation Centre",
@@ -6526,7 +6472,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball Family - parent with child",
+    "activity": "Basketball - Parent with Child (ages 12 and under)",
     "startTime": "15:20",
     "endTime": "16:20",
     "periodStartDate": "2026-01-05",
@@ -6535,7 +6481,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball Family - parent with child",
+    "activity": "Basketball - Parent with Child (ages 12 and under)",
     "startTime": "16:30",
     "endTime": "17:30",
     "periodStartDate": "2026-01-05",
@@ -8282,8 +8228,8 @@
   {
     "facility": "Jim Durrell Recreation Centre",
     "activity": "Hockey - child (6 to 12 years)",
-    "startTime": "16:15",
-    "endTime": "17:05",
+    "startTime": "17:15",
+    "endTime": "18:05",
     "periodStartDate": "2025-09-15",
     "periodEndDate": "2026-04-30",
     "dayOfWeek": 1
@@ -8300,8 +8246,8 @@
   {
     "facility": "Jim Durrell Recreation Centre",
     "activity": "Stick and puck - youth and adult (13+)",
-    "startTime": "17:15",
-    "endTime": "18:05",
+    "startTime": "16:15",
+    "endTime": "17:05",
     "periodStartDate": "2025-09-15",
     "periodEndDate": "2026-04-30",
     "dayOfWeek": 1
@@ -8746,6 +8692,15 @@
     "periodStartDate": "2025-09-06",
     "periodEndDate": "2026-03-30",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Johnny Leroux Stittsville Community Arena",
+    "activity": "Stick and puck - preschool and child",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-09-09",
+    "periodEndDate": "2027-03-31",
+    "dayOfWeek": 2
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -18308,7 +18263,7 @@
   {
     "facility": "Splash Wave Pool",
     "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "12:00",
+    "startTime": "09:30",
     "endTime": "13:00",
     "periodStartDate": "2026-01-03",
     "periodEndDate": "2026-03-15",
@@ -18340,15 +18295,6 @@
     "periodStartDate": "2026-01-03",
     "periodEndDate": "2026-03-15",
     "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - warm pool only",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
   },
   {
     "facility": "Splash Wave Pool",
