@@ -1945,33 +1945,6 @@
   },
   {
     "facility": "Brewer Pool and Arena",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "20:50",
-    "periodStartDate": "2025-09-06",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public skating",
-    "startTime": "15:00",
-    "endTime": "15:50",
-    "periodStartDate": "2025-09-06",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Family skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2025-09-06",
-    "periodEndDate": "2026-03-29",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Brewer Pool and Arena",
     "activity": "Lane swim",
     "startTime": "07:30",
     "endTime": "13:00",
@@ -2184,6 +2157,33 @@
     "endTime": "14:00",
     "periodStartDate": "2026-03-02",
     "periodEndDate": "2026-03-13",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Public skating",
+    "startTime": "19:00",
+    "endTime": "20:50",
+    "periodStartDate": "2025-09-06",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Public skating",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2025-09-06",
+    "periodEndDate": "2026-03-29",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Family skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2025-09-06",
+    "periodEndDate": "2026-03-29",
     "dayOfWeek": 7
   },
   {
@@ -3700,24 +3700,6 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Kinderplay",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-01-11",
-    "periodEndDate": "2026-03-08",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Kinderplay",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-01-11",
-    "periodEndDate": "2026-03-08",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "50+ skate",
     "startTime": "10:00",
     "endTime": "10:50",
@@ -3832,6 +3814,24 @@
     "periodStartDate": "2025-09-01",
     "periodEndDate": "2026-03-28",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-01-11",
+    "periodEndDate": "2026-06-07",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-01-11",
+    "periodEndDate": "2026-06-07",
+    "dayOfWeek": 7
   },
   {
     "facility": "Champagne Fitness Centre",
@@ -4420,123 +4420,6 @@
   },
   {
     "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball - intermediate",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball - intermediate",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball - intermediate",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Pickleball - intermediate",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Badminton",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "09:45",
-    "endTime": "11:15",
-    "periodStartDate": "2026-01-12",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
     "activity": "Bootcamp",
     "startTime": "17:45",
     "endTime": "18:45",
@@ -4840,6 +4723,123 @@
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-03-15",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball - intermediate",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball - intermediate",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball - intermediate",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Pickleball - intermediate",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Badminton",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Kinderplay",
+    "startTime": "09:45",
+    "endTime": "11:15",
+    "periodStartDate": "2026-01-12",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 6
   },
   {
     "facility": "Earl Armstrong Arena",
@@ -20251,141 +20251,6 @@
   },
   {
     "facility": "Walter Baker Sports Centre",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "09:15",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Cardio and strength - older adult lite",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Cardio and strength - older adult lite",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Cardio and strength - older adult lite",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Strength TMC - older adult",
-    "startTime": "10:20",
-    "endTime": "11:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Strength and Balance - older adult",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Stretch and strength - older adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Stretch and strength - older adult",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Strength circuit - older adult",
-    "startTime": "10:20",
-    "endTime": "11:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Yoga",
-    "startTime": "10:35",
-    "endTime": "11:35",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Yoga",
-    "startTime": "10:20",
-    "endTime": "11:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Yoga",
-    "startTime": "10:20",
-    "endTime": "11:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Zumba",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-03-15",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
     "activity": "Kinderplay",
     "startTime": "10:00",
     "endTime": "11:30",
@@ -20500,5 +20365,122 @@
     "periodStartDate": "2025-09-12",
     "periodEndDate": "2026-04-05",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "09:15",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Cardio and strength - older adult lite",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Cardio and strength - older adult lite",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Cardio and strength - older adult lite",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Strength TMC - older adult",
+    "startTime": "10:20",
+    "endTime": "11:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Strength and Balance - older adult",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Strength circuit - older adult",
+    "startTime": "10:20",
+    "endTime": "11:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Yoga",
+    "startTime": "10:35",
+    "endTime": "11:35",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Yoga",
+    "startTime": "10:20",
+    "endTime": "11:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Yoga",
+    "startTime": "10:20",
+    "endTime": "11:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Zumba",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-03-15",
+    "dayOfWeek": 2
   }
 ]

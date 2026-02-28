@@ -1745,32 +1745,6 @@
       "day_of_week": 5
     }
   ],
-  "8f68f4c306de84c8f31b7985d5415d1e": [
-    {
-      "activity": "Public skating",
-      "start_time": "19:00",
-      "end_time": "20:50",
-      "period_start_date": "2025-09-06",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "15:00",
-      "end_time": "15:50",
-      "period_start_date": "2025-09-06",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "period_start_date": "2025-09-06",
-      "period_end_date": "2026-03-29",
-      "day_of_week": 7
-    }
-  ],
   "5281a652cc12dd4238887aec65d1fb9a": [
     {
       "activity": "Lane swim",
@@ -1962,6 +1936,32 @@
       "end_time": "14:00",
       "period_start_date": "2026-03-02",
       "period_end_date": "2026-03-13",
+      "day_of_week": 7
+    }
+  ],
+  "8f68f4c306de84c8f31b7985d5415d1e": [
+    {
+      "activity": "Public skating",
+      "start_time": "19:00",
+      "end_time": "20:50",
+      "period_start_date": "2025-09-06",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "15:00",
+      "end_time": "15:50",
+      "period_start_date": "2025-09-06",
+      "period_end_date": "2026-03-29",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2025-09-06",
+      "period_end_date": "2026-03-29",
       "day_of_week": 7
     }
   ],
@@ -3393,24 +3393,6 @@
       "day_of_week": 4
     }
   ],
-  "772b9d5693b32ed546ebc32f29d9054a": [
-    {
-      "activity": "Kinderplay",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-01-11",
-      "period_end_date": "2026-03-08",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "10:15",
-      "end_time": "11:15",
-      "period_start_date": "2026-01-11",
-      "period_end_date": "2026-03-08",
-      "day_of_week": 7
-    }
-  ],
   "fd7b48b7e6913a07d620e19fd204e930": [
     {
       "activity": "50+ skate",
@@ -3515,6 +3497,24 @@
       "period_start_date": "2025-09-01",
       "period_end_date": "2026-03-28",
       "day_of_week": 6
+    }
+  ],
+  "0dc4e3a36f9803e37846a1a1944f8452": [
+    {
+      "activity": "Kinderplay",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-01-11",
+      "period_end_date": "2026-06-07",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "period_start_date": "2026-01-11",
+      "period_end_date": "2026-06-07",
+      "day_of_week": 7
     }
   ],
   "295b08ec6cc39b217433a958a94c45ab": [
@@ -4049,112 +4049,6 @@
       "day_of_week": 7
     }
   ],
-  "d2fac0c3c71b1f3f0b466b38db980ab7": [
-    {
-      "activity": "Pickleball",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Pickleball",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Pickleball",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pickleball",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pickleball",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Pickleball - intermediate",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Pickleball - intermediate",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Pickleball - intermediate",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pickleball - intermediate",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "09:45",
-      "end_time": "11:15",
-      "period_start_date": "2026-01-12",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 6
-    }
-  ],
   "b5e5f004157eff9a8276b1e1f9c1d7a1": [
     {
       "activity": "Bootcamp",
@@ -4427,6 +4321,112 @@
       "period_start_date": "2026-01-05",
       "period_end_date": "2026-03-15",
       "day_of_week": 3
+    }
+  ],
+  "d2fac0c3c71b1f3f0b466b38db980ab7": [
+    {
+      "activity": "Pickleball",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Pickleball",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Pickleball",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pickleball",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pickleball",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Pickleball - intermediate",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Pickleball - intermediate",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Pickleball - intermediate",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pickleball - intermediate",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "09:45",
+      "end_time": "11:15",
+      "period_start_date": "2026-01-12",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 6
     }
   ],
   "bda8a9d6b690f239e464e4eded503e79": [
@@ -18362,128 +18362,6 @@
       "day_of_week": 7
     }
   ],
-  "97fc05404bb56abb37e4c4118a4bd2a8": [
-    {
-      "activity": "Cardio and strength - older adult",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Cardio and strength - older adult",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Cardio and strength - older adult",
-      "start_time": "09:15",
-      "end_time": "10:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Cardio and strength - older adult lite",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Cardio and strength - older adult lite",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Cardio and strength - older adult lite",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Strength TMC - older adult",
-      "start_time": "10:20",
-      "end_time": "11:20",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Strength and Balance - older adult",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Stretch and strength - older adult",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Stretch and strength - older adult",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Strength circuit - older adult",
-      "start_time": "10:20",
-      "end_time": "11:20",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "10:35",
-      "end_time": "11:35",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "10:20",
-      "end_time": "11:20",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "10:20",
-      "end_time": "11:20",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-01-05",
-      "period_end_date": "2026-03-15",
-      "day_of_week": 2
-    }
-  ],
   "9d9789134cdfa1a5d6dc6466ba5765f6": [
     {
       "activity": "Kinderplay",
@@ -18592,6 +18470,112 @@
       "period_start_date": "2025-09-12",
       "period_end_date": "2026-04-05",
       "day_of_week": 7
+    }
+  ],
+  "8bd0c401795948846feba7f4123a49cf": [
+    {
+      "activity": "Cardio and strength - older adult",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Cardio and strength - older adult",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Cardio and strength - older adult",
+      "start_time": "09:15",
+      "end_time": "10:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Cardio and strength - older adult lite",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Cardio and strength - older adult lite",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Cardio and strength - older adult lite",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Strength TMC - older adult",
+      "start_time": "10:20",
+      "end_time": "11:20",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Strength and Balance - older adult",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Strength circuit - older adult",
+      "start_time": "10:20",
+      "end_time": "11:20",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "10:35",
+      "end_time": "11:35",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "10:20",
+      "end_time": "11:20",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "10:20",
+      "end_time": "11:20",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-01-05",
+      "period_end_date": "2026-03-15",
+      "day_of_week": 2
     }
   ]
 }
