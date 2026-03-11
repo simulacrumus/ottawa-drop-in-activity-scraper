@@ -72,12 +72,138 @@
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
-    "activity": "Preschool swim",
-    "start_time": "10:30",
-    "end_time": "13:00",
+    "activity": "Aquafit General - Deep",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit Lite - warm pool ",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit Lite - warm pool ",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit Lite - warm pool ",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit Lite - warm pool ",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-02-02",
+    "period_end_date": "2026-04-02",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-03-14",
+    "period_end_date": "2026-03-20",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-03-14",
+    "period_end_date": "2026-03-20",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit general - shallow",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-03-16",
+    "period_end_date": "2026-03-22",
+    "day_of_week": 6,
+    "facility": "Splash Wave Pool"
+  },
+  {
+    "activity": "Aquafit general - shallow",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-03-16",
+    "period_end_date": "2026-03-22",
+    "day_of_week": 7,
+    "facility": "Splash Wave Pool"
+  },
+  {
+    "activity": "Aquafit general - deep",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-03-16",
+    "period_end_date": "2026-03-22",
+    "day_of_week": 6,
+    "facility": "Splash Wave Pool"
+  },
+  {
+    "activity": "Aquafit general - deep",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-03-16",
+    "period_end_date": "2026-03-22",
+    "day_of_week": 7,
+    "facility": "Splash Wave Pool"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "n/a",
+    "end_time": "n/a",
     "period_start_date": "2026-03-14",
     "period_end_date": "2026-03-22",
-    "day_of_week": 8,
+    "day_of_week": 7,
     "facility": "Walter Baker Sports Centre"
   }
 ]
