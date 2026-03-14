@@ -1,78 +1,6 @@
 [
   {
     "activity": "50+ swim",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 6,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "50+ swim",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 7,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Public swim with no slide",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Public swim with no slide",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Public swim with no slide",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 6,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Public swim with no slide",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 7,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Aquafit General - Shallow/deep combo",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 6,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Aquafit General - Shallow/deep combo",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-03-15",
-    "day_of_week": 7,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "50+ swim",
     "start_time": "n/a",
     "end_time": "n/a",
     "period_start_date": "2026-03-16",
@@ -114,6 +42,78 @@
     "period_start_date": "2026-03-16",
     "period_end_date": "2026-03-22",
     "day_of_week": 5,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "50+ swim",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 6,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "50+ swim",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 7,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Public swim with no slide",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 2,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Public swim with no slide",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 4,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Public swim with no slide",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 6,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Public swim with no slide",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 7,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Aquafit General - Shallow/deep combo",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 6,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Aquafit General - Shallow/deep combo",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-01-05",
+    "period_end_date": "2026-03-15",
+    "day_of_week": 7,
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
@@ -205,42 +205,6 @@
     "period_end_date": "2026-04-02",
     "day_of_week": 6,
     "facility": "François Dupuis Recreation Centre"
-  },
-  {
-    "activity": "Aquafit general - shallow",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-03-16",
-    "period_end_date": "2026-03-22",
-    "day_of_week": 6,
-    "facility": "Splash Wave Pool"
-  },
-  {
-    "activity": "Aquafit general - shallow",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-03-16",
-    "period_end_date": "2026-03-22",
-    "day_of_week": 7,
-    "facility": "Splash Wave Pool"
-  },
-  {
-    "activity": "Aquafit general - deep",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-03-16",
-    "period_end_date": "2026-03-22",
-    "day_of_week": 6,
-    "facility": "Splash Wave Pool"
-  },
-  {
-    "activity": "Aquafit general - deep",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-03-16",
-    "period_end_date": "2026-03-22",
-    "day_of_week": 7,
-    "facility": "Splash Wave Pool"
   },
   {
     "activity": "Aquafit General - Shallow",
