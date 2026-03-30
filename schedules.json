@@ -24563,24 +24563,6 @@
   {
     "facility": "Sandy Hill Arena",
     "activity": "Public skating",
-    "startTime": "18:00",
-    "endTime": "18:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sandy Hill Arena",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sandy Hill Arena",
-    "activity": "Public skating",
     "startTime": "17:00",
     "endTime": "17:50",
     "periodStartDate": "2025-09-02",
@@ -24640,6 +24622,78 @@
     "periodStartDate": "2025-09-02",
     "periodEndDate": "2026-04-28",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Figure skating",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Figure skating",
+    "startTime": "20:00",
+    "endTime": "20:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Adult skating (18+)",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Adult skating (18+)",
+    "startTime": "21:00",
+    "endTime": "21:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Public skating",
+    "startTime": "18:00",
+    "endTime": "18:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Family skating",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sandy Hill Arena",
+    "activity": "Family skating",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-05-01",
+    "periodEndDate": "2026-05-30",
+    "dayOfWeek": 6
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
@@ -26867,114 +26921,6 @@
   {
     "facility": "Tom Brown Arena",
     "activity": "Public skating",
-    "startTime": "18:00",
-    "endTime": "18:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "18:00",
-    "endTime": "18:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "18:00",
-    "endTime": "18:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "18:00",
-    "endTime": "18:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "18:00",
-    "endTime": "18:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2026-03-16",
-    "periodEndDate": "2026-03-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Figure skating",
-    "startTime": "20:00",
-    "endTime": "20:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-04-29",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Hockey 18+",
-    "startTime": "11:00",
-    "endTime": "11:50",
-    "periodStartDate": "2025-09-03",
-    "periodEndDate": "2026-04-29",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Tom Brown Arena",
-    "activity": "Public skating",
     "startTime": "10:00",
     "endTime": "10:50",
     "periodStartDate": "2025-09-03",
@@ -27016,6 +26962,60 @@
     "periodStartDate": "2025-09-03",
     "periodEndDate": "2026-04-29",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Tom Brown Arena",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-05-08",
+    "periodEndDate": "2026-06-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Tom Brown Arena",
+    "activity": "Figure skating",
+    "startTime": "20:00",
+    "endTime": "20:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-04-29",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Tom Brown Arena",
+    "activity": "Hockey 18+",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2025-09-03",
+    "periodEndDate": "2026-04-29",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Tom Brown Arena",
+    "activity": "Child hockey",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-05-08",
+    "periodEndDate": "2026-07-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Tom Brown Arena",
+    "activity": "Hockey 18+",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-05-08",
+    "periodEndDate": "2026-07-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Tom Brown Arena",
+    "activity": "Hockey 18+",
+    "startTime": "18:00",
+    "endTime": "18:50",
+    "periodStartDate": "2026-05-08",
+    "periodEndDate": "2026-07-30",
+    "dayOfWeek": 4
   },
   {
     "facility": "Tony Graham Recreation Complex – Kanata",

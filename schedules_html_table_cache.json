@@ -22176,24 +22176,6 @@
       "day_of_week": 6
     }
   ],
-  "cf9d640559f4d0f26a472437274a3ed3": [
-    {
-      "activity": "Public skating",
-      "start_time": "18:00",
-      "end_time": "18:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "19:00",
-      "end_time": "19:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 5
-    }
-  ],
   "f1eaa1d7a842be7cca91f7f28dfc63fe": [
     {
       "activity": "Public skating",
@@ -22252,6 +22234,74 @@
       "period_start_date": "2025-09-02",
       "period_end_date": "2026-04-28",
       "day_of_week": 7
+    }
+  ],
+  "92b0e44ed89e225c2dbdc23f65020b50": [
+    {
+      "activity": "Figure skating",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Figure skating",
+      "start_time": "20:00",
+      "end_time": "20:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 2
+    }
+  ],
+  "547a2bab1bad0bf0a4fab33b534413d7": [
+    {
+      "activity": "Adult skating (18+)",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Adult skating (18+)",
+      "start_time": "21:00",
+      "end_time": "21:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "18:00",
+      "end_time": "18:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "15:00",
+      "end_time": "15:50",
+      "period_start_date": "2026-05-01",
+      "period_end_date": "2026-05-30",
+      "day_of_week": 6
     }
   ],
   "5daff043b3d50db15920de5ab522a00e": [
@@ -24254,106 +24304,6 @@
       "day_of_week": 4
     }
   ],
-  "02af1629c45d8bb928aed26983ef7a26": [
-    {
-      "activity": "Public skating",
-      "start_time": "18:00",
-      "end_time": "18:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "19:00",
-      "end_time": "19:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "18:00",
-      "end_time": "18:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "19:00",
-      "end_time": "19:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "18:00",
-      "end_time": "18:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "19:00",
-      "end_time": "19:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "18:00",
-      "end_time": "18:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "19:00",
-      "end_time": "19:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "18:00",
-      "end_time": "18:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "19:00",
-      "end_time": "19:50",
-      "period_start_date": "2026-03-16",
-      "period_end_date": "2026-03-20",
-      "day_of_week": 5
-    }
-  ],
-  "0d4aa9a8aecfd9161a0196db4e32ff79": [
-    {
-      "activity": "Figure skating",
-      "start_time": "20:00",
-      "end_time": "20:50",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-04-29",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Hockey 18+",
-      "start_time": "11:00",
-      "end_time": "11:50",
-      "period_start_date": "2025-09-03",
-      "period_end_date": "2026-04-29",
-      "day_of_week": 4
-    }
-  ],
   "cd474db835dbd3016ada8dc514e56a1e": [
     {
       "activity": "Public skating",
@@ -24394,6 +24344,60 @@
       "period_start_date": "2025-09-03",
       "period_end_date": "2026-04-29",
       "day_of_week": 3
+    }
+  ],
+  "f0f6765839153f5538e25cea794710e9": [
+    {
+      "activity": "Public skating",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-05-08",
+      "period_end_date": "2026-06-30",
+      "day_of_week": 5
+    }
+  ],
+  "e63782a20318729aa79e5d8ffad55660": [
+    {
+      "activity": "Figure skating",
+      "start_time": "20:00",
+      "end_time": "20:50",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-04-29",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Hockey 18+",
+      "start_time": "11:00",
+      "end_time": "11:50",
+      "period_start_date": "2025-09-03",
+      "period_end_date": "2026-04-29",
+      "day_of_week": 4
+    }
+  ],
+  "3410cbf89f0d54553a9807b40bba7977": [
+    {
+      "activity": "Child hockey",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "period_start_date": "2026-05-08",
+      "period_end_date": "2026-07-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Hockey 18+",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "period_start_date": "2026-05-08",
+      "period_end_date": "2026-07-30",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Hockey 18+",
+      "start_time": "18:00",
+      "end_time": "18:50",
+      "period_start_date": "2026-05-08",
+      "period_end_date": "2026-07-30",
+      "day_of_week": 4
     }
   ],
   "d962bd9a2adf22831d5ba31ead1516ed": [
