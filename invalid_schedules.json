@@ -37,8 +37,8 @@
   },
   {
     "activity": "Public swim - leisure pool only",
-    "start_time": "N/A",
-    "end_time": "N/A",
+    "start_time": "n/a",
+    "end_time": "n/a",
     "period_start_date": "2026-01-03",
     "period_end_date": "2026-04-19",
     "day_of_week": 6,
@@ -46,20 +46,11 @@
   },
   {
     "activity": "Public swim - leisure pool only",
-    "start_time": "N/A",
-    "end_time": "N/A",
+    "start_time": "n/a",
+    "end_time": "n/a",
     "period_start_date": "2026-01-03",
     "period_end_date": "2026-04-19",
     "day_of_week": 7,
-    "facility": "Plant Recreation Centre"
-  },
-  {
-    "activity": "Hot tub and steam room",
-    "start_time": "Noon",
-    "end_time": "16:00",
-    "period_start_date": "2026-01-03",
-    "period_end_date": "2026-04-19",
-    "day_of_week": 5,
     "facility": "Plant Recreation Centre"
   }
 ]
