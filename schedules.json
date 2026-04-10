@@ -9045,13 +9045,22 @@
     "dayOfWeek": 4
   },
   {
-    "facility": "Johnny Leroux Stittsville Community Arena",
-    "activity": "Stick and puck - preschool and child",
-    "startTime": "15:00",
-    "endTime": "15:50",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2027-03-31",
-    "dayOfWeek": 2
+    "facility": "John G. Mlacak Centre",
+    "activity": "Family skate",
+    "startTime": "18:00",
+    "endTime": "18:50",
+    "periodStartDate": null,
+    "periodEndDate": "2026-04-25",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "John G. Mlacak Centre",
+    "activity": "Public skate",
+    "startTime": "19:00",
+    "endTime": "19:50",
+    "periodStartDate": null,
+    "periodEndDate": "2026-04-25",
+    "dayOfWeek": 7
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -13095,6 +13104,51 @@
     "dayOfWeek": 6
   },
   {
+    "facility": "Pat Clark Community Centre",
+    "activity": "Kindergym",
+    "startTime": "18:00",
+    "endTime": "18:50",
+    "periodStartDate": "2026-04-15",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pat Clark Community Centre",
+    "activity": "Basketball - youth (ages 13+)",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-04-15",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pat Clark Community Centre",
+    "activity": "Basketball - adult (ages 18+)",
+    "startTime": "20:15",
+    "endTime": "21:15",
+    "periodStartDate": "2026-04-15",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pat Clark Community Centre",
+    "activity": "Basketball - adult (ages 18+)",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-04-15",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pat Clark Community Centre",
+    "activity": "Open gym - family",
+    "startTime": "12:45",
+    "endTime": "13:45",
+    "periodStartDate": "2026-04-15",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
     "facility": "Pinecrest Recreation Complex",
     "activity": "Public Swim",
     "startTime": "11:30",
@@ -13825,168 +13879,6 @@
   },
   {
     "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:45",
-    "endTime": "21:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "19:00",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Balance and stretch",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Cardio and strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Strength",
-    "startTime": "08:45",
-    "endTime": "09:45",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Zumba Toning",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Plant Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-01-03",
-    "periodEndDate": "2026-04-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Plant Recreation Centre",
     "activity": "Lane swim",
     "startTime": "07:00",
     "endTime": "09:00",
@@ -14463,6 +14355,168 @@
     "dayOfWeek": 6
   },
   {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:45",
+    "endTime": "21:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "19:00",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Balance and stretch",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Cardio and strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Strength",
+    "startTime": "08:45",
+    "endTime": "09:45",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Zumba Toning",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Plant Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-01-03",
+    "periodEndDate": "2026-04-19",
+    "dayOfWeek": 4
+  },
+  {
     "facility": "Ray Friel Recreation Complex",
     "activity": "Lane swim",
     "startTime": "06:00",
@@ -14878,348 +14932,6 @@
   },
   {
     "facility": "Ray Friel Recreation Complex",
-    "activity": "20 - 20 - 20",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "20 - 20 - 20",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Bootcamp",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength - older adult",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Core conditioning",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:10",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pilates",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pilates",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pilates",
-    "startTime": "09:30",
-    "endTime": "10:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Sport conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:15",
-    "endTime": "15:10",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:15",
-    "endTime": "15:10",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Strength and balance - older adult",
-    "startTime": "14:15",
-    "endTime": "15:10",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TMC",
-    "startTime": "08:30",
-    "endTime": "09:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TMC",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "TRX",
-    "startTime": "16:30",
-    "endTime": "17:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yin Yoga",
-    "startTime": "10:30",
-    "endTime": "11:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - QiGong",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "11:30",
-    "endTime": "12:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:30",
-    "endTime": "20:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "18:00",
-    "endTime": "18:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:15",
-    "endTime": "11:10",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - older adult",
-    "startTime": "10:30",
-    "endTime": "11:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga - older adult",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:25",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Zumba Gold",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
     "activity": "Public Skating",
     "startTime": "19:00",
     "endTime": "19:50",
@@ -15440,6 +15152,348 @@
     "startTime": "12:00",
     "endTime": "13:20",
     "periodStartDate": "2026-06-01",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "20 - 20 - 20",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Bootcamp",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength - older adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Core conditioning",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:10",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pilates",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Sport conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:15",
+    "endTime": "15:10",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:15",
+    "endTime": "15:10",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Strength and balance - older adult",
+    "startTime": "14:15",
+    "endTime": "15:10",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TMC",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "TRX",
+    "startTime": "16:30",
+    "endTime": "17:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yin Yoga",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - QiGong",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "11:30",
+    "endTime": "12:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "18:00",
+    "endTime": "18:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga - older adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Zumba Gold",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-28",
     "dayOfWeek": 5
   },
@@ -16054,312 +16108,6 @@
     "periodStartDate": null,
     "periodEndDate": null,
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Bootcamp",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Bootcamp",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Cardio and strength",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Cardio and strength",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Cardio 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Chair Exercise (Heartwise) - 50+",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Core Conditioning",
-    "startTime": "16:15",
-    "endTime": "17:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "HIIT",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Indoor cycling",
-    "startTime": "06:30",
-    "endTime": "07:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Indoor cycling",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pilates",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Pilates",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Strength",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "TRX",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "18:45",
-    "endTime": "19:45",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "15:45",
-    "endTime": "16:45",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Yoga Chair (Heartwise) - 50+",
-    "startTime": "13:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba Gold",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba Gold",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Zumba Toning",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
   },
   {
     "facility": "Richcraft Recreation Complex-Kanata",
@@ -17116,6 +16864,843 @@
     "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-28",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "06:30",
+    "endTime": "07:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "TRX",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "18:45",
+    "endTime": "19:45",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Toning",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-05-03",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Chair Exercise (Heartwise) - 50+",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Core Conditioning",
+    "startTime": "16:15",
+    "endTime": "17:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "06:30",
+    "endTime": "07:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "TRX",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "18:45",
+    "endTime": "19:45",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga Chair (Heartwise) - 50+",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Toning",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-12",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio and strength",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Cardio 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Chair Exercise",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Core Conditioning",
+    "startTime": "16:15",
+    "endTime": "17:15",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "HIIT",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "06:30",
+    "endTime": "07:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Indoor cycling",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Pilates",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Strength",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "TRX",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "18:45",
+    "endTime": "19:45",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "15:45",
+    "endTime": "16:45",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Yoga Chair",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Zumba Toning",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-05-04",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
   },
   {
     "facility": "Richelieu Vanier Community Centre",
@@ -17875,6 +18460,24 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-08",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-08",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Lane swim",
     "startTime": "11:00",
     "endTime": "14:00",
@@ -17896,6 +18499,15 @@
     "activity": "Lane swim",
     "startTime": "07:00",
     "endTime": "11:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-08",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "12:00",
     "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-08",
     "dayOfWeek": 2
@@ -17941,15 +18553,6 @@
     "activity": "Lane swim",
     "startTime": "07:00",
     "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-08",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "12:00",
     "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-08",
     "dayOfWeek": 4
@@ -18046,7 +18649,7 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Women's only swim",
+    "activity": "Womens only swim",
     "startTime": "20:30",
     "endTime": "21:30",
     "periodStartDate": "2026-03-23",
@@ -18238,24 +18841,6 @@
     "activity": "Aquafit General - shallow",
     "startTime": "10:00",
     "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-08",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-08",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
     "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-08",
     "dayOfWeek": 5
@@ -19944,87 +20529,6 @@
     "dayOfWeek": 4
   },
   {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "11:30",
-    "endTime": "12:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "11:30",
-    "endTime": "12:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "16:00",
-    "endTime": "17:50",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Public skating",
-    "startTime": "14:00",
-    "endTime": "15:50",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Stick and puck - youth and adult",
-    "startTime": "12:30",
-    "endTime": "13:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Pick-up hockey 35+",
-    "startTime": "09:30",
-    "endTime": "10:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Pick-up hockey 50+",
-    "startTime": "10:30",
-    "endTime": "11:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Pick-up hockey 50+",
-    "startTime": "09:30",
-    "endTime": "10:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "W. Erskine Johnston Arena",
-    "activity": "Pick-up hockey 50+",
-    "startTime": "10:30",
-    "endTime": "11:20",
-    "periodStartDate": "2025-10-10",
-    "periodEndDate": "2026-03-31",
-    "dayOfWeek": 5
-  },
-  {
     "facility": "Walter Baker Sports Centre",
     "activity": "Lane swim",
     "startTime": "09:30",
@@ -21043,123 +21547,6 @@
   },
   {
     "facility": "Walter Baker Sports Centre",
-    "activity": "Kinderplay",
-    "startTime": "10:00",
-    "endTime": "11:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Squash Courts 2, 3, 4, and 5",
-    "startTime": "06:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Squash Courts 2, 3, 4, and 5",
-    "startTime": "06:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Squash Courts 2, 3, 4, and 5",
-    "startTime": "06:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Squash Courts 2, 3, 4, and 5",
-    "startTime": "06:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Squash Courts 2, 3, 4, and 5",
-    "startTime": "06:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Squash Courts 2, 3, 4, and 5",
-    "startTime": "08:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Squash Courts 2, 3, 4, and 5",
-    "startTime": "08:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Public skating",
-    "startTime": "19:15",
-    "endTime": "20:05",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-04-05",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Public skating",
-    "startTime": "11:15",
-    "endTime": "12:05",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-04-05",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Public skating",
-    "startTime": "12:15",
-    "endTime": "13:05",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-04-05",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Public skating",
-    "startTime": "11:15",
-    "endTime": "12:05",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-04-05",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
-    "activity": "Public skating",
-    "startTime": "12:15",
-    "endTime": "13:05",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-04-05",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Walter Baker Sports Centre",
     "activity": "Cardio and strength - older adult",
     "startTime": "09:15",
     "endTime": "10:15",
@@ -21283,5 +21670,122 @@
     "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-25",
     "dayOfWeek": 2
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Kinderplay",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Squash Courts 2, 3, 4, and 5",
+    "startTime": "06:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Squash Courts 2, 3, 4, and 5",
+    "startTime": "06:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Squash Courts 2, 3, 4, and 5",
+    "startTime": "06:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Squash Courts 2, 3, 4, and 5",
+    "startTime": "06:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Squash Courts 2, 3, 4, and 5",
+    "startTime": "06:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Squash Courts 2, 3, 4, and 5",
+    "startTime": "08:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Squash Courts 2, 3, 4, and 5",
+    "startTime": "08:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Public skating",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-05",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Public skating",
+    "startTime": "11:15",
+    "endTime": "12:05",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-05",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Public skating",
+    "startTime": "12:15",
+    "endTime": "13:05",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-05",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Public skating",
+    "startTime": "11:15",
+    "endTime": "12:05",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-05",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Walter Baker Sports Centre",
+    "activity": "Public skating",
+    "startTime": "12:15",
+    "endTime": "13:05",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-04-05",
+    "dayOfWeek": 7
   }
 ]
