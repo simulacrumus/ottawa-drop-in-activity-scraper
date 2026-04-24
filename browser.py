@@ -17,10 +17,11 @@ from dataclasses import dataclass
 from datetime import datetime
 import logging
 from playwright.async_api import async_playwright, Browser, BrowserContext, Page, PlaywrightContextManager
+from playwright_stealth import Stealth
 
 @dataclass
 class BrowserConfig:
-    headless: bool = True
+    headless: bool = False
     timeout: int = 30000  # 30 seconds in milliseconds
     max_retries: int = 3
     retry_delay: float = 1.0
@@ -41,17 +42,7 @@ class BrowserConfig:
     user_agents: List[str] = None
     
     # Custom headers
-    default_headers = {
-        "Accept-Language": "en-CA,en-US;q=0.9,en;q=0.8,fr-CA;q=0.7,fr;q=0.6",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Cache-Control": "max-age=0",
-        "Upgrade-Insecure-Requests": "1",
-        "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Fetch-Site": "none",
-        "Sec-Fetch-User": "?1",
-    }
+    default_headers = {}
     
     def __post_init__(self):
         if self.viewport_sizes is None:
@@ -94,42 +85,7 @@ class BrowserConfig:
             ]
         
         if self.extra_args is None:
-            self.extra_args = [
-                 "--disable-blink-features=AutomationControlled",
-                "--exclude-switches=enable-automation",
-                "--disable-extensions-except=/path/to/extension",
-                "--disable-plugins-discovery",
-                "--disable-default-apps",
-                "--disable-background-timer-throttling",
-                "--disable-backgrounding-occluded-windows",
-                "--disable-renderer-backgrounding",
-                "--disable-features=TranslateUI,BlinkGenPropertyTrees",
-                "--disable-ipc-flooding-protection",
-                "--disable-field-trial-config",
-                "--disable-back-forward-cache",
-                "--disable-hang-monitor",
-                "--disable-prompt-on-repost",
-                "--disable-sync",
-                "--metrics-recording-only",
-                "--no-report-upload",
-                "--mute-audio",
-                "--no-default-browser-check",
-                "--no-first-run",
-                "--disable-dev-shm-usage",
-                "--disable-gpu",
-                "--no-sandbox",
-                "--disable-web-security",
-                "--allow-running-insecure-content",
-                "--ignore-certificate-errors",
-                "--ignore-ssl-errors",
-                "--ignore-certificate-errors-spki-list",
-                "--disable-features=VizDisplayCompositor",
-                "--user-agent-product=Chrome",
-                "--disable-logging",
-                "--silent",
-                "--disable-gpu-sandbox",
-                "--window-position=0,0",
-            ]
+            self.extra_args = []
 
 class BrowserManager:
     def __init__(self, config: BrowserConfig = BrowserConfig()):
@@ -188,7 +144,7 @@ class BrowserManager:
         # Launch browser with configuration
         launch_options = {
             "headless": self.config.headless,
-            "args": self.config.extra_args
+            "args": self.config.extra_args,
         }
         
         # Add proxy if configured
@@ -203,7 +159,6 @@ class BrowserManager:
             "locale": self.config.locale,
             "timezone_id": self.config.timezone,
             "permissions": ["geolocation"],  # Grant some permissions
-            "extra_http_headers": self.config.default_headers,
             "device_scale_factor": random.choice([1.0, 1.25, 1.5, 2.0]),
             "is_mobile": False,
             "has_touch": random.choice([True, False]),
@@ -236,9 +191,13 @@ class BrowserManager:
         # Set default timeout
         self.page.set_default_timeout(self.config.timeout)
         
-        # Add anti-detection scripts
-        await self._inject_anti_detection_scripts()
-        
+        # Apply stealth patches to hide automation markers
+        await Stealth(
+            webgl_vendor_override="Google Inc. (NVIDIA)",
+            webgl_renderer_override="ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            navigator_platform_override="Win32",
+        ).apply_stealth_async(self.page)
+
         # Set up request/response interceptors
         await self._setup_interceptors()
         
@@ -314,12 +273,7 @@ class BrowserManager:
         """)
     
     async def _setup_interceptors(self):
-        async def handle_route(route):
-            # Add random delays to requests
-            await asyncio.sleep(random.uniform(0.1, 0.5))
-            await route.continue_()
-        
-        await self.page.route("**/*", handle_route)
+        pass
     
     async def _ensure_session(self):
         if self.page is None:
@@ -371,6 +325,20 @@ class BrowserManager:
     
     async def get_content(self, url: str, **kwargs) -> str:
         await self.goto(url, **kwargs)
+        # If Imperva challenge page loaded, wait for it to resolve and reload
+        # Imperva serves actual content inside an iframe — try child frame first
+        try:
+            iframe_el = await self.page.wait_for_selector('iframe', timeout=8000)
+            frame = await iframe_el.content_frame()
+            if frame:
+                await frame.wait_for_load_state('domcontentloaded', timeout=10000)
+                content = await frame.content()
+                self.logger.debug(f"Got content from iframe: {len(content)} bytes")
+                if len(content) > 1000:
+                    return content
+        except Exception as e:
+            self.logger.debug(f"Iframe approach failed: {e}")
+
         return await self.page.content()
     
     async def get_text(self, selector: str = None) -> str:
