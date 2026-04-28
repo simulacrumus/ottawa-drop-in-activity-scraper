@@ -312,7 +312,31 @@ class Scraper:
             if not re.match(r'^\d{1,2}:\d{2}$', str(time_value)):
                 logger.debug(f"Invalid time format: {time_field}={time_value}")
                 return False
-        
+
+        # Validate start_time is before end_time
+        try:
+            def parse_time(t):
+                h, m = map(int, t.split(':'))
+                return datetime.time(h, m)
+            if parse_time(schedule['start_time']) >= parse_time(schedule['end_time']):
+                logger.debug(f"Invalid schedule: start_time {schedule['start_time']} is not before end_time {schedule['end_time']}")
+                return False
+        except (ValueError, KeyError):
+            logger.debug(f"Could not compare start_time and end_time")
+            return False
+
+        # Validate start_date is before end_date (if both exist)
+        period_start = schedule.get('period_start_date')
+        period_end = schedule.get('period_end_date')
+        if period_start and period_end:
+            try:
+                if datetime.date.fromisoformat(period_start) >= datetime.date.fromisoformat(period_end):
+                    logger.debug(f"Invalid schedule: period_start_date {period_start} is not before period_end_date {period_end}")
+                    return False
+            except ValueError:
+                logger.debug(f"Could not compare period_start_date and period_end_date")
+                return False
+
         return True
 
 async def main():
