@@ -3746,7 +3746,8 @@
       "end_time": "00:05",
       "period_start_date": "2026-03-29",
       "period_end_date": "2026-04-30",
-      "day_of_week": 4
+      "day_of_week": 4,
+      "facility": "CARDELREC Recreation Complex Goulbourn"
     },
     {
       "activity": "Pick-up hockey 35+",
@@ -3876,7 +3877,8 @@
       "end_time": "14:50",
       "period_start_date": "2026-05-01",
       "period_end_date": "2026-06-26",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "CARDELREC Recreation Complex Goulbourn"
     }
   ],
   "d33359a910491a3f3da6c9b55a0924a7": [
@@ -6361,7 +6363,7 @@
       "day_of_week": 6
     }
   ],
-  "ad5d6f85f509e1370c9cdd42371f3c4b": [
+  "d0a32b41dc54592f52e0a447d20ec2ed": [
     {
       "activity": "Lane swim",
       "start_time": "07:30",
@@ -6643,7 +6645,7 @@
       "day_of_week": 7
     },
     {
-      "activity": "Preschool swim - therapeutic pool",
+      "activity": "Preschool swim -therapeutic pool",
       "start_time": "09:30",
       "end_time": "10:30",
       "period_start_date": "2026-04-13",
@@ -6651,7 +6653,7 @@
       "day_of_week": 1
     },
     {
-      "activity": "Preschool swim - therapeutic pool",
+      "activity": "Preschool swim -therapeutic pool",
       "start_time": "09:30",
       "end_time": "10:30",
       "period_start_date": "2026-04-13",
@@ -6659,7 +6661,7 @@
       "day_of_week": 2
     },
     {
-      "activity": "Preschool swim - therapeutic pool",
+      "activity": "Preschool swim -therapeutic pool",
       "start_time": "09:30",
       "end_time": "10:30",
       "period_start_date": "2026-04-13",
@@ -6667,7 +6669,7 @@
       "day_of_week": 3
     },
     {
-      "activity": "Preschool swim - therapeutic pool",
+      "activity": "Preschool swim -therapeutic pool",
       "start_time": "09:30",
       "end_time": "10:30",
       "period_start_date": "2026-04-13",
@@ -6675,7 +6677,7 @@
       "day_of_week": 4
     },
     {
-      "activity": "Preschool swim - therapeutic pool",
+      "activity": "Preschool swim -therapeutic pool",
       "start_time": "09:30",
       "end_time": "10:30",
       "period_start_date": "2026-04-13",
@@ -6683,7 +6685,7 @@
       "day_of_week": 5
     },
     {
-      "activity": "Preschool swim - therapeutic pool",
+      "activity": "Preschool swim -therapeutic pool",
       "start_time": "08:00",
       "end_time": "09:00",
       "period_start_date": "2026-04-13",
@@ -6691,7 +6693,7 @@
       "day_of_week": 6
     },
     {
-      "activity": "Preschool swim - therapeutic pool",
+      "activity": "Preschool swim -therapeutic pool",
       "start_time": "08:00",
       "end_time": "09:00",
       "period_start_date": "2026-04-13",
@@ -6699,7 +6701,7 @@
       "day_of_week": 7
     },
     {
-      "activity": "Public swim - therapeutic pool",
+      "activity": "Public swim -therapeutic pool",
       "start_time": "11:30",
       "end_time": "14:30",
       "period_start_date": "2026-04-13",
@@ -6707,7 +6709,7 @@
       "day_of_week": 1
     },
     {
-      "activity": "Public swim - therapeutic pool",
+      "activity": "Public swim -therapeutic pool",
       "start_time": "11:30",
       "end_time": "14:30",
       "period_start_date": "2026-04-13",
@@ -6715,7 +6717,15 @@
       "day_of_week": 2
     },
     {
-      "activity": "Public swim - therapeutic pool",
+      "activity": "Public swim -therapeutic pool",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Public swim -therapeutic pool",
       "start_time": "12:30",
       "end_time": "14:00",
       "period_start_date": "2026-04-13",
@@ -6723,7 +6733,7 @@
       "day_of_week": 3
     },
     {
-      "activity": "Public swim - therapeutic pool",
+      "activity": "Public swim -therapeutic pool",
       "start_time": "11:30",
       "end_time": "14:30",
       "period_start_date": "2026-04-13",
@@ -6731,7 +6741,15 @@
       "day_of_week": 4
     },
     {
-      "activity": "Public swim - therapeutic pool",
+      "activity": "Public swim -therapeutic pool",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Public swim -therapeutic pool",
       "start_time": "11:30",
       "end_time": "14:30",
       "period_start_date": "2026-04-13",
@@ -6739,7 +6757,15 @@
       "day_of_week": 5
     },
     {
-      "activity": "Public swim - therapeutic pool",
+      "activity": "Public swim -therapeutic pool",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Public swim -therapeutic pool",
       "start_time": "12:00",
       "end_time": "15:00",
       "period_start_date": "2026-04-13",
@@ -6747,7 +6773,7 @@
       "day_of_week": 6
     },
     {
-      "activity": "Public swim - therapeutic pool",
+      "activity": "Public swim -therapeutic pool",
       "start_time": "12:00",
       "end_time": "15:00",
       "period_start_date": "2026-04-13",
@@ -6884,6 +6910,22 @@
     },
     {
       "activity": "Aquafit General - Deep",
+      "start_time": "08:30",
+      "end_time": "09:25",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aquafit General - Deep",
+      "start_time": "09:30",
+      "end_time": "10:25",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aquafit General - Deep",
       "start_time": "10:30",
       "end_time": "11:25",
       "period_start_date": "2026-04-13",
@@ -6996,6 +7038,22 @@
     },
     {
       "activity": "Aquafit General - Shallow",
+      "start_time": "08:30",
+      "end_time": "09:25",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aquafit General - Shallow",
+      "start_time": "09:30",
+      "end_time": "10:25",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aquafit General - Shallow",
       "start_time": "10:30",
       "end_time": "11:25",
       "period_start_date": "2026-04-13",
@@ -7025,6 +7083,14 @@
       "period_start_date": "2026-04-13",
       "period_end_date": "2026-06-21",
       "day_of_week": 5
+    },
+    {
+      "activity": "Aquafit General - Shallow",
+      "start_time": "09:30",
+      "end_time": "10:25",
+      "period_start_date": "2026-04-13",
+      "period_end_date": "2026-06-21",
+      "day_of_week": 7
     },
     {
       "activity": "Aquafit General - Shallow",
@@ -7068,8 +7134,8 @@
     },
     {
       "activity": "Sauna",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "period_start_date": "2026-04-13",
       "period_end_date": "2026-06-21",
       "day_of_week": 1
@@ -7084,8 +7150,8 @@
     },
     {
       "activity": "Sauna",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "period_start_date": "2026-04-13",
       "period_end_date": "2026-06-21",
       "day_of_week": 2
@@ -7100,8 +7166,8 @@
     },
     {
       "activity": "Sauna",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "period_start_date": "2026-04-13",
       "period_end_date": "2026-06-21",
       "day_of_week": 3
@@ -7116,8 +7182,8 @@
     },
     {
       "activity": "Sauna",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "period_start_date": "2026-04-13",
       "period_end_date": "2026-06-21",
       "day_of_week": 4
@@ -8163,64 +8229,6 @@
       "day_of_week": 6
     }
   ],
-  "4b33b5810f702f20d88a6cdfc339d78e": [
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:30",
-      "end_time": "20:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 1
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:30",
-      "end_time": "20:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 2
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:30",
-      "end_time": "20:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 3
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:30",
-      "end_time": "20:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 4
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:30",
-      "end_time": "20:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 5
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "09:00",
-      "end_time": "17:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 6
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "09:00",
-      "end_time": "17:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 7
-    }
-  ],
   "03fd61912d98d7a97daa47a043ecac28": [
     {
       "activity": "Alternate needs swim",
@@ -8588,6 +8596,64 @@
       "end_time": "16:00",
       "period_start_date": "2026-04-27",
       "period_end_date": "2026-06-28",
+      "day_of_week": 7
+    }
+  ],
+  "4b33b5810f702f20d88a6cdfc339d78e": [
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:30",
+      "end_time": "20:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 1
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:30",
+      "end_time": "20:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 2
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:30",
+      "end_time": "20:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 3
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:30",
+      "end_time": "20:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 4
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:30",
+      "end_time": "20:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 5
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 6
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "period_start_date": null,
+      "period_end_date": null,
       "day_of_week": 7
     }
   ],
@@ -17669,444 +17735,6 @@
       "day_of_week": 4
     }
   ],
-  "f0a5e5b503e3b28cdc3e13872a9cc834": [
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:00",
-      "end_time": "22:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:00",
-      "end_time": "22:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:00",
-      "end_time": "22:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:00",
-      "end_time": "22:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "07:00",
-      "end_time": "22:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "08:00",
-      "end_time": "20:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Weight and cardio room",
-      "start_time": "08:00",
-      "end_time": "20:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 7
-    }
-  ],
-  "46199981354989e2332a5dad3d8a7adc": [
-    {
-      "activity": "Cardio and stretch 50+",
-      "start_time": "09:00",
-      "end_time": "09:55",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Cardio and stretch 50+",
-      "start_time": "09:00",
-      "end_time": "10:15",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Cardio and stretch 50+",
-      "start_time": "09:00",
-      "end_time": "10:15",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Cardio and stretch 50+",
-      "start_time": "09:00",
-      "end_time": "09:55",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Cardio and stretch 50+",
-      "start_time": "09:00",
-      "end_time": "10:15",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Cardio and strength 50+",
-      "start_time": "08:30",
-      "end_time": "09:45",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "10:00",
-      "end_time": "10:55",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "19:15",
-      "end_time": "20:15",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "10:00",
-      "end_time": "10:55",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 6
-    },
-    {
-      "activity": "HIIT",
-      "start_time": "17:00",
-      "end_time": "17:55",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "HIIT",
-      "start_time": "17:00",
-      "end_time": "17:55",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Pilates 50+",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Pilates 50+",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    }
-  ],
-  "3dd5e55edd5b6a15ef26171c3fd4eb0a": [
-    {
-      "activity": "Basketball - adult",
-      "start_time": "19:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Basketball - adult",
-      "start_time": "19:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Basketball - adult",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Basketball - youth",
-      "start_time": "18:15",
-      "end_time": "19:15",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Open gym",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Open gym - family",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Badminton - adult",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Badminton - adult",
-      "start_time": "19:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Badminton - adult",
-      "start_time": "17:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton - parent with child",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Badminton - parent with child",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Table tennis - adult",
-      "start_time": "15:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-26",
-      "day_of_week": 7
-    }
-  ],
   "9dc1b9e27f249d984cc4af890f567390": [
     {
       "activity": "Lane Swim",
@@ -18642,6 +18270,444 @@
       "end_time": "20:00",
       "period_start_date": "2026-04-07",
       "period_end_date": "2026-06-28",
+      "day_of_week": 7
+    }
+  ],
+  "f0a5e5b503e3b28cdc3e13872a9cc834": [
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:00",
+      "end_time": "22:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:00",
+      "end_time": "22:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:00",
+      "end_time": "22:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:00",
+      "end_time": "22:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "07:00",
+      "end_time": "22:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "08:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Weight and cardio room",
+      "start_time": "08:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 7
+    }
+  ],
+  "46199981354989e2332a5dad3d8a7adc": [
+    {
+      "activity": "Cardio and stretch 50+",
+      "start_time": "09:00",
+      "end_time": "09:55",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Cardio and stretch 50+",
+      "start_time": "09:00",
+      "end_time": "10:15",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Cardio and stretch 50+",
+      "start_time": "09:00",
+      "end_time": "10:15",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Cardio and stretch 50+",
+      "start_time": "09:00",
+      "end_time": "09:55",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Cardio and stretch 50+",
+      "start_time": "09:00",
+      "end_time": "10:15",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Cardio and strength 50+",
+      "start_time": "08:30",
+      "end_time": "09:45",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "10:00",
+      "end_time": "10:55",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "19:15",
+      "end_time": "20:15",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "10:00",
+      "end_time": "10:55",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 6
+    },
+    {
+      "activity": "HIIT",
+      "start_time": "17:00",
+      "end_time": "17:55",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "HIIT",
+      "start_time": "17:00",
+      "end_time": "17:55",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Pilates 50+",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Pilates 50+",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    }
+  ],
+  "3dd5e55edd5b6a15ef26171c3fd4eb0a": [
+    {
+      "activity": "Basketball - adult",
+      "start_time": "19:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Basketball - adult",
+      "start_time": "19:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Basketball - adult",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Basketball - youth",
+      "start_time": "18:15",
+      "end_time": "19:15",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Open gym",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Open gym - family",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Badminton - adult",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Badminton - adult",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Badminton - adult",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton - parent with child",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Badminton - parent with child",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Table tennis - adult",
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-26",
       "day_of_week": 7
     }
   ],

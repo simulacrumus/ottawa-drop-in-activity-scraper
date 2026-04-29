@@ -2808,89 +2808,6 @@
     "dayOfWeek": 7
   },
   {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": [
-      "2026-03-14"
-    ],
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Open gym",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - child",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - child",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - youth",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - youth",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - adult",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Basketball - adult",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-14",
-    "periodEndDate": "2026-05-31",
-    "dayOfWeek": 6
-  },
-  {
     "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "Therapeutic pool",
     "startTime": "07:15",
@@ -4179,15 +4096,6 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Adult skate",
-    "startTime": "11:15",
-    "endTime": "00:05",
-    "periodStartDate": "2026-03-29",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "Pick-up hockey 35+",
     "startTime": "12:15",
     "endTime": "13:05",
@@ -4320,15 +4228,6 @@
     "periodStartDate": "2026-05-01",
     "periodEndDate": "2026-06-26",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "15:00",
-    "endTime": "14:50",
-    "periodStartDate": "2026-05-01",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 6
   },
   {
     "facility": "Champagne Fitness Centre",
@@ -7383,7 +7282,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim - therapeutic pool",
+    "activity": "Preschool swim -therapeutic pool",
     "startTime": "09:30",
     "endTime": "10:30",
     "periodStartDate": "2026-04-13",
@@ -7392,7 +7291,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim - therapeutic pool",
+    "activity": "Preschool swim -therapeutic pool",
     "startTime": "09:30",
     "endTime": "10:30",
     "periodStartDate": "2026-04-13",
@@ -7401,7 +7300,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim - therapeutic pool",
+    "activity": "Preschool swim -therapeutic pool",
     "startTime": "09:30",
     "endTime": "10:30",
     "periodStartDate": "2026-04-13",
@@ -7410,7 +7309,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim - therapeutic pool",
+    "activity": "Preschool swim -therapeutic pool",
     "startTime": "09:30",
     "endTime": "10:30",
     "periodStartDate": "2026-04-13",
@@ -7419,7 +7318,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim - therapeutic pool",
+    "activity": "Preschool swim -therapeutic pool",
     "startTime": "09:30",
     "endTime": "10:30",
     "periodStartDate": "2026-04-13",
@@ -7428,7 +7327,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim - therapeutic pool",
+    "activity": "Preschool swim -therapeutic pool",
     "startTime": "08:00",
     "endTime": "09:00",
     "periodStartDate": "2026-04-13",
@@ -7437,7 +7336,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Preschool swim - therapeutic pool",
+    "activity": "Preschool swim -therapeutic pool",
     "startTime": "08:00",
     "endTime": "09:00",
     "periodStartDate": "2026-04-13",
@@ -7446,7 +7345,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
+    "activity": "Public swim -therapeutic pool",
     "startTime": "11:30",
     "endTime": "14:30",
     "periodStartDate": "2026-04-13",
@@ -7455,7 +7354,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
+    "activity": "Public swim -therapeutic pool",
     "startTime": "11:30",
     "endTime": "14:30",
     "periodStartDate": "2026-04-13",
@@ -7464,7 +7363,16 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
+    "activity": "Public swim -therapeutic pool",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim -therapeutic pool",
     "startTime": "12:30",
     "endTime": "14:00",
     "periodStartDate": "2026-04-13",
@@ -7473,7 +7381,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
+    "activity": "Public swim -therapeutic pool",
     "startTime": "11:30",
     "endTime": "14:30",
     "periodStartDate": "2026-04-13",
@@ -7482,7 +7390,16 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
+    "activity": "Public swim -therapeutic pool",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim -therapeutic pool",
     "startTime": "11:30",
     "endTime": "14:30",
     "periodStartDate": "2026-04-13",
@@ -7491,7 +7408,16 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
+    "activity": "Public swim -therapeutic pool",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Public swim -therapeutic pool",
     "startTime": "12:00",
     "endTime": "15:00",
     "periodStartDate": "2026-04-13",
@@ -7500,7 +7426,7 @@
   },
   {
     "facility": "François Dupuis Recreation Centre",
-    "activity": "Public swim - therapeutic pool",
+    "activity": "Public swim -therapeutic pool",
     "startTime": "12:00",
     "endTime": "15:00",
     "periodStartDate": "2026-04-13",
@@ -7654,6 +7580,24 @@
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Aquafit General - Deep",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aquafit General - Deep",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aquafit General - Deep",
     "startTime": "10:30",
     "endTime": "11:25",
     "periodStartDate": "2026-04-13",
@@ -7780,6 +7724,24 @@
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Aquafit General - Shallow",
+    "startTime": "08:30",
+    "endTime": "09:25",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aquafit General - Shallow",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aquafit General - Shallow",
     "startTime": "10:30",
     "endTime": "11:25",
     "periodStartDate": "2026-04-13",
@@ -7812,6 +7774,15 @@
     "periodStartDate": "2026-04-13",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Aquafit General - Shallow",
+    "startTime": "09:30",
+    "endTime": "10:25",
+    "periodStartDate": "2026-04-13",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
   },
   {
     "facility": "François Dupuis Recreation Centre",
@@ -7861,8 +7832,8 @@
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Sauna",
-    "startTime": "08:00",
-    "endTime": "09:00",
+    "startTime": "20:00",
+    "endTime": "21:00",
     "periodStartDate": "2026-04-13",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 1
@@ -7879,8 +7850,8 @@
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Sauna",
-    "startTime": "08:00",
-    "endTime": "09:00",
+    "startTime": "20:00",
+    "endTime": "21:00",
     "periodStartDate": "2026-04-13",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 2
@@ -7897,8 +7868,8 @@
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Sauna",
-    "startTime": "08:00",
-    "endTime": "09:00",
+    "startTime": "20:00",
+    "endTime": "21:00",
     "periodStartDate": "2026-04-13",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 3
@@ -7915,8 +7886,8 @@
   {
     "facility": "François Dupuis Recreation Centre",
     "activity": "Sauna",
-    "startTime": "08:00",
-    "endTime": "09:00",
+    "startTime": "20:00",
+    "endTime": "21:00",
     "periodStartDate": "2026-04-13",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 4
@@ -9075,69 +9046,6 @@
   },
   {
     "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "17:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "17:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
     "activity": "Alternate needs swim",
     "startTime": "10:00",
     "endTime": "11:00",
@@ -9548,6 +9456,69 @@
     "endTime": "16:00",
     "periodStartDate": "2026-04-27",
     "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
     "dayOfWeek": 7
   },
   {
@@ -19641,492 +19612,6 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio and stretch 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio and stretch 50+",
-    "startTime": "09:00",
-    "endTime": "10:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio and stretch 50+",
-    "startTime": "09:00",
-    "endTime": "10:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio and stretch 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio and stretch 50+",
-    "startTime": "09:00",
-    "endTime": "10:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio and strength 50+",
-    "startTime": "08:30",
-    "endTime": "09:45",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Yoga",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Yoga",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Yoga",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Zumba",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Zumba",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "HIIT",
-    "startTime": "17:00",
-    "endTime": "17:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "HIIT",
-    "startTime": "17:00",
-    "endTime": "17:55",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Pilates 50+",
-    "startTime": "10:00",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Pilates 50+",
-    "startTime": "10:00",
-    "endTime": "10:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Basketball - adult",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Basketball - adult",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Basketball - adult",
-    "startTime": "16:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Basketball - youth",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Open gym - family",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Badminton - adult",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Badminton - adult",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Badminton - adult",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Badminton - parent with child",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Badminton - parent with child",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Table tennis - adult",
-    "startTime": "15:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-06-26",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
     "activity": "Lane Swim",
     "startTime": "07:00",
     "endTime": "10:00",
@@ -20726,6 +20211,492 @@
     "endTime": "20:00",
     "periodStartDate": "2026-04-07",
     "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio and stretch 50+",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio and stretch 50+",
+    "startTime": "09:00",
+    "endTime": "10:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio and stretch 50+",
+    "startTime": "09:00",
+    "endTime": "10:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio and stretch 50+",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio and stretch 50+",
+    "startTime": "09:00",
+    "endTime": "10:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio and strength 50+",
+    "startTime": "08:30",
+    "endTime": "09:45",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Yoga",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Yoga",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Zumba",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Zumba",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "HIIT",
+    "startTime": "17:00",
+    "endTime": "17:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "HIIT",
+    "startTime": "17:00",
+    "endTime": "17:55",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Pilates 50+",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Pilates 50+",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Basketball - adult",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Basketball - adult",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Basketball - adult",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Basketball - youth",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym - family",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Badminton - adult",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Badminton - adult",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Badminton - adult",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Badminton - parent with child",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Badminton - parent with child",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Table tennis - adult",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 7
   },
   {
