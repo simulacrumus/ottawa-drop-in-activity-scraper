@@ -337,6 +337,16 @@ class Scraper:
                 logger.debug(f"Could not compare period_start_date and period_end_date")
                 return False
 
+        # Validate period_end_date is not in the past
+        if period_end:
+            try:
+                if datetime.date.fromisoformat(period_end) < datetime.date.today():
+                    logger.debug(f"Invalid schedule: period_end_date {period_end} is in the past")
+                    return False
+            except ValueError:
+                logger.debug(f"Could not parse period_end_date: {period_end}")
+                return False
+
         return True
 
 async def main():
