@@ -1,6 +1,492 @@
 [
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Aquafit general - deep",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Aquafit general - shallow",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public swim - 25 metre pool only",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "14:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Core conditioning",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Indoor cycling",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Strength",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Aquafit general - deep",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Aquafit general - shallow",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public swim - 25 metre pool only",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public swim - therapeutic pool",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Core conditioning",
+    "startTime": "10:15",
+    "endTime": "11:10",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Zumba",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Racquetball - courts 4, 6, and 8",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Squash courts 1, 2, 3, 5, 7 and 9",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Aquafit General - Deep",
     "startTime": "08:00",
     "endTime": "09:00",
@@ -2468,6 +2954,42 @@
   {
     "facility": "Brewer Pool and Arena",
     "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": null,
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Lane swim",
     "startTime": "07:30",
     "endTime": "13:00",
     "periodStartDate": "2026-03-23",
@@ -2682,42 +3204,6 @@
     "dayOfWeek": 5
   },
   {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": null,
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
     "facility": "Canterbury Recreation Complex",
     "activity": "Table tennis",
     "startTime": "09:00",
@@ -2806,6 +3292,168 @@
     "periodStartDate": "2026-03-14",
     "periodEndDate": "2026-05-31",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Kinderplay",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
@@ -4176,168 +4824,6 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Kinderplay",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Kinderplay",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "15:00",
-    "endTime": "15:50",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
     "facility": "Churchill Seniors Centre",
     "activity": "Billiards",
     "startTime": "08:30",
@@ -4897,6 +5383,42 @@
   },
   {
     "facility": "Deborah Anne Kirwan Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Deborah Anne Kirwan Pool",
+    "activity": "Preschool swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Deborah Anne Kirwan Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Deborah Anne Kirwan Pool",
+    "activity": "50+ swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Deborah Anne Kirwan Pool",
     "activity": "Lane swim",
     "startTime": "20:30",
     "endTime": "21:30",
@@ -5049,175 +5571,193 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "Deborah Anne Kirwan Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Dempsey Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 6
   },
   {
-    "facility": "Deborah Anne Kirwan Pool",
-    "activity": "Preschool swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 6
   },
   {
-    "facility": "Deborah Anne Kirwan Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 7
   },
   {
-    "facility": "Deborah Anne Kirwan Pool",
-    "activity": "50+ swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Indoor cycling",
+    "startTime": "08:00",
+    "endTime": "09:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
+    "dayOfWeek": 6
   },
   {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Zumba",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
   },
   {
     "facility": "Diane Deans Greenboro Community Centre",
@@ -5706,60 +6246,6 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Indoor cycling",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Zumba",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
     "facility": "Eva James Memorial Community Centre",
     "activity": "Badminton - adult",
     "startTime": "11:30",
@@ -5866,213 +6352,6 @@
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - adult (18+ years)",
-    "startTime": "16:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - adult (18+ years)",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - adult (18+ years)",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - adult (18+ years)",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family (6+ years)",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - family (6+ years)",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Badminton - youth (13 to 17 years old)",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "11:15",
-    "endTime": "12:15",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "14:10",
-    "endTime": "15:10",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "10:10",
-    "endTime": "11:10",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "11:55",
-    "endTime": "12:55",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - adult (18+ years)",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Pickleball - family (6+ years)",
-    "startTime": "11:55",
-    "endTime": "12:55",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Basketball - youth (13 to 17 years old)",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Kinderplay (1 to 5 years old)",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Kinderplay (1 to 5 years old)",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - child",
-    "startTime": "18:20",
-    "endTime": "19:20",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - youth",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - family (6+ years)",
-    "startTime": "18:20",
-    "endTime": "19:20",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Eva James Memorial Community Centre",
-    "activity": "Open gym - family (6+ years)",
-    "startTime": "10:35",
-    "endTime": "11:35",
-    "periodStartDate": "2026-05-19",
-    "periodEndDate": "2026-06-19",
-    "dayOfWeek": 7
   },
   {
     "facility": "Eva James Memorial Community Centre",
@@ -6300,850 +6579,211 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:15",
-    "endTime": "21:15",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:15",
-    "endTime": "21:15",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:15",
-    "endTime": "21:15",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:15",
-    "endTime": "21:15",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:15",
-    "endTime": "21:15",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "17:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "17:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Cardio and strength 50+",
-    "startTime": "13:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Cardio and strength 50+",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Core conditioning",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "HIIT",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Kickboxing",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Party on 50+",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - adult (18+ years)",
     "startTime": "16:30",
     "endTime": "17:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
     "dayOfWeek": 1
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pilates 50+",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Stretch and strength 50+",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "17:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga",
-    "startTime": "08:15",
-    "endTime": "09:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Yoga 50+",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC 50+",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "TMC 50+",
-    "startTime": "13:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - adult (18+ years)",
     "startTime": "19:00",
     "endTime": "20:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
     "dayOfWeek": 2
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - adult (18+ years)",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 2
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - adult (18+ years)",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
     "dayOfWeek": 4
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba",
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - family (6+ years)",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - family (6+ years)",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Badminton - youth (13 to 17 years old)",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "14:10",
+    "endTime": "15:10",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "10:10",
+    "endTime": "11:10",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "11:55",
+    "endTime": "12:55",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - adult (18+ years)",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Pickleball - family (6+ years)",
+    "startTime": "11:55",
+    "endTime": "12:55",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Basketball - youth (13 to 17 years old)",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Kinderplay (1 to 5 years old)",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Kinderplay (1 to 5 years old)",
     "startTime": "09:30",
     "endTime": "10:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Zumba Gold 50+",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton 16 +",
-    "startTime": "18:40",
-    "endTime": "19:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton 16 +",
-    "startTime": "19:50",
-    "endTime": "20:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton 16 +",
-    "startTime": "16:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton - Parent with Child (ages 15 and under)",
-    "startTime": "14:20",
-    "endTime": "15:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Badminton - Parent with Child (ages 15 and under)",
-    "startTime": "15:25",
-    "endTime": "16:25",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 16 +",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 16 +",
-    "startTime": "18:40",
-    "endTime": "19:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 16 +",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:50",
-    "endTime": "10:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:10",
-    "endTime": "13:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:20",
-    "endTime": "14:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:50",
-    "endTime": "10:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:10",
-    "endTime": "13:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:50",
-    "endTime": "10:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:10",
-    "endTime": "13:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:20",
-    "endTime": "14:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:50",
-    "endTime": "10:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:10",
-    "endTime": "13:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
     "dayOfWeek": 5
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "08:40",
-    "endTime": "09:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:50",
-    "endTime": "10:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:10",
-    "endTime": "13:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Parent with Child (ages 15 and under)",
-    "startTime": "12:50",
-    "endTime": "13:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "08:40",
-    "endTime": "09:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "19:50",
-    "endTime": "20:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "13:20",
-    "endTime": "14:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "08:40",
-    "endTime": "09:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "08:40",
-    "endTime": "09:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "13:20",
-    "endTime": "14:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Pickleball - Intermediate 16+",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "17:10",
-    "endTime": "18:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "17:10",
-    "endTime": "18:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "17:10",
-    "endTime": "18:10",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Open gym - child",
     "startTime": "18:20",
     "endTime": "19:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 12+",
-    "startTime": "12:40",
-    "endTime": "13:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball 16+",
-    "startTime": "19:45",
-    "endTime": "20:45",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball - Parent with Child (ages 12 and under)",
-    "startTime": "15:20",
-    "endTime": "16:20",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Basketball - Parent with Child (ages 12 and under)",
-    "startTime": "16:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Volleyball 16+",
-    "startTime": "18:40",
-    "endTime": "19:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
     "dayOfWeek": 4
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Volleyball 16+",
-    "startTime": "19:50",
-    "endTime": "20:50",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Open gym - youth",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Open gym - family (6+ years)",
+    "startTime": "18:20",
+    "endTime": "19:20",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
     "dayOfWeek": 4
   },
   {
-    "facility": "François Dupuis Recreation Centre",
-    "activity": "Rock Climbing 5+",
-    "startTime": "12:40",
-    "endTime": "13:40",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-21",
-    "dayOfWeek": 6
+    "facility": "Eva James Memorial Community Centre",
+    "activity": "Open gym - family (6+ years)",
+    "startTime": "10:35",
+    "endTime": "11:35",
+    "periodStartDate": "2026-05-19",
+    "periodEndDate": "2026-06-19",
+    "dayOfWeek": 7
   },
   {
     "facility": "François Dupuis Recreation Centre",
@@ -8089,6 +7729,852 @@
     "periodStartDate": "2026-04-13",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:15",
+    "endTime": "21:15",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:15",
+    "endTime": "21:15",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:15",
+    "endTime": "21:15",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:15",
+    "endTime": "21:15",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:15",
+    "endTime": "21:15",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "17:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "17:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Cardio and strength 50+",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Cardio and strength 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Kickboxing",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Party on 50+",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates 50+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Stretch and strength 50+",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "08:15",
+    "endTime": "09:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga 50+",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC 50+",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba Gold 50+",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton 16 +",
+    "startTime": "18:40",
+    "endTime": "19:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton 16 +",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton 16 +",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton - Parent with Child (ages 15 and under)",
+    "startTime": "14:20",
+    "endTime": "15:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton - Parent with Child (ages 15 and under)",
+    "startTime": "15:25",
+    "endTime": "16:25",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 16 +",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 16 +",
+    "startTime": "18:40",
+    "endTime": "19:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 16 +",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "09:50",
+    "endTime": "10:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "12:10",
+    "endTime": "13:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "13:20",
+    "endTime": "14:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "09:50",
+    "endTime": "10:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "12:10",
+    "endTime": "13:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "09:50",
+    "endTime": "10:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "12:10",
+    "endTime": "13:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "13:20",
+    "endTime": "14:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "09:50",
+    "endTime": "10:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "12:10",
+    "endTime": "13:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "08:40",
+    "endTime": "09:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "09:50",
+    "endTime": "10:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "12:10",
+    "endTime": "13:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Parent with Child (ages 15 and under)",
+    "startTime": "12:50",
+    "endTime": "13:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "08:40",
+    "endTime": "09:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "13:20",
+    "endTime": "14:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "08:40",
+    "endTime": "09:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "08:40",
+    "endTime": "09:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "13:20",
+    "endTime": "14:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Intermediate 16+",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:10",
+    "endTime": "18:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:10",
+    "endTime": "18:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:10",
+    "endTime": "18:10",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "18:20",
+    "endTime": "19:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "12:40",
+    "endTime": "13:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 16+",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball - Parent with Child (ages 12 and under)",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball - Parent with Child (ages 12 and under)",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "18:40",
+    "endTime": "19:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Rock Climbing 5+",
+    "startTime": "12:40",
+    "endTime": "13:40",
+    "periodStartDate": "2026-01-05",
+    "periodEndDate": "2026-06-21",
+    "dayOfWeek": 6
   },
   {
     "facility": "General Burns Pool",
@@ -9686,51 +10172,6 @@
   {
     "facility": "Jim Durrell Recreation Centre",
     "activity": "Public skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Public skating",
-    "startTime": "16:15",
-    "endTime": "17:05",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Family skating",
-    "startTime": "15:15",
-    "endTime": "16:05",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Adult 18+ skating",
-    "startTime": "11:00",
-    "endTime": "11:50",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Adult 18+ skating",
-    "startTime": "11:00",
-    "endTime": "11:50",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Public skating",
     "startTime": "13:00",
     "endTime": "13:50",
     "periodStartDate": "2026-05-04",
@@ -9862,33 +10303,6 @@
     "periodStartDate": "2026-07-03",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Hockey 35+",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Ringette (10 to 14 years)",
-    "startTime": "16:15",
-    "endTime": "17:05",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jim Durrell Recreation Centre",
-    "activity": "Stick and puck - preschool and child (3 to 12 years)",
-    "startTime": "15:15",
-    "endTime": "16:05",
-    "periodStartDate": "2025-09-15",
-    "periodEndDate": "2026-04-30",
-    "dayOfWeek": 4
   },
   {
     "facility": "Jim Durrell Recreation Centre",
@@ -10303,6 +10717,60 @@
     "periodStartDate": "2026-05-01",
     "periodEndDate": "2026-06-21",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -14366,6 +14834,78 @@
   {
     "facility": "Pinecrest Recreation Complex",
     "activity": "Public Swim",
+    "startTime": "12:30",
+    "endTime": "13:45",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public Swim",
+    "startTime": "12:30",
+    "endTime": "13:45",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "09:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-05-17",
+    "periodEndDate": "2026-05-17",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public Swim",
     "startTime": "11:30",
     "endTime": "12:45",
     "periodStartDate": "2026-03-23",
@@ -15941,6 +16481,222 @@
   {
     "facility": "Ray Friel Recreation Complex",
     "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Preschool swim",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Preschool swim",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - Shallow",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Aquafit - Deep",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Sport conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Cardio and strength",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "12:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "15:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "11:45",
+    "endTime": "13:05",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Lane swim",
     "startTime": "06:00",
     "endTime": "09:00",
     "periodStartDate": "2026-04-07",
@@ -16821,71 +17577,44 @@
     "dayOfWeek": 5
   },
   {
-    "facility": "Ray Friel Recreation Complex",
+    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Lane swim",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Lane swim",
-    "startTime": "09:00",
-    "endTime": "11:00",
+    "startTime": "11:30",
+    "endTime": "13:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 7
   },
   {
-    "facility": "Ray Friel Recreation Complex",
+    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Lane swim",
-    "startTime": "10:00",
+    "startTime": "11:30",
     "endTime": "13:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 1
   },
   {
-    "facility": "Ray Friel Recreation Complex",
+    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Public swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
+    "startTime": "13:00",
+    "endTime": "16:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 6
   },
   {
-    "facility": "Ray Friel Recreation Complex",
+    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Public swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
+    "startTime": "13:00",
+    "endTime": "16:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 7
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Wave swim",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "16:00",
     "periodStartDate": "2026-05-16",
@@ -16893,107 +17622,107 @@
     "dayOfWeek": 1
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Preschool swim",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Preschool swim",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Reduced lane swim",
+    "startTime": "11:30",
     "endTime": "13:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
+    "dayOfWeek": 6
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Aquafit - Shallow",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Aquafit - Deep",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "16:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 6
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "20:00",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "16:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 7
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
     "endTime": "16:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 1
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:15",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:00",
+    "endTime": "15:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 6
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Sport conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "15:00",
+    "endTime": "16:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 6
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength",
-    "startTime": "10:15",
-    "endTime": "11:15",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:00",
+    "endTime": "15:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 7
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Cardio and strength",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
     "startTime": "13:00",
     "endTime": "14:00",
     "periodStartDate": "2026-05-16",
@@ -17001,37 +17730,127 @@
     "dayOfWeek": 1
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:15",
-    "endTime": "11:15",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:00",
+    "endTime": "15:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
+    "dayOfWeek": 1
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
-    "startTime": "12:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
     "startTime": "15:00",
-    "endTime": "16:50",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:00",
+    "endTime": "11:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 7
   },
   {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "11:45",
-    "endTime": "13:05",
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "15:00",
+    "endTime": "16:00",
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 1
@@ -18243,285 +19062,6 @@
     "dayOfWeek": 5
   },
   {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Reduced lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 1
-  },
-  {
     "facility": "Richelieu Vanier Community Centre",
     "activity": "Pickleball 18+ - recreational play",
     "startTime": "13:00",
@@ -19208,6 +19748,42 @@
   {
     "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
     "startTime": "11:00",
     "endTime": "14:00",
     "periodStartDate": "2026-03-23",
@@ -19593,42 +20169,6 @@
     "dayOfWeek": 5
   },
   {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-05-16",
-    "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
-  },
-  {
     "facility": "South Fallingbrook Community Centre",
     "activity": "Pickleball - adult",
     "startTime": "18:00",
@@ -19798,6 +20338,87 @@
     "periodStartDate": "2026-01-05",
     "periodEndDate": "2026-05-16",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "11:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim - wave tank and warm pool",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim - warm pool only",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Public swim - warm pool only",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-16",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
   },
   {
     "facility": "Splash Wave Pool",
@@ -20160,83 +20781,110 @@
     "dayOfWeek": 4
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
+    "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
+    "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave swim",
+    "facility": "St. Laurent Complex",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:30",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
     "startTime": "11:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-05-16",
+    "endTime": "12:00",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim - wave tank and warm pool",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim - warm pool only",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
+    "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Public swim - warm pool only",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "09:00",
+    "endTime": "16:30",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
+    "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 6
+    "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Cardio and Stretch 50+",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
-    "dayOfWeek": 7
+    "dayOfWeek": 1
   },
   {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-05-16",
+    "facility": "St. Laurent Complex",
+    "activity": "Pilates 50+",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "periodStartDate": "2026-05-18",
+    "periodEndDate": "2026-05-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Open gym",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-05-18",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 1
   },
