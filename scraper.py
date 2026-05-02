@@ -330,7 +330,7 @@ class Scraper:
         period_end = schedule.get('period_end_date')
         if period_start and period_end:
             try:
-                if datetime.date.fromisoformat(period_start) >= datetime.date.fromisoformat(period_end):
+                if datetime.date.fromisoformat(period_start) > datetime.date.fromisoformat(period_end):
                     logger.debug(f"Invalid schedule: period_start_date {period_start} is not before period_end_date {period_end}")
                     return False
             except ValueError:
