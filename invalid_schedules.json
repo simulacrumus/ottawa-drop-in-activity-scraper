@@ -1,5 +1,86 @@
 [
   {
+    "activity": "Aquafit lite - therapeutic pool",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-16",
+    "period_end_date": "2026-05-16",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit lite - therapeutic pool",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-17",
+    "period_end_date": "2026-05-17",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Cardio and strength",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-16",
+    "period_end_date": "2026-05-16",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Cardio and strength",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-17",
+    "period_end_date": "2026-05-17",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Core conditioning",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-16",
+    "period_end_date": "2026-05-16",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Zumba",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-16",
+    "period_end_date": "2026-05-16",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Indoor cycling",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-17",
+    "period_end_date": "2026-05-17",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Yoga",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-17",
+    "period_end_date": "2026-05-17",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Strength",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-17",
+    "period_end_date": "2026-05-17",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
     "activity": "Play Free",
     "start_time": null,
     "end_time": null,
@@ -63,33 +144,6 @@
     "facility": "Jim Durrell Recreation Centre"
   },
   {
-    "activity": "Hockey 35+",
-    "start_time": "12:00",
-    "end_time": "12:50",
-    "period_start_date": "2025-09-15",
-    "period_end_date": "2026-04-30",
-    "day_of_week": 2,
-    "facility": "Jim Durrell Recreation Centre"
-  },
-  {
-    "activity": "Ringette (10 to 14 years)",
-    "start_time": "16:15",
-    "end_time": "17:05",
-    "period_start_date": "2025-09-15",
-    "period_end_date": "2026-04-30",
-    "day_of_week": 4,
-    "facility": "Jim Durrell Recreation Centre"
-  },
-  {
-    "activity": "Stick and puck - preschool and child (3 to 12 years)",
-    "start_time": "15:15",
-    "end_time": "16:05",
-    "period_start_date": "2025-09-15",
-    "period_end_date": "2026-04-30",
-    "day_of_week": 4,
-    "facility": "Jim Durrell Recreation Centre"
-  },
-  {
     "activity": "Aquafit",
     "start_time": null,
     "end_time": null,
@@ -106,6 +160,42 @@
     "period_end_date": "2026-05-18",
     "day_of_week": 1,
     "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Lane swim - reduced capacity",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-04-20",
+    "period_end_date": "2026-06-21",
+    "day_of_week": 6,
+    "facility": "Plant Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - reduced capacity",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-04-20",
+    "period_end_date": "2026-06-21",
+    "day_of_week": 7,
+    "facility": "Plant Recreation Centre"
+  },
+  {
+    "activity": "Public swim - leisure pool only",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-04-20",
+    "period_end_date": "2026-06-21",
+    "day_of_week": 6,
+    "facility": "Plant Recreation Centre"
+  },
+  {
+    "activity": "Public swim - leisure pool only",
+    "start_time": "n/a",
+    "end_time": "n/a",
+    "period_start_date": "2026-04-20",
+    "period_end_date": "2026-06-21",
+    "day_of_week": 7,
+    "facility": "Plant Recreation Centre"
   },
   {
     "activity": "Bootcamp",
