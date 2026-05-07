@@ -19553,7 +19553,7 @@
     "startTime": "18:00",
     "endTime": "20:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 3
   },
   {
@@ -19562,7 +19562,7 @@
     "startTime": "15:00",
     "endTime": "16:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 4
   },
   {
@@ -19571,7 +19571,7 @@
     "startTime": "16:00",
     "endTime": "17:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 4
   },
   {
@@ -19580,17 +19580,8 @@
     "startTime": "17:00",
     "endTime": "18:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton - family",
-    "startTime": "14:30",
-    "endTime": "16:30",
-    "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 7
   },
   {
     "facility": "Routhier Community Centre",
@@ -19598,7 +19589,7 @@
     "startTime": "18:00",
     "endTime": "20:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 4
   },
   {
@@ -19607,17 +19598,8 @@
     "startTime": "20:00",
     "endTime": "22:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 4
-  },
-  {
-    "facility": "Routhier Community Centre",
-    "activity": "Badminton - feather advanced",
-    "startTime": "16:30",
-    "endTime": "18:30",
-    "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
-    "dayOfWeek": 7
   },
   {
     "facility": "Routhier Community Centre",
@@ -19625,8 +19607,17 @@
     "startTime": "20:00",
     "endTime": "22:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Badminton - family",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "periodStartDate": null,
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 7
   },
   {
     "facility": "Routhier Community Centre",
@@ -19634,8 +19625,17 @@
     "startTime": "20:00",
     "endTime": "22:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 1
+  },
+  {
+    "facility": "Routhier Community Centre",
+    "activity": "Basketball",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "periodStartDate": null,
+    "periodEndDate": "2026-06-26",
+    "dayOfWeek": 2
   },
   {
     "facility": "Routhier Community Centre",
@@ -19643,7 +19643,7 @@
     "startTime": "12:00",
     "endTime": "14:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 7
   },
   {
@@ -19652,7 +19652,7 @@
     "startTime": "09:30",
     "endTime": "11:30",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 2
   },
   {
@@ -19661,7 +19661,7 @@
     "startTime": "09:30",
     "endTime": "11:30",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 3
   },
   {
@@ -19670,7 +19670,7 @@
     "startTime": "09:30",
     "endTime": "11:30",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 4
   },
   {
@@ -19679,7 +19679,7 @@
     "startTime": "16:00",
     "endTime": "17:30",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 1
   },
   {
@@ -19688,7 +19688,7 @@
     "startTime": "16:00",
     "endTime": "17:30",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 3
   },
   {
@@ -19697,7 +19697,7 @@
     "startTime": "16:00",
     "endTime": "17:30",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 5
   },
   {
@@ -19706,16 +19706,16 @@
     "startTime": "17:45",
     "endTime": "19:45",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 1
   },
   {
     "facility": "Routhier Community Centre",
     "activity": "Volleyball",
-    "startTime": "18:15",
-    "endTime": "20:15",
+    "startTime": "17:45",
+    "endTime": "19:45",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 2
   },
   {
@@ -19724,7 +19724,7 @@
     "startTime": "14:00",
     "endTime": "16:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 6
   },
   {
@@ -19733,7 +19733,7 @@
     "startTime": "16:00",
     "endTime": "18:00",
     "periodStartDate": null,
-    "periodEndDate": "2026-06-17",
+    "periodEndDate": "2026-06-26",
     "dayOfWeek": 6
   },
   {
@@ -19843,375 +19843,6 @@
     "periodStartDate": "2026-05-16",
     "periodEndDate": "2026-05-18",
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Womens only swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Preschool swim (shared pool)",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-05-06",
-    "dayOfWeek": 5
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
@@ -21745,609 +21376,6 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:00",
-    "endTime": "09:15",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "11:15",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Lane Swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public swim",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public swim",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general deep",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Aquafit - general shallow",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "07:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "12:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "07:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "07:00",
-    "endTime": "09:15",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "11:15",
-    "endTime": "13:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Sauna",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-04-07",
-    "periodEndDate": "2026-06-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
     "activity": "Weight and cardio room",
     "startTime": "07:00",
     "endTime": "22:00",
@@ -22830,6 +21858,654 @@
     "endTime": "17:00",
     "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-26",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "09:15",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:15",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public swim",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "09:15",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "11:15",
+    "endTime": "13:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-04-07",
+    "periodEndDate": "2026-06-28",
     "dayOfWeek": 7
   },
   {
