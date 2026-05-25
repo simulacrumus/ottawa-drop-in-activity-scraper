@@ -1,8 +1,143 @@
 [
   {
-    "activity": "Play Free",
-    "start_time": null,
-    "end_time": null,
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 2,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 2,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "16:30",
+    "end_time": "18:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 2,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 4,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 4,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 4,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:00",
+    "end_time": "13:00",
     "period_start_date": "2026-05-18",
     "period_end_date": "2026-05-24",
     "day_of_week": 6,
@@ -15,6 +150,42 @@
     "period_start_date": "2026-05-18",
     "period_end_date": "2026-05-24",
     "day_of_week": 6,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 6,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Play Free",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 6,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 7,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-18",
+    "period_end_date": "2026-05-24",
+    "day_of_week": 7,
     "facility": "Crestview Pool"
   },
   {
