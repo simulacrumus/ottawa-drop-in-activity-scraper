@@ -7232,7 +7232,8 @@
       "end_time": "10:20",
       "period_start_date": "2026-02-14",
       "period_end_date": "2026-05-30",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Greely Community Centre"
     },
     {
       "activity": "Kinderplay",
@@ -7240,7 +7241,8 @@
       "end_time": "11:50",
       "period_start_date": "2026-02-14",
       "period_end_date": "2026-05-30",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Greely Community Centre"
     }
   ],
   "9a35898e9dbcc2d92ce0e86884f1f3dd": [
@@ -15475,56 +15477,6 @@
       "day_of_week": 7
     }
   ],
-  "da8a1d4e737e8d0154faa7585ca3bfdc": [
-    {
-      "activity": "Badminton doubles - adult",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-28",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Badminton doubles - adult",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-28",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Badminton doubles - adult",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-28",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Badminton doubles - adult",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-28",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Badminton doubles - adult",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-28",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Badminton doubles - adult",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-06-28",
-      "day_of_week": 5
-    }
-  ],
   "91815807c63f97c1a6a229a9594ed721": [
     {
       "activity": "Bootcamp",
@@ -15797,6 +15749,56 @@
       "period_start_date": "2026-05-04",
       "period_end_date": "2026-06-28",
       "day_of_week": 2
+    }
+  ],
+  "da8a1d4e737e8d0154faa7585ca3bfdc": [
+    {
+      "activity": "Badminton doubles - adult",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-28",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Badminton doubles - adult",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-28",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Badminton doubles - adult",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-28",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Badminton doubles - adult",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-28",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Badminton doubles - adult",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-28",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Badminton doubles - adult",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-06-28",
+      "day_of_week": 5
     }
   ],
   "3b9211931a01688ea22bef4f792945fe": [
