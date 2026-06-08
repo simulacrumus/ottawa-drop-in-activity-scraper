@@ -1,5 +1,194 @@
 [
   {
+    "activity": "Kinderplay",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-01-11",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 7,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Kinderplay",
+    "start_time": "10:15",
+    "end_time": "11:15",
+    "period_start_date": "2026-01-11",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 7,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "16:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 6,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 6,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 7,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-05-25",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 7,
+    "facility": "Crestview Pool"
+  },
+  {
     "activity": "Pickleball - family (6+ years)",
     "start_time": null,
     "end_time": null,
@@ -547,5 +736,356 @@
     "period_end_date": "2026-06-21",
     "day_of_week": 7,
     "facility": "Plant Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "21:30",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "21:30",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "09:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "20:00",
+    "end_time": "21:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 6,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 7,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 6,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 7,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Wave swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Wave swim",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 6,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Wave swim",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 7,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Shallow",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Shallow",
+    "start_time": "08:05",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Shallow",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Shallow",
+    "start_time": "08:05",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Shallow",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Shallow",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Shallow",
+    "start_time": "08:05",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Deep",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 1,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Deep",
+    "start_time": "08:05",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Deep",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 2,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Deep",
+    "start_time": "08:05",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Deep",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 3,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Deep",
+    "start_time": "09:05",
+    "end_time": "10:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 4,
+    "facility": "Ray Friel Recreation Complex"
+  },
+  {
+    "activity": "Aquafit - Deep",
+    "start_time": "08:05",
+    "end_time": "09:00",
+    "period_start_date": "2026-04-07",
+    "period_end_date": "2026-06-07",
+    "day_of_week": 5,
+    "facility": "Ray Friel Recreation Complex"
   }
 ]
