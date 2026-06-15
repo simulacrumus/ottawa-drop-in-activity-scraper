@@ -6183,6 +6183,24 @@
     "dayOfWeek": 7
   },
   {
+    "facility": "Crestview Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Crestview Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
     "facility": "Deborah Anne Kirwan Pool",
     "activity": "Lane swim",
     "startTime": "20:30",
@@ -7342,6 +7360,24 @@
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-16",
     "dayOfWeek": 4
+  },
+  {
+    "facility": "Entrance Pool",
+    "activity": "Lane Swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Entrance Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
   },
   {
     "facility": "Eva James Memorial Community Centre",
@@ -11457,6 +11493,24 @@
     "dayOfWeek": 7
   },
   {
+    "facility": "General Burns Pool",
+    "activity": "Lane swim",
+    "startTime": "10:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "General Burns Pool",
+    "activity": "Public swim",
+    "startTime": "12:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
     "facility": "Genest Pool",
     "activity": "Lane Swim",
     "startTime": "14:00",
@@ -12591,6 +12645,33 @@
     "dayOfWeek": 7
   },
   {
+    "facility": "Glen Cairn Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
     "facility": "Heron Road Community Centre",
     "activity": "Weight and cardio room",
     "startTime": "08:00",
@@ -12697,420 +12778,6 @@
     "periodStartDate": null,
     "periodEndDate": null,
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "09:00",
-    "endTime": "09:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "10:00",
-    "endTime": "10:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "11:00",
-    "endTime": "11:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 50+",
-    "startTime": "13:00",
-    "endTime": "13:55",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "09:05",
-    "endTime": "10:05",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Pickleball 18+",
-    "startTime": "09:05",
-    "endTime": "10:05",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Badminton - family",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Badminton 18+",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Badminton 18+",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Badminton 18+",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Badminton 18+",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Badminton 18+",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Badminton 18+",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Volleyball 18+",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Basketball - youth (13 to 17 years)",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Basketball - adult (18+)",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Road Community Centre",
-    "activity": "Soccer - youth (13 to 17 years)",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-03-30",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
   },
   {
     "facility": "Hintonburg Community Centre",
@@ -15298,6 +14965,60 @@
     "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-06-26",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
   },
   {
     "facility": "Kanata Seniors Centre",
@@ -24417,6 +24138,123 @@
     "dayOfWeek": 6
   },
   {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "13:45",
+    "endTime": "14:45",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-07-01",
+    "dayOfWeek": 3
+  },
+  {
     "facility": "Richelieu Vanier Community Centre",
     "activity": "Pickleball 18+ - recreational play",
     "startTime": "13:00",
@@ -25369,177 +25207,6 @@
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-09-06",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "20:15",
-    "endTime": "21:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "16:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Pickleball - adult",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Basketball - youth",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Badminton - adult",
-    "startTime": "20:15",
-    "endTime": "21:15",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "South Fallingbrook Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "15:30",
-    "endTime": "16:30",
-    "periodStartDate": "2026-01-05",
-    "periodEndDate": "2026-06-14",
-    "dayOfWeek": 6
   },
   {
     "facility": "Splash Wave Pool",
