@@ -1,5 +1,23 @@
 [
   {
+    "activity": "Lane swim",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Bearbrook Pool"
+  },
+  {
     "activity": "Preschool swim - children's pool",
     "start_time": null,
     "end_time": null,
@@ -9,319 +27,76 @@
     "facility": "Bearbrook Pool"
   },
   {
-    "activity": "Pilates",
-    "start_time": "09:00",
-    "end_time": "09:55",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Pilates",
-    "start_time": "12:00",
-    "end_time": "12:55",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "10:30",
-    "end_time": "11:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "16:30",
-    "end_time": "17:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Cardio and strength 50+",
-    "start_time": "12:00",
-    "end_time": "12:55",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Cardio and strength 50+",
-    "start_time": "12:00",
-    "end_time": "12:55",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Core conditioning",
-    "start_time": "10:15",
-    "end_time": "11:10",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 7,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Zumba",
-    "start_time": "18:45",
-    "end_time": "19:40",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Zumba",
-    "start_time": "09:15",
-    "end_time": "10:10",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Zumba",
-    "start_time": "18:45",
-    "end_time": "19:40",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Zumba",
-    "start_time": "09:00",
-    "end_time": "09:55",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 7,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "08:30",
-    "end_time": "09:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "06:30",
-    "end_time": "07:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "08:30",
-    "end_time": "09:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "06:30",
-    "end_time": "07:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "08:30",
-    "end_time": "09:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Yoga",
-    "start_time": "09:15",
-    "end_time": "10:10",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Yoga",
-    "start_time": "10:30",
-    "end_time": "11:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Yoga",
-    "start_time": "10:30",
-    "end_time": "11:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Yoga",
-    "start_time": "10:30",
-    "end_time": "11:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Yoga",
-    "start_time": "09:00",
-    "end_time": "09:55",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "HIIT",
-    "start_time": "10:30",
-    "end_time": "11:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "HIIT",
-    "start_time": "16:30",
-    "end_time": "17:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "HIIT",
-    "start_time": "09:15",
-    "end_time": "10:10",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Strength",
-    "start_time": "16:30",
-    "end_time": "17:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Strength",
-    "start_time": "18:45",
-    "end_time": "19:40",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Strength",
-    "start_time": "09:15",
-    "end_time": "10:10",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Strength",
-    "start_time": "18:45",
-    "end_time": "19:40",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Strength",
-    "start_time": "16:30",
-    "end_time": "17:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Strength",
-    "start_time": "10:15",
-    "end_time": "11:10",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "20/20/20",
-    "start_time": "16:30",
-    "end_time": "17:25",
-    "period_start_date": "2026-05-17",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-  },
-  {
-    "activity": "Aquafit general",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-08-04",
-    "period_end_date": "2026-08-30",
-    "day_of_week": 1,
-    "facility": "Brewer Pool and Arena"
-  },
-  {
-    "activity": "Aquafit general",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-08-04",
-    "period_end_date": "2026-08-30",
-    "day_of_week": 6,
-    "facility": "Brewer Pool and Arena"
-  },
-  {
-    "activity": "Aquafit general",
-    "start_time": null,
-    "end_time": null,
-    "period_start_date": "2026-08-04",
-    "period_end_date": "2026-08-30",
-    "day_of_week": 7,
-    "facility": "Brewer Pool and Arena"
-  },
-  {
-    "activity": "Aquafit General Shallow/Deep",
-    "start_time": null,
-    "end_time": null,
+    "activity": "Lane swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
     "period_start_date": "2026-07-01",
     "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Weight and cardio room",
+    "start_time": "08:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Cardio and Strength",
+    "start_time": "10:30",
+    "end_time": "11:25",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit general",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-08-04",
+    "period_end_date": "2026-08-30",
+    "day_of_week": 1,
+    "facility": "Brewer Pool and Arena"
+  },
+  {
+    "activity": "Aquafit general",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-08-04",
+    "period_end_date": "2026-08-30",
+    "day_of_week": 6,
+    "facility": "Brewer Pool and Arena"
+  },
+  {
+    "activity": "Aquafit general",
+    "start_time": null,
+    "end_time": null,
+    "period_start_date": "2026-08-04",
+    "period_end_date": "2026-08-30",
+    "day_of_week": 7,
+    "facility": "Brewer Pool and Arena"
   },
   {
     "activity": "Aquafit General - Shallow/deep combo",
@@ -360,472 +135,40 @@
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
-    "activity": "Weight and cardio room",
-    "start_time": "07:30",
-    "end_time": "21:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Weight and cardio room",
-    "start_time": "07:30",
-    "end_time": "21:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Weight and cardio room",
-    "start_time": "07:30",
-    "end_time": "21:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Weight and cardio room",
-    "start_time": "07:30",
-    "end_time": "21:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Weight and cardio room",
-    "start_time": "07:30",
-    "end_time": "21:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Weight and cardio room",
-    "start_time": "08:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Weight and cardio room",
-    "start_time": "08:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 7,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Bootcamp",
-    "start_time": "17:45",
-    "end_time": "18:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "12:00",
-    "end_time": "13:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "17:45",
-    "end_time": "18:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "12:00",
-    "end_time": "13:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 7,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength 50+",
-    "start_time": "10:45",
-    "end_time": "11:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength 50+",
-    "start_time": "10:45",
-    "end_time": "11:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Cardio and strength 50+",
-    "start_time": "10:45",
-    "end_time": "11:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Core Conditioning",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "HIIT",
-    "start_time": "17:45",
-    "end_time": "18:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "19:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "19:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Indoor cycling",
-    "start_time": "08:00",
-    "end_time": "09:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Intervals",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Pilates",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Strength 50+",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Strength 50+",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Strength 50+",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Yoga",
-    "start_time": "19:15",
-    "end_time": "20:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Yoga",
+    "activity": "Lane swim",
     "start_time": "11:00",
-    "end_time": "12:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Yoga",
-    "start_time": "19:15",
-    "end_time": "20:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
+    "facility": "Crestview Pool"
   },
   {
-    "activity": "Yoga",
-    "start_time": "11:00",
-    "end_time": "12:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Yoga 50+",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Zumba",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Zumba",
-    "start_time": "10:30",
-    "end_time": "11:30",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Zumba Gold",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Zumba Gold",
-    "start_time": "10:45",
-    "end_time": "11:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Zumba Toning",
-    "start_time": "10:45",
-    "end_time": "11:45",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Kindergym",
-    "start_time": "09:00",
-    "end_time": "11:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Kindergym",
-    "start_time": "09:00",
-    "end_time": "11:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Kindergym",
-    "start_time": "09:30",
-    "end_time": "11:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Badminton",
-    "start_time": "12:30",
-    "end_time": "13:30",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Pickleball",
+    "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "14:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Diane Deans Greenboro Community Centre"
+    "end_time": "16:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
   },
   {
-    "activity": "Pickleball",
+    "activity": "Lane Swim",
     "start_time": "11:00",
-    "end_time": "12:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
+    "facility": "Entrance Pool"
   },
   {
-    "activity": "Pickleball",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Pickleball",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Pickleball",
-    "start_time": "10:30",
-    "end_time": "11:30",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 7,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Pickleball - Intermediate",
-    "start_time": "10:00",
-    "end_time": "11:00",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "Diane Deans Greenboro Community Centre"
-  },
-  {
-    "activity": "Pickleball - Intermediate",
-    "start_time": "10:30",
-    "end_time": "11:30",
-    "period_start_date": "2026-03-23",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Diane Deans Greenboro Community Centre"
+    "facility": "Entrance Pool"
   },
   {
     "activity": "Aquafit Lite - warm pool",
@@ -837,193 +180,76 @@
     "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Cardio and strength",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 2,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "17:45",
-    "end_time": "18:45",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 4,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Cardio and strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
+    "activity": "Lane swim",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "Hunt Club-Riverside Park Community Centre"
+    "facility": "General Burns Pool"
   },
   {
-    "activity": "Zumba",
-    "start_time": "17:45",
-    "end_time": "18:45",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
+    "activity": "Public swim",
+    "start_time": "12:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "Hunt Club-Riverside Park Community Centre"
+    "facility": "General Burns Pool"
   },
   {
-    "activity": "Zumba",
+    "activity": "Lane swim",
     "start_time": "10:00",
-    "end_time": "11:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
+    "end_time": "12:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Genest Pool"
   },
   {
-    "activity": "Stretch and strength",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 1,
-    "facility": "Hunt Club-Riverside Park Community Centre"
+    "activity": "Lane swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Genest Pool"
   },
   {
-    "activity": "Badminton - adult",
+    "activity": "Public swim",
     "start_time": "12:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Genest Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:30",
     "end_time": "13:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "Hunt Club-Riverside Park Community Centre"
+    "facility": "Glen Cairn Pool"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "13:00",
-    "end_time": "14:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
+    "activity": "Preschool swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
     "day_of_week": 3,
-    "facility": "Hunt Club-Riverside Park Community Centre"
+    "facility": "Glen Cairn Pool"
   },
   {
-    "activity": "Badminton - adult",
+    "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "14:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Badminton - adult",
-    "start_time": "14:00",
-    "end_time": "15:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 5,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Badminton - adult",
-    "start_time": "15:45",
-    "end_time": "16:45",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 7,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Badminton - family",
-    "start_time": "14:45",
-    "end_time": "15:45",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 7,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Basketball - adult",
-    "start_time": "14:15",
-    "end_time": "15:15",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Basketball - adult",
-    "start_time": "15:15",
-    "end_time": "16:15",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Kinderplay",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Kinderplay",
-    "start_time": "10:00",
-    "end_time": "11:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Open Gym - family",
-    "start_time": "14:15",
-    "end_time": "15:15",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Open Gym - family",
-    "start_time": "15:15",
-    "end_time": "16:15",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
-  },
-  {
-    "activity": "Volleyball - adult",
-    "start_time": "13:00",
-    "end_time": "14:00",
-    "period_start_date": "2026-01-05",
-    "period_end_date": "2026-06-30",
-    "day_of_week": 6,
-    "facility": "Hunt Club-Riverside Park Community Centre"
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
   },
   {
     "activity": "Public skating",
@@ -1150,5 +376,257 @@
     "period_end_date": "2026-06-30",
     "day_of_week": 3,
     "facility": "Jim Durrell Recreation Centre"
+  },
+  {
+    "activity": "Hot tub and sauna",
+    "start_time": "08:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "11:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "11:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Wave swim",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Weight and cardio room",
+    "start_time": "08:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Zumba Gold",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Lane swim - 25m pool",
+    "start_time": "07:00",
+    "end_time": "08:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Nepean Sportsplex"
+  },
+  {
+    "activity": "Lane swim - 50m short course",
+    "start_time": "09:00",
+    "end_time": "15:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Nepean Sportsplex"
+  },
+  {
+    "activity": "Public swim - 25m pool",
+    "start_time": "13:00",
+    "end_time": "15:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Nepean Sportsplex"
+  },
+  {
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "start_time": "07:30",
+    "end_time": "15:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Nepean Sportsplex"
+  },
+  {
+    "activity": "Cardio & weight room",
+    "start_time": "07:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Nepean Sportsplex"
+  },
+  {
+    "activity": "Basketball",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Nepean Sportsplex"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "11:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Kinderplay",
+    "start_time": "13:30",
+    "end_time": "14:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Kinderplay",
+    "start_time": "14:30",
+    "end_time": "15:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym",
+    "start_time": "11:30",
+    "end_time": "12:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym",
+    "start_time": "13:45",
+    "end_time": "14:45",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym",
+    "start_time": "14:45",
+    "end_time": "15:45",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym - family",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym - family",
+    "start_time": "10:30",
+    "end_time": "11:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym - youth",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Open Gym - youth",
+    "start_time": "12:30",
+    "end_time": "13:30",
+    "period_start_date": "2026-07-01",
+    "period_end_date": "2026-07-01",
+    "day_of_week": 3,
+    "facility": "Richcraft Recreation Complex-Kanata"
   }
 ]
