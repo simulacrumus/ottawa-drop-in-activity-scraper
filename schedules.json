@@ -5582,137 +5582,29 @@
   {
     "facility": "Dempsey Community Centre",
     "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
+    "startTime": "19:00",
+    "endTime": "20:00",
     "periodStartDate": null,
     "periodEndDate": null,
-    "dayOfWeek": 1
+    "dayOfWeek": 6
   },
   {
     "facility": "Dempsey Community Centre",
     "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
+    "startTime": "20:00",
+    "endTime": "21:00",
     "periodStartDate": null,
     "periodEndDate": null,
-    "dayOfWeek": 1
+    "dayOfWeek": 6
   },
   {
     "facility": "Dempsey Community Centre",
     "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
+    "startTime": "21:00",
+    "endTime": "22:00",
     "periodStartDate": null,
     "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Dempsey Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
+    "dayOfWeek": 6
   },
   {
     "facility": "Diane Deans Greenboro Community Centre",
@@ -9992,15 +9884,6 @@
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Step and strength",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Step and strength",
     "startTime": "09:00",
     "endTime": "10:15",
     "periodStartDate": "2026-07-06",
@@ -10024,6 +9907,15 @@
     "periodStartDate": "2026-07-06",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -17363,8 +17255,8 @@
   {
     "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Strength and balance - older adult",
-    "startTime": "13:00",
-    "endTime": "14:00",
+    "startTime": "13:30",
+    "endTime": "14:30",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-09-06",
     "dayOfWeek": 5
