@@ -5402,8 +5402,8 @@
   {
     "facility": "Deborah Anne Kirwan Pool",
     "activity": "Lane swim",
-    "startTime": "20:30",
-    "endTime": "21:30",
+    "startTime": "19:30",
+    "endTime": "20:30",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 5
@@ -5484,7 +5484,7 @@
     "facility": "Deborah Anne Kirwan Pool",
     "activity": "Public swim",
     "startTime": "18:30",
-    "endTime": "20:30",
+    "endTime": "19:30",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 5
@@ -5494,6 +5494,15 @@
     "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "16:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Deborah Anne Kirwan Pool",
+    "activity": "Public swim",
+    "startTime": "18:30",
+    "endTime": "19:30",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 6
@@ -11629,6 +11638,24 @@
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public skating",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2026-07-26",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Family skating",
+    "startTime": "16:15",
+    "endTime": "17:05",
+    "periodStartDate": "2026-07-26",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Open gym - family (ages 6 to 14)",
     "startTime": "18:00",
     "endTime": "19:00",
@@ -11747,8 +11774,8 @@
   {
     "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Basketball - adult",
-    "startTime": "16:40",
-    "endTime": "17:40",
+    "startTime": "16:50",
+    "endTime": "17:50",
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 6
@@ -11788,24 +11815,6 @@
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public skating",
-    "startTime": "17:15",
-    "endTime": "18:05",
-    "periodStartDate": "2026-07-26",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Family skating",
-    "startTime": "16:15",
-    "endTime": "17:05",
-    "periodStartDate": "2026-07-26",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 7
   },
   {
     "facility": "Nepean Seniors Centre",

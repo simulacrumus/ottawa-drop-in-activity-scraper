@@ -4876,7 +4876,7 @@
       "day_of_week": 5
     }
   ],
-  "043549f6ff21e52ec60f09ba9ff19a8d": [
+  "262b8343651183be473f7bbf2eb48e74": [
     {
       "activity": "Lane swim",
       "start_time": "20:30",
@@ -4903,8 +4903,8 @@
     },
     {
       "activity": "Lane swim",
-      "start_time": "20:30",
-      "end_time": "21:30",
+      "start_time": "19:30",
+      "end_time": "20:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-08-23",
       "day_of_week": 5
@@ -4976,7 +4976,7 @@
     {
       "activity": "Public swim",
       "start_time": "18:30",
-      "end_time": "20:30",
+      "end_time": "19:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-08-23",
       "day_of_week": 5
@@ -4985,6 +4985,14 @@
       "activity": "Public swim",
       "start_time": "13:00",
       "end_time": "16:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "18:30",
+      "end_time": "19:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-08-23",
       "day_of_week": 6
@@ -10508,7 +10516,25 @@
       "day_of_week": 3
     }
   ],
-  "54f14e9d8201f2e5c84263256b60ac51": [
+  "e3ec031fe14eed1b3944fe506aba7c70": [
+    {
+      "activity": "Public skating",
+      "start_time": "17:15",
+      "end_time": "18:05",
+      "period_start_date": "2026-07-26",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "16:15",
+      "end_time": "17:05",
+      "period_start_date": "2026-07-26",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 7
+    }
+  ],
+  "7f385590b702eaff1ee50043ab1b8f19": [
     {
       "activity": "Open gym - family (ages 6 to 14)",
       "start_time": "18:00",
@@ -10615,8 +10641,8 @@
     },
     {
       "activity": "Basketball - adult",
-      "start_time": "16:40",
-      "end_time": "17:40",
+      "start_time": "16:50",
+      "end_time": "17:50",
       "period_start_date": "2026-06-22",
       "period_end_date": "2026-08-30",
       "day_of_week": 6
@@ -10652,24 +10678,6 @@
       "period_start_date": "2026-06-22",
       "period_end_date": "2026-08-30",
       "day_of_week": 6
-    }
-  ],
-  "e3ec031fe14eed1b3944fe506aba7c70": [
-    {
-      "activity": "Public skating",
-      "start_time": "17:15",
-      "end_time": "18:05",
-      "period_start_date": "2026-07-26",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "16:15",
-      "end_time": "17:05",
-      "period_start_date": "2026-07-26",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 7
     }
   ],
   "7b003b096a2abe3352ec53a70603c1c3": [
