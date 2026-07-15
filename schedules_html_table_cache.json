@@ -10516,24 +10516,6 @@
       "day_of_week": 3
     }
   ],
-  "e3ec031fe14eed1b3944fe506aba7c70": [
-    {
-      "activity": "Public skating",
-      "start_time": "17:15",
-      "end_time": "18:05",
-      "period_start_date": "2026-07-26",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "16:15",
-      "end_time": "17:05",
-      "period_start_date": "2026-07-26",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 7
-    }
-  ],
   "7f385590b702eaff1ee50043ab1b8f19": [
     {
       "activity": "Open gym - family (ages 6 to 14)",
@@ -10678,6 +10660,24 @@
       "period_start_date": "2026-06-22",
       "period_end_date": "2026-08-30",
       "day_of_week": 6
+    }
+  ],
+  "e3ec031fe14eed1b3944fe506aba7c70": [
+    {
+      "activity": "Public skating",
+      "start_time": "17:15",
+      "end_time": "18:05",
+      "period_start_date": "2026-07-26",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "16:15",
+      "end_time": "17:05",
+      "period_start_date": "2026-07-26",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 7
     }
   ],
   "7b003b096a2abe3352ec53a70603c1c3": [
@@ -11222,7 +11222,171 @@
       "day_of_week": 7
     }
   ],
-  "36e0adf651889af9d0f209a73eef195e": [
+  "532c45119d4c800637cc59d9f685f175": [
+    {
+      "activity": "Basketball",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Basketball",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Basketball",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-06-29",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 7
+    }
+  ],
+  "1beb7256c778f8ad70ef9e20668cf3bd": [
+    {
+      "activity": "Squash - courts 1, 2, 3, 4",
+      "start_time": "07:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Squash - courts 1, 2, 3, 4",
+      "start_time": "07:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Squash - courts 1, 2, 3, 4",
+      "start_time": "07:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Squash - courts 1, 2, 3, 4",
+      "start_time": "07:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Squash - courts 1, 2, 3, 4",
+      "start_time": "07:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Squash - courts 1, 2, 3, 4",
+      "start_time": "08:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Squash - courts 1, 2, 3, 4",
+      "start_time": "08:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-03-23",
+      "period_end_date": "2026-08-30",
+      "day_of_week": 7
+    }
+  ],
+  "9f303a8aa77f403a84df3909abe70a20": [
     {
       "activity": "Bootcamp (Outdoor - weather dependent)",
       "start_time": "08:00",
@@ -11254,14 +11418,6 @@
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-08-30",
       "day_of_week": 4
-    },
-    {
-      "activity": "HIIT",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 2
     },
     {
       "activity": "HIIT",
@@ -11476,170 +11632,6 @@
       "start_time": "11:00",
       "end_time": "12:00",
       "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 7
-    }
-  ],
-  "532c45119d4c800637cc59d9f685f175": [
-    {
-      "activity": "Basketball",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Basketball",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Basketball",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "20:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-06-29",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 7
-    }
-  ],
-  "1beb7256c778f8ad70ef9e20668cf3bd": [
-    {
-      "activity": "Squash - courts 1, 2, 3, 4",
-      "start_time": "07:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Squash - courts 1, 2, 3, 4",
-      "start_time": "07:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Squash - courts 1, 2, 3, 4",
-      "start_time": "07:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Squash - courts 1, 2, 3, 4",
-      "start_time": "07:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Squash - courts 1, 2, 3, 4",
-      "start_time": "07:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Squash - courts 1, 2, 3, 4",
-      "start_time": "08:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Squash - courts 1, 2, 3, 4",
-      "start_time": "08:30",
-      "end_time": "21:30",
-      "period_start_date": "2026-03-23",
       "period_end_date": "2026-08-30",
       "day_of_week": 7
     }
