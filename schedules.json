@@ -5035,7 +5035,7 @@
     "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 1
   },
@@ -5044,7 +5044,7 @@
     "activity": "Public swim",
     "startTime": "17:30",
     "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 1
   },
@@ -5053,7 +5053,7 @@
     "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 2
   },
@@ -5062,7 +5062,7 @@
     "activity": "Public swim",
     "startTime": "17:30",
     "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 2
   },
@@ -5071,7 +5071,7 @@
     "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 3
   },
@@ -5080,7 +5080,7 @@
     "activity": "Public swim",
     "startTime": "17:30",
     "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 3
   },
@@ -5089,7 +5089,7 @@
     "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 4
   },
@@ -5098,7 +5098,7 @@
     "activity": "Public swim",
     "startTime": "17:30",
     "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 4
   },
@@ -5107,7 +5107,7 @@
     "activity": "Public swim",
     "startTime": "13:00",
     "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 5
   },
@@ -5116,16 +5116,25 @@
     "activity": "Public swim",
     "startTime": "17:30",
     "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 5
   },
   {
     "facility": "Corkstown Pool",
     "activity": "Public swim",
-    "startTime": "11:00",
+    "startTime": "12:00",
     "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Corkstown Pool",
+    "activity": "Public swim",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 6
   },
@@ -5134,7 +5143,7 @@
     "activity": "Public swim",
     "startTime": "11:00",
     "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
+    "periodStartDate": "2026-07-20",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 7
   },
@@ -7294,7 +7303,7 @@
     "activity": "Hockey - child (6 to 12 years)",
     "startTime": "18:15",
     "endTime": "19:05",
-    "periodStartDate": "2026-06-02",
+    "periodStartDate": "2026-07-15",
     "periodEndDate": "2026-08-29",
     "dayOfWeek": 5
   },
@@ -7303,9 +7312,27 @@
     "activity": "Hockey - youth (13 to 17 years)",
     "startTime": "19:15",
     "endTime": "20:05",
-    "periodStartDate": "2026-06-02",
+    "periodStartDate": "2026-07-15",
     "periodEndDate": "2026-08-29",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Fred Barrett Arena",
+    "activity": "Stick and Puck - preschool and child (3 to 12 years)",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2026-07-15",
+    "periodEndDate": "2026-08-29",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Fred Barrett Arena",
+    "activity": "Stick and Puck - youth and adult (13+)",
+    "startTime": "18:15",
+    "endTime": "19:05",
+    "periodStartDate": "2026-07-15",
+    "periodEndDate": "2026-08-29",
+    "dayOfWeek": 6
   },
   {
     "facility": "General Burns Pool",
@@ -11638,6 +11665,24 @@
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public skating",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2026-07-26",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Family skating",
+    "startTime": "16:15",
+    "endTime": "17:05",
+    "periodStartDate": "2026-07-26",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Open gym - family (ages 6 to 14)",
     "startTime": "18:00",
     "endTime": "19:00",
@@ -11747,8 +11792,8 @@
   {
     "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Volleyball - family (8 to 14 years old)",
-    "startTime": "15:45",
-    "endTime": "16:45",
+    "startTime": "15:40",
+    "endTime": "16:40",
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 7
@@ -11797,24 +11842,6 @@
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public skating",
-    "startTime": "17:15",
-    "endTime": "18:05",
-    "periodStartDate": "2026-07-26",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Family skating",
-    "startTime": "16:15",
-    "endTime": "17:05",
-    "periodStartDate": "2026-07-26",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 7
   },
   {
     "facility": "Nepean Seniors Centre",
@@ -12421,186 +12448,6 @@
   },
   {
     "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Basketball",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "20:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Badminton",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Squash - courts 1, 2, 3, 4",
-    "startTime": "07:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Squash - courts 1, 2, 3, 4",
-    "startTime": "07:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Squash - courts 1, 2, 3, 4",
-    "startTime": "07:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Squash - courts 1, 2, 3, 4",
-    "startTime": "07:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Squash - courts 1, 2, 3, 4",
-    "startTime": "07:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Squash - courts 1, 2, 3, 4",
-    "startTime": "08:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Nepean Sportsplex",
-    "activity": "Squash - courts 1, 2, 3, 4",
-    "startTime": "08:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-03-23",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Nepean Sportsplex",
     "activity": "Bootcamp (Outdoor - weather dependent)",
     "startTime": "08:00",
     "endTime": "09:00",
@@ -12875,6 +12722,186 @@
     "startTime": "11:00",
     "endTime": "12:00",
     "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Basketball",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Badminton",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "startTime": "07:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "startTime": "07:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "startTime": "07:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "startTime": "07:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "startTime": "07:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "startTime": "08:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Nepean Sportsplex",
+    "activity": "Squash - courts 1, 2, 3, 4",
+    "startTime": "08:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-03-23",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 7
   },
@@ -14527,12 +14554,12 @@
   },
   {
     "facility": "Plant Recreation Centre",
-    "activity": "Zumba Toning",
+    "activity": "Zumba",
     "startTime": "17:30",
     "endTime": "18:30",
     "periodStartDate": "2026-06-28",
     "periodEndDate": "2026-09-06",
-    "dayOfWeek": 2
+    "dayOfWeek": 5
   },
   {
     "facility": "Plant Recreation Centre",
@@ -14541,7 +14568,7 @@
     "endTime": "18:30",
     "periodStartDate": "2026-06-28",
     "periodEndDate": "2026-09-06",
-    "dayOfWeek": 5
+    "dayOfWeek": 2
   },
   {
     "facility": "Plant Recreation Centre",
@@ -17782,6 +17809,24 @@
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-28",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Wave Swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Splash Wave Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
   },
   {
     "facility": "St. Laurent Complex",
