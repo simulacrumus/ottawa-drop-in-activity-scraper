@@ -10540,24 +10540,6 @@
       "day_of_week": 3
     }
   ],
-  "e3ec031fe14eed1b3944fe506aba7c70": [
-    {
-      "activity": "Public skating",
-      "start_time": "17:15",
-      "end_time": "18:05",
-      "period_start_date": "2026-07-26",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Family skating",
-      "start_time": "16:15",
-      "end_time": "17:05",
-      "period_start_date": "2026-07-26",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 7
-    }
-  ],
   "3187aa4b082891d1bb3e5c3c9021a120": [
     {
       "activity": "Open gym - family (ages 6 to 14)",
@@ -10704,7 +10686,25 @@
       "day_of_week": 6
     }
   ],
-  "7b003b096a2abe3352ec53a70603c1c3": [
+  "e3ec031fe14eed1b3944fe506aba7c70": [
+    {
+      "activity": "Public skating",
+      "start_time": "17:15",
+      "end_time": "18:05",
+      "period_start_date": "2026-07-26",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "16:15",
+      "end_time": "17:05",
+      "period_start_date": "2026-07-26",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 7
+    }
+  ],
+  "068a9e0fbf920ddf2c5227b04120bd3c": [
     {
       "activity": "Mah Jong",
       "start_time": "13:00",
@@ -10744,14 +10744,6 @@
       "period_start_date": null,
       "period_end_date": null,
       "day_of_week": 1
-    },
-    {
-      "activity": "Shuffleboard",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 3
     },
     {
       "activity": "Euchre",
@@ -10794,14 +10786,6 @@
       "day_of_week": 4
     },
     {
-      "activity": "Duplicate Bridge",
-      "start_time": "12:00",
-      "end_time": "16:00",
-      "period_start_date": null,
-      "period_end_date": null,
-      "day_of_week": 5
-    },
-    {
       "activity": "Creative crafts",
       "start_time": "09:00",
       "end_time": "11:00",
@@ -10819,11 +10803,19 @@
     },
     {
       "activity": "Social board games",
-      "start_time": "15:30",
-      "end_time": "17:30",
+      "start_time": "09:30",
+      "end_time": "11:30",
       "period_start_date": null,
       "period_end_date": null,
       "day_of_week": 3
+    },
+    {
+      "activity": "Duplicate Bridge",
+      "start_time": "12:00",
+      "end_time": "16:00",
+      "period_start_date": null,
+      "period_end_date": null,
+      "day_of_week": 5
     }
   ],
   "93c1b56a79ad4c35c40cc1d288fa5852": [
@@ -16079,7 +16071,7 @@
       "day_of_week": 7
     }
   ],
-  "6ced6b339563efbd247a3da3b14b7be2": [
+  "100fd92fecae67320964719f989e5267": [
     {
       "activity": "Wave Swim",
       "start_time": "13:00",

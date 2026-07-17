@@ -11665,24 +11665,6 @@
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public skating",
-    "startTime": "17:15",
-    "endTime": "18:05",
-    "periodStartDate": "2026-07-26",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Family skating",
-    "startTime": "16:15",
-    "endTime": "17:05",
-    "periodStartDate": "2026-07-26",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Open gym - family (ages 6 to 14)",
     "startTime": "18:00",
     "endTime": "19:00",
@@ -11844,6 +11826,24 @@
     "dayOfWeek": 6
   },
   {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public skating",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2026-07-26",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Family skating",
+    "startTime": "16:15",
+    "endTime": "17:05",
+    "periodStartDate": "2026-07-26",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 7
+  },
+  {
     "facility": "Nepean Seniors Centre",
     "activity": "Mah Jong",
     "startTime": "13:00",
@@ -11887,15 +11887,6 @@
     "periodStartDate": null,
     "periodEndDate": null,
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Nepean Seniors Centre",
-    "activity": "Shuffleboard",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
   },
   {
     "facility": "Nepean Seniors Centre",
@@ -11944,15 +11935,6 @@
   },
   {
     "facility": "Nepean Seniors Centre",
-    "activity": "Duplicate Bridge",
-    "startTime": "12:00",
-    "endTime": "16:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Nepean Seniors Centre",
     "activity": "Creative crafts",
     "startTime": "09:00",
     "endTime": "11:00",
@@ -11972,11 +11954,20 @@
   {
     "facility": "Nepean Seniors Centre",
     "activity": "Social board games",
-    "startTime": "15:30",
-    "endTime": "17:30",
+    "startTime": "09:30",
+    "endTime": "11:30",
     "periodStartDate": null,
     "periodEndDate": null,
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Seniors Centre",
+    "activity": "Duplicate Bridge",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
   },
   {
     "facility": "Nepean Sportsplex",
