@@ -389,7 +389,7 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Lane swim",
-    "startTime": "16:00",
+    "startTime": "17:00",
     "endTime": "18:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
@@ -479,8 +479,8 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "12:30",
+    "startTime": "08:00",
+    "endTime": "09:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 6
@@ -488,8 +488,8 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Lane swim",
-    "startTime": "16:00",
-    "endTime": "17:00",
+    "startTime": "12:00",
+    "endTime": "13:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 6
@@ -587,7 +587,7 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Preschool swim",
-    "startTime": "16:00",
+    "startTime": "17:00",
     "endTime": "18:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
@@ -650,15 +650,6 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Preschool swim",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "periodStartDate": "2026-07-22",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Beaverbrook Pool - Kanata",
-    "activity": "Preschool swim",
     "startTime": "16:00",
     "endTime": "17:00",
     "periodStartDate": "2026-07-22",
@@ -687,16 +678,7 @@
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Public swim",
     "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-07-22",
-    "periodEndDate": "2026-08-23",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Beaverbrook Pool - Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
+    "endTime": "17:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 2
@@ -714,7 +696,7 @@
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Public swim",
     "startTime": "13:00",
-    "endTime": "16:00",
+    "endTime": "17:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 4
@@ -723,7 +705,7 @@
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Public swim",
     "startTime": "13:00",
-    "endTime": "16:00",
+    "endTime": "18:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 5
@@ -8856,6 +8838,141 @@
     "dayOfWeek": 4
   },
   {
+    "facility": "Heron Seniors Centre",
+    "activity": "Art studio",
+    "startTime": "08:30",
+    "endTime": "15:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Art studio",
+    "startTime": "08:30",
+    "endTime": "15:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Bridge",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Bridge",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Tea and chat",
+    "startTime": "09:30",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Euchre",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Social games",
+    "startTime": "12:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Billards and darts",
+    "startTime": "08:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Seniors Centre",
+    "activity": "Walking club",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-07-01",
+    "periodEndDate": "2026-08-28",
+    "dayOfWeek": 4
+  },
+  {
     "facility": "Hintonburg Community Centre",
     "activity": "Badminton",
     "startTime": "19:00",
@@ -13961,6 +14078,15 @@
   {
     "facility": "Pat Clark Community Centre",
     "activity": "Basketball - adult",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-07-07",
+    "periodEndDate": "2026-08-27",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pat Clark Community Centre",
+    "activity": "Basketball - adult",
     "startTime": "20:00",
     "endTime": "21:00",
     "periodStartDate": "2026-07-07",
@@ -13979,8 +14105,17 @@
   {
     "facility": "Pat Clark Community Centre",
     "activity": "Basketball - youth",
-    "startTime": "19:00",
-    "endTime": "20:00",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-07-07",
+    "periodEndDate": "2026-08-27",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pat Clark Community Centre",
+    "activity": "Basketball - youth",
+    "startTime": "18:00",
+    "endTime": "19:00",
     "periodStartDate": "2026-07-07",
     "periodEndDate": "2026-08-27",
     "dayOfWeek": 3
@@ -13996,25 +14131,7 @@
   },
   {
     "facility": "Pat Clark Community Centre",
-    "activity": "Kinderplay",
-    "startTime": "18:30",
-    "endTime": "19:15",
-    "periodStartDate": "2026-07-07",
-    "periodEndDate": "2026-08-27",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pat Clark Community Centre",
-    "activity": "Open gym - family",
-    "startTime": "18:15",
-    "endTime": "19:00",
-    "periodStartDate": "2026-07-07",
-    "periodEndDate": "2026-08-27",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pat Clark Community Centre",
-    "activity": "Open gym - preschool",
+    "activity": "Basketball - family",
     "startTime": "17:15",
     "endTime": "18:00",
     "periodStartDate": "2026-07-07",
@@ -18339,114 +18456,6 @@
     "endTime": "20:00",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richelieu Vanier Community Centre",
-    "activity": "Pickleball 18+ - recreational play",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-07-24",
     "dayOfWeek": 6
   },
   {

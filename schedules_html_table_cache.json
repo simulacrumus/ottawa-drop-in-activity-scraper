@@ -309,7 +309,7 @@
       "day_of_week": 1
     }
   ],
-  "b47b4709f86f99e7529b4a6ea02b3d20": [
+  "8108d609788c250bb71d3591939cca09": [
     {
       "activity": "Lane swim",
       "start_time": "08:00",
@@ -352,7 +352,7 @@
     },
     {
       "activity": "Lane swim",
-      "start_time": "16:00",
+      "start_time": "17:00",
       "end_time": "18:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
@@ -429,6 +429,22 @@
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
       "day_of_week": 5
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "period_start_date": "2026-07-22",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-07-22",
+      "period_end_date": "2026-08-23",
+      "day_of_week": 6
     },
     {
       "activity": "Lane swim",
@@ -436,22 +452,6 @@
       "end_time": "12:30",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-07-22",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:00",
-      "end_time": "12:30",
-      "period_start_date": "2026-07-22",
-      "period_end_date": "2026-08-23",
       "day_of_week": 7
     },
     {
@@ -528,7 +528,7 @@
     },
     {
       "activity": "Preschool swim",
-      "start_time": "16:00",
+      "start_time": "17:00",
       "end_time": "18:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
@@ -583,12 +583,13 @@
       "day_of_week": 5
     },
     {
-      "activity": "Preschool swim",
+      " activity": "Preschool swim",
       "start_time": "11:00",
       "end_time": "12:30",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Beaverbrook Pool - Kanata"
     },
     {
       "activity": "Preschool swim",
@@ -615,17 +616,18 @@
       "day_of_week": 7
     },
     {
-      "activity": "Public swim",
+      " activity": "Public swim",
       "start_time": "13:00",
       "end_time": "16:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
-      "day_of_week": 1
+      "day_of_week": 1,
+      "facility": "Beaverbrook Pool - Kanata"
     },
     {
       "activity": "Public swim",
       "start_time": "13:00",
-      "end_time": "16:00",
+      "end_time": "17:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
       "day_of_week": 2
@@ -641,7 +643,7 @@
     {
       "activity": "Public swim",
       "start_time": "13:00",
-      "end_time": "16:00",
+      "end_time": "17:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
       "day_of_week": 4
@@ -649,7 +651,7 @@
     {
       "activity": "Public swim",
       "start_time": "13:00",
-      "end_time": "16:00",
+      "end_time": "18:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
       "day_of_week": 5
@@ -8026,6 +8028,128 @@
       "day_of_week": 4
     }
   ],
+  "7739333d1f77692daac9e5903950ccfd": [
+    {
+      "activity": "Art studio",
+      "start_time": "08:30",
+      "end_time": "15:00",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Art studio",
+      "start_time": "08:30",
+      "end_time": "15:00",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Bridge",
+      "start_time": "12:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Bridge",
+      "start_time": "12:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Tea and chat",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Euchre",
+      "start_time": "12:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Social games",
+      "start_time": "12:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Billards and darts",
+      "start_time": "08:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Billards and darts",
+      "start_time": "08:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Billards and darts",
+      "start_time": "08:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Billards and darts",
+      "start_time": "08:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Billards and darts",
+      "start_time": "08:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Walking club",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Walking club",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Walking club",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-07-01",
+      "period_end_date": "2026-08-28",
+      "day_of_week": 4
+    }
+  ],
   "e96ebaa89b450a78954a104bd1bb49b4": [
     {
       "activity": "Badminton",
@@ -12647,7 +12771,7 @@
       "day_of_week": 7
     }
   ],
-  "60f9a05e66762d1e3b563e268aea7bb7": [
+  "cc8317a325d8574f5681951b48f96c5f": [
     {
       "activity": "Basketball - adult",
       "start_time": "19:30",
@@ -12655,6 +12779,14 @@
       "period_start_date": "2026-07-07",
       "period_end_date": "2026-08-27",
       "day_of_week": 2
+    },
+    {
+      "activity": "Basketball - adult",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-07-07",
+      "period_end_date": "2026-08-27",
+      "day_of_week": 3
     },
     {
       "activity": "Basketball - adult",
@@ -12674,8 +12806,16 @@
     },
     {
       "activity": "Basketball - youth",
-      "start_time": "19:00",
-      "end_time": "20:00",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2026-07-07",
+      "period_end_date": "2026-08-27",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Basketball - youth",
+      "start_time": "18:00",
+      "end_time": "19:00",
       "period_start_date": "2026-07-07",
       "period_end_date": "2026-08-27",
       "day_of_week": 3
@@ -12689,23 +12829,7 @@
       "day_of_week": 4
     },
     {
-      "activity": "Kinderplay",
-      "start_time": "18:30",
-      "end_time": "19:15",
-      "period_start_date": "2026-07-07",
-      "period_end_date": "2026-08-27",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Open gym - family",
-      "start_time": "18:15",
-      "end_time": "19:00",
-      "period_start_date": "2026-07-07",
-      "period_end_date": "2026-08-27",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Open gym - preschool",
+      "activity": "Basketball - family",
       "start_time": "17:15",
       "end_time": "18:00",
       "period_start_date": "2026-07-07",
@@ -16598,7 +16722,8 @@
       "end_time": "18:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 1
+      "day_of_week": 1,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16606,7 +16731,8 @@
       "end_time": "19:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 1
+      "day_of_week": 1,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16614,7 +16740,8 @@
       "end_time": "20:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 1
+      "day_of_week": 1,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16622,7 +16749,8 @@
       "end_time": "18:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 4
+      "day_of_week": 4,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16630,7 +16758,8 @@
       "end_time": "19:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 4
+      "day_of_week": 4,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16638,7 +16767,8 @@
       "end_time": "20:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 4
+      "day_of_week": 4,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16646,7 +16776,8 @@
       "end_time": "18:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 5
+      "day_of_week": 5,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16654,7 +16785,8 @@
       "end_time": "19:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 5
+      "day_of_week": 5,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16662,7 +16794,8 @@
       "end_time": "20:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 5
+      "day_of_week": 5,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16670,7 +16803,8 @@
       "end_time": "18:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16678,7 +16812,8 @@
       "end_time": "19:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Richelieu Vanier Community Centre"
     },
     {
       "activity": "Pickleball 18+ - recreational play",
@@ -16686,7 +16821,8 @@
       "end_time": "20:30",
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-07-24",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Richelieu Vanier Community Centre"
     }
   ],
   "7541d6d01ede0ff96e038a251f4cb914": [
