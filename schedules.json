@@ -623,7 +623,7 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Lane swim",
-    "startTime": "16:00",
+    "startTime": "17:00",
     "endTime": "18:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
@@ -650,7 +650,7 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Lane swim",
-    "startTime": "16:00",
+    "startTime": "17:00",
     "endTime": "18:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
@@ -803,7 +803,7 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Preschool swim",
-    "startTime": "16:00",
+    "startTime": "17:00",
     "endTime": "18:00",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
@@ -821,11 +821,11 @@
   {
     "facility": "Beaverbrook Pool - Kanata",
     "activity": "Preschool swim",
-    "startTime": "16:00",
-    "endTime": "18:00",
+    "startTime": "11:00",
+    "endTime": "12:30",
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
-    "dayOfWeek": 5
+    "dayOfWeek": 6
   },
   {
     "facility": "Beaverbrook Pool - Kanata",
@@ -853,6 +853,15 @@
     "periodStartDate": "2026-07-22",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Beaverbrook Pool - Kanata",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-07-22",
+    "periodEndDate": "2026-08-23",
+    "dayOfWeek": 1
   },
   {
     "facility": "Beaverbrook Pool - Kanata",
@@ -4240,6 +4249,204 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public swim with slide",
+    "startTime": "12:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - adult (18+)",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - adult (18+)",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - adult (18+)",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - adult (18+)",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Badminton - family",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "Therapeutic Pool",
     "startTime": "07:15",
     "endTime": "10:30",
@@ -5064,204 +5271,6 @@
     "endTime": "14:50",
     "periodStartDate": "2026-07-07",
     "periodEndDate": "2026-08-29",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "50+ swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public swim with slide",
-    "startTime": "12:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Indoor cycling",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Badminton - adult (18+)",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Badminton - adult (18+)",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Badminton - adult (18+)",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Badminton - adult (18+)",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Badminton - family",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Family skate",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
     "dayOfWeek": 6
   },
   {
@@ -8470,6 +8479,87 @@
   },
   {
     "facility": "Glen Cairn Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Preschool swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Glen Cairn Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Glen Cairn Pool",
     "activity": "Lane Swim",
     "startTime": "12:00",
     "endTime": "13:00",
@@ -8818,87 +8908,6 @@
     "periodStartDate": "2026-06-27",
     "periodEndDate": "2026-08-23",
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Preschool swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Glen Cairn Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
   },
   {
     "facility": "Heron Road Community Centre",
@@ -17227,6 +17236,312 @@
   },
   {
     "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "12:45",
+    "endTime": "13:45",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "13:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "13:45",
+    "endTime": "14:45",
+    "periodStartDate": "2026-08-01",
+    "periodEndDate": "2026-08-01",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-08-02",
+    "periodEndDate": "2026-08-02",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Sauna",
+    "startTime": "11:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Kinderplay",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "13:45",
+    "endTime": "14:45",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - family",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
+    "activity": "Open Gym - youth",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-08-03",
+    "periodEndDate": "2026-08-03",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Richcraft Recreation Complex-Kanata",
     "activity": "Reduced lane swim",
     "startTime": "06:15",
     "endTime": "08:30",
@@ -18403,312 +18718,6 @@
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "14:45",
-    "endTime": "15:45",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "10:45",
-    "endTime": "11:45",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "12:15",
-    "endTime": "13:15",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "12:45",
-    "endTime": "13:45",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "13:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "13:45",
-    "endTime": "14:45",
-    "periodStartDate": "2026-08-01",
-    "periodEndDate": "2026-08-01",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-08-02",
-    "periodEndDate": "2026-08-02",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Sauna",
-    "startTime": "11:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Kinderplay",
-    "startTime": "14:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "13:45",
-    "endTime": "14:45",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym",
-    "startTime": "14:45",
-    "endTime": "15:45",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - family",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Richcraft Recreation Complex-Kanata",
-    "activity": "Open Gym - youth",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-08-03",
-    "periodEndDate": "2026-08-03",
-    "dayOfWeek": 1
   },
   {
     "facility": "Rideauview Community Centre",

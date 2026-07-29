@@ -471,7 +471,7 @@
       "day_of_week": 1
     }
   ],
-  "8108d609788c250bb71d3591939cca09": [
+  "06e95847f9f20f521df96dbb40d6af8e": [
     {
       "activity": "Lane swim",
       "start_time": "08:00",
@@ -562,7 +562,7 @@
     },
     {
       "activity": "Lane swim",
-      "start_time": "16:00",
+      "start_time": "17:00",
       "end_time": "18:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
@@ -586,7 +586,7 @@
     },
     {
       "activity": "Lane swim",
-      "start_time": "16:00",
+      "start_time": "17:00",
       "end_time": "18:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
@@ -722,7 +722,7 @@
     },
     {
       "activity": "Preschool swim",
-      "start_time": "16:00",
+      "start_time": "17:00",
       "end_time": "18:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
@@ -738,20 +738,11 @@
     },
     {
       "activity": "Preschool swim",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "period_start_date": "2026-07-22",
-      "period_end_date": "2026-08-23",
-      "day_of_week": 5
-    },
-    {
-      " activity": "Preschool swim",
       "start_time": "11:00",
       "end_time": "12:30",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
-      "day_of_week": 6,
-      "facility": "Beaverbrook Pool - Kanata"
+      "day_of_week": 6
     },
     {
       "activity": "Preschool swim",
@@ -778,13 +769,12 @@
       "day_of_week": 7
     },
     {
-      " activity": "Public swim",
+      "activity": "Public swim",
       "start_time": "13:00",
       "end_time": "16:00",
       "period_start_date": "2026-07-22",
       "period_end_date": "2026-08-23",
-      "day_of_week": 1,
-      "facility": "Beaverbrook Pool - Kanata"
+      "day_of_week": 1
     },
     {
       "activity": "Public swim",
@@ -3842,6 +3832,184 @@
       "day_of_week": 7
     }
   ],
+  "1e1bba38d13d20b451231fbabb8874e3": [
+    {
+      "activity": "Lane swim",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "50+ swim",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "50+ swim",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim with slide",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim with slide",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public swim with slide",
+      "start_time": "12:30",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Indoor cycling",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Cardio and strength",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Badminton - adult (18+)",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton - adult (18+)",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton - adult (18+)",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton - adult (18+)",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton - family",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Pick-up hockey 18+",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Family skate",
+      "start_time": "13:00",
+      "end_time": "13:50",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public skate",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    }
+  ],
   "a66761e951d471389f425af9af7914f5": [
     {
       "activity": "Therapeutic Pool",
@@ -4621,184 +4789,6 @@
       "end_time": "14:50",
       "period_start_date": "2026-07-07",
       "period_end_date": "2026-08-29",
-      "day_of_week": 6
-    }
-  ],
-  "1e1bba38d13d20b451231fbabb8874e3": [
-    {
-      "activity": "Lane swim",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "50+ swim",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "50+ swim",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim with slide",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public swim with slide",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Public swim with slide",
-      "start_time": "12:30",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Indoor cycling",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Cardio and strength",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Badminton - adult (18+)",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton - adult (18+)",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton - adult (18+)",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton - adult (18+)",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton - family",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Pick-up hockey 18+",
-      "start_time": "16:00",
-      "end_time": "16:50",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Family skate",
-      "start_time": "13:00",
-      "end_time": "13:50",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public skate",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
       "day_of_week": 6
     }
   ],
@@ -7694,6 +7684,80 @@
       "day_of_week": 5
     }
   ],
+  "ea038bd18dc75dc5e81a175395eac3e2": [
+    {
+      "activity": "Lane swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    }
+  ],
   "202e708d155948a040cf81c8a1657afd": [
     {
       "activity": "Lane Swim",
@@ -8006,80 +8070,6 @@
       "period_start_date": "2026-06-27",
       "period_end_date": "2026-08-23",
       "day_of_week": 7
-    }
-  ],
-  "ea038bd18dc75dc5e81a175395eac3e2": [
-    {
-      "activity": "Lane swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
     }
   ],
   "d061596b7d0e0a17e7d4bcae4f578e2a": [
@@ -15611,6 +15601,280 @@
       "day_of_week": 7
     }
   ],
+  "c2e51fd6a34049c13a2871426ea7222d": [
+    {
+      "activity": "Lane swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Sauna",
+      "start_time": "11:30",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open Gym",
+      "start_time": "11:45",
+      "end_time": "12:45",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open Gym",
+      "start_time": "14:45",
+      "end_time": "15:45",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open Gym - family",
+      "start_time": "10:45",
+      "end_time": "11:45",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open Gym - family",
+      "start_time": "12:15",
+      "end_time": "13:15",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open Gym - family",
+      "start_time": "12:45",
+      "end_time": "13:45",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open Gym - youth",
+      "start_time": "13:15",
+      "end_time": "14:15",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Open Gym - youth",
+      "start_time": "13:45",
+      "end_time": "14:45",
+      "period_start_date": "2026-08-01",
+      "period_end_date": "2026-08-01",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Sauna",
+      "start_time": "11:30",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Open Gym",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Open Gym - family",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Open Gym - family",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Open Gym - youth",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Open Gym - youth",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-08-02",
+      "period_end_date": "2026-08-02",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Sauna",
+      "start_time": "11:30",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Kinderplay",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym",
+      "start_time": "13:45",
+      "end_time": "14:45",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym",
+      "start_time": "14:45",
+      "end_time": "15:45",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym - family",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym - family",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym - youth",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Open Gym - youth",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    }
+  ],
   "73ed6595950ea5e11d6c66f4ff857b70": [
     {
       "activity": "Reduced lane swim",
@@ -16665,280 +16929,6 @@
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-08-30",
       "day_of_week": 6
-    }
-  ],
-  "c2e51fd6a34049c13a2871426ea7222d": [
-    {
-      "activity": "Lane swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Sauna",
-      "start_time": "11:30",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open Gym",
-      "start_time": "11:45",
-      "end_time": "12:45",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open Gym",
-      "start_time": "14:45",
-      "end_time": "15:45",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open Gym - family",
-      "start_time": "10:45",
-      "end_time": "11:45",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open Gym - family",
-      "start_time": "12:15",
-      "end_time": "13:15",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open Gym - family",
-      "start_time": "12:45",
-      "end_time": "13:45",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open Gym - youth",
-      "start_time": "13:15",
-      "end_time": "14:15",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Open Gym - youth",
-      "start_time": "13:45",
-      "end_time": "14:45",
-      "period_start_date": "2026-08-01",
-      "period_end_date": "2026-08-01",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Sauna",
-      "start_time": "11:30",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Open Gym",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Open Gym - family",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Open Gym - family",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Open Gym - youth",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Open Gym - youth",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "period_start_date": "2026-08-02",
-      "period_end_date": "2026-08-02",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Sauna",
-      "start_time": "11:30",
-      "end_time": "16:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Kinderplay",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym",
-      "start_time": "13:45",
-      "end_time": "14:45",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym",
-      "start_time": "14:45",
-      "end_time": "15:45",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym - family",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym - family",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym - youth",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Open Gym - youth",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
     }
   ],
   "7541d6d01ede0ff96e038a251f4cb914": [
