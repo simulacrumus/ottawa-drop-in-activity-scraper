@@ -7080,7 +7080,41 @@
       "day_of_week": 6
     }
   ],
-  "2b306311e496787085b1b6608458f18a": [
+  "c2306b8b48d6dbcb855a16e328bce071": [
+    {
+      "activity": "Hockey - child (6 to 12 years)",
+      "start_time": "18:15",
+      "end_time": "19:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Hockey - youth (13 to 17 years)",
+      "start_time": "19:15",
+      "end_time": "20:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Stick and Puck - preschool and child (3 to 12 years)",
+      "start_time": "17:15",
+      "end_time": "18:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Stick and Puck - youth and adult (13+)",
+      "start_time": "18:15",
+      "end_time": "19:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 6
+    }
+  ],
+  "3ccda7960f979e97e9d6a65399ee2062": [
     {
       "activity": "Public skating",
       "start_time": "16:15",
@@ -7120,40 +7154,6 @@
       "period_start_date": "2026-06-02",
       "period_end_date": "2026-08-29",
       "day_of_week": 2
-    }
-  ],
-  "c2306b8b48d6dbcb855a16e328bce071": [
-    {
-      "activity": "Hockey - child (6 to 12 years)",
-      "start_time": "18:15",
-      "end_time": "19:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Hockey - youth (13 to 17 years)",
-      "start_time": "19:15",
-      "end_time": "20:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Stick and Puck - preschool and child (3 to 12 years)",
-      "start_time": "17:15",
-      "end_time": "18:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Stick and Puck - youth and adult (13+)",
-      "start_time": "18:15",
-      "end_time": "19:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 6
     }
   ],
   "156384e89ba0ce02caa3d67c255d7dec": [
@@ -7366,48 +7366,6 @@
       "period_start_date": "2026-06-25",
       "period_end_date": "2026-08-09",
       "day_of_week": 7
-    }
-  ],
-  "a9c154cbee7bda05784692af35c7ddc7": [
-    {
-      "activity": "Lane swim",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "11:00",
-      "end_time": "16:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Aquafit General - deep",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Aquafit General - shallow",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
     }
   ],
   "06b5d0493e21d116b2f4facd3dfed604": [
@@ -7682,6 +7640,48 @@
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-08-30",
       "day_of_week": 5
+    }
+  ],
+  "158e20a9eb65fc01cc6c9b9b859de66b": [
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "12:00",
+      "end_time": "16:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Aquafit General - deep",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Aquafit General - shallow",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
     }
   ],
   "ea038bd18dc75dc5e81a175395eac3e2": [
@@ -8130,7 +8130,7 @@
       "day_of_week": 7
     }
   ],
-  "6844c737503f009f252c893a231f0a50": [
+  "b2223eb8c145266adf113b5982d237e1": [
     {
       "activity": "Pickleball 18+",
       "start_time": "17:00",
@@ -8154,6 +8154,38 @@
       "period_start_date": "2026-06-30",
       "period_end_date": "2026-09-06",
       "day_of_week": 1
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-06-30",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-06-30",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-06-30",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-06-30",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 3
     },
     {
       "activity": "Pickleball 18+",
@@ -8236,9 +8268,9 @@
       "day_of_week": 2
     },
     {
-      "activity": "Volleyball 18+",
-      "start_time": "17:00",
-      "end_time": "18:00",
+      "activity": "Badminton 18+",
+      "start_time": "19:00",
+      "end_time": "20:00",
       "period_start_date": "2026-06-30",
       "period_end_date": "2026-09-06",
       "day_of_week": 2

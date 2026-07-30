@@ -7813,6 +7813,42 @@
   },
   {
     "facility": "Fred Barrett Arena",
+    "activity": "Hockey - child (6 to 12 years)",
+    "startTime": "18:15",
+    "endTime": "19:05",
+    "periodStartDate": "2026-07-15",
+    "periodEndDate": "2026-08-29",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Fred Barrett Arena",
+    "activity": "Hockey - youth (13 to 17 years)",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2026-07-15",
+    "periodEndDate": "2026-08-29",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Fred Barrett Arena",
+    "activity": "Stick and Puck - preschool and child (3 to 12 years)",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2026-07-15",
+    "periodEndDate": "2026-08-29",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Fred Barrett Arena",
+    "activity": "Stick and Puck - youth and adult (13+)",
+    "startTime": "18:15",
+    "endTime": "19:05",
+    "periodStartDate": "2026-07-15",
+    "periodEndDate": "2026-08-29",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Fred Barrett Arena",
     "activity": "Public skating",
     "startTime": "16:15",
     "endTime": "17:05",
@@ -7857,42 +7893,6 @@
     "dayOfWeek": 2
   },
   {
-    "facility": "Fred Barrett Arena",
-    "activity": "Hockey - child (6 to 12 years)",
-    "startTime": "18:15",
-    "endTime": "19:05",
-    "periodStartDate": "2026-07-15",
-    "periodEndDate": "2026-08-29",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Fred Barrett Arena",
-    "activity": "Hockey - youth (13 to 17 years)",
-    "startTime": "19:15",
-    "endTime": "20:05",
-    "periodStartDate": "2026-07-15",
-    "periodEndDate": "2026-08-29",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Fred Barrett Arena",
-    "activity": "Stick and Puck - preschool and child (3 to 12 years)",
-    "startTime": "17:15",
-    "endTime": "18:05",
-    "periodStartDate": "2026-07-15",
-    "periodEndDate": "2026-08-29",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Fred Barrett Arena",
-    "activity": "Stick and Puck - youth and adult (13+)",
-    "startTime": "18:15",
-    "endTime": "19:05",
-    "periodStartDate": "2026-07-15",
-    "periodEndDate": "2026-08-29",
-    "dayOfWeek": 6
-  },
-  {
     "facility": "General Burns Pool",
     "activity": "Lane swim",
     "startTime": "10:30",
@@ -8125,6 +8125,312 @@
     "periodStartDate": "2026-06-25",
     "periodEndDate": "2026-08-09",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim - shared pool",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim - shared pool",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim - shared pool",
+    "startTime": "17:00",
+    "endTime": "19:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim - shared pool",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim - shared pool",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim - shared pool",
+    "startTime": "17:00",
+    "endTime": "19:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Lane Swim - shared pool",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "19:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "16:15",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Public Swim",
+    "startTime": "13:00",
+    "endTime": "16:15",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Aquafit General - deep",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Aquafit General - deep",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Aquafit General - deep",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Aquafit General - shallow",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Aquafit General - shallow",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Genest Pool",
+    "activity": "Aquafit General - shallow",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
   },
   {
     "facility": "Genest Pool",
@@ -8147,7 +8453,7 @@
   {
     "facility": "Genest Pool",
     "activity": "Public swim",
-    "startTime": "11:00",
+    "startTime": "12:00",
     "endTime": "16:30",
     "periodStartDate": "2026-08-03",
     "periodEndDate": "2026-08-03",
@@ -8170,312 +8476,6 @@
     "periodStartDate": "2026-08-03",
     "periodEndDate": "2026-08-03",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim - shared pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim - shared pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim - shared pool",
-    "startTime": "17:00",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim - shared pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim - shared pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim - shared pool",
-    "startTime": "17:00",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Lane Swim - shared pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Public Swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Public Swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Public Swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Public Swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Public Swim",
-    "startTime": "13:00",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Public Swim",
-    "startTime": "13:00",
-    "endTime": "16:15",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Public Swim",
-    "startTime": "13:00",
-    "endTime": "16:15",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Aquafit General - deep",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Aquafit General - deep",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Aquafit General - deep",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Genest Pool",
-    "activity": "Aquafit General - shallow",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
   },
   {
     "facility": "Glen Cairn Pool",
@@ -9002,6 +9002,42 @@
   {
     "facility": "Heron Road Community Centre",
     "activity": "Pickleball 18+",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-06-30",
+    "periodEndDate": "2026-09-06",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-06-30",
+    "periodEndDate": "2026-09-06",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-06-30",
+    "periodEndDate": "2026-09-06",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-30",
+    "periodEndDate": "2026-09-06",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
     "startTime": "08:00",
     "endTime": "09:00",
     "periodStartDate": "2026-06-30",
@@ -9091,9 +9127,9 @@
   },
   {
     "facility": "Heron Road Community Centre",
-    "activity": "Volleyball 18+",
-    "startTime": "17:00",
-    "endTime": "18:00",
+    "activity": "Badminton 18+",
+    "startTime": "19:00",
+    "endTime": "20:00",
     "periodStartDate": "2026-06-30",
     "periodEndDate": "2026-09-06",
     "dayOfWeek": 2
