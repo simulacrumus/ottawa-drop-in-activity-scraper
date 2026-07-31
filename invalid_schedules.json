@@ -88,5 +88,41 @@
     "period_end_date": "2026-08-03",
     "day_of_week": 1,
     "facility": "Kanata Leisure Centre and Wave Pool"
+  },
+  {
+    "activity": "Child hockey (6 to 12 years)",
+    "start_time": "16:00",
+    "end_time": "16:50",
+    "period_start_date": "2026-05-08",
+    "period_end_date": "2026-07-30",
+    "day_of_week": 5,
+    "facility": "Tom Brown Arena"
+  },
+  {
+    "activity": "Figure skating",
+    "start_time": "17:00",
+    "end_time": "17:50",
+    "period_start_date": "2026-05-08",
+    "period_end_date": "2026-07-30",
+    "day_of_week": 5,
+    "facility": "Tom Brown Arena"
+  },
+  {
+    "activity": "Hockey 18+",
+    "start_time": "18:00",
+    "end_time": "18:50",
+    "period_start_date": "2026-05-08",
+    "period_end_date": "2026-07-30",
+    "day_of_week": 4,
+    "facility": "Tom Brown Arena"
+  },
+  {
+    "activity": "Public skating",
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "period_start_date": "2026-05-08",
+    "period_end_date": "2026-07-30",
+    "day_of_week": 5,
+    "facility": "Tom Brown Arena"
   }
 ]

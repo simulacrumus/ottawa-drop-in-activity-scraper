@@ -6998,7 +6998,7 @@
       "day_of_week": 7
     }
   ],
-  "a66716f61a075981a31c8ff6a102f6c0": [
+  "67214786a7ceb5dffa76175697552dcc": [
     {
       "activity": "Core conditioning",
       "start_time": "19:45",
@@ -7014,6 +7014,38 @@
       "period_start_date": "2026-06-22",
       "period_end_date": "2026-09-06",
       "day_of_week": 1
+    },
+    {
+      "activity": "Pilates",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2026-06-22",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Pilates",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2026-06-22",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pilates",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-06-22",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "19:45",
+      "end_time": "20:45",
+      "period_start_date": "2026-06-22",
+      "period_end_date": "2026-09-06",
+      "day_of_week": 3
     },
     {
       "activity": "Yoga",
@@ -7080,40 +7112,6 @@
       "day_of_week": 6
     }
   ],
-  "c2306b8b48d6dbcb855a16e328bce071": [
-    {
-      "activity": "Hockey - child (6 to 12 years)",
-      "start_time": "18:15",
-      "end_time": "19:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Hockey - youth (13 to 17 years)",
-      "start_time": "19:15",
-      "end_time": "20:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Stick and Puck - preschool and child (3 to 12 years)",
-      "start_time": "17:15",
-      "end_time": "18:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Stick and Puck - youth and adult (13+)",
-      "start_time": "18:15",
-      "end_time": "19:05",
-      "period_start_date": "2026-07-15",
-      "period_end_date": "2026-08-29",
-      "day_of_week": 6
-    }
-  ],
   "3ccda7960f979e97e9d6a65399ee2062": [
     {
       "activity": "Public skating",
@@ -7154,6 +7152,40 @@
       "period_start_date": "2026-06-02",
       "period_end_date": "2026-08-29",
       "day_of_week": 2
+    }
+  ],
+  "c2306b8b48d6dbcb855a16e328bce071": [
+    {
+      "activity": "Hockey - child (6 to 12 years)",
+      "start_time": "18:15",
+      "end_time": "19:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Hockey - youth (13 to 17 years)",
+      "start_time": "19:15",
+      "end_time": "20:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Stick and Puck - preschool and child (3 to 12 years)",
+      "start_time": "17:15",
+      "end_time": "18:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Stick and Puck - youth and adult (13+)",
+      "start_time": "18:15",
+      "end_time": "19:05",
+      "period_start_date": "2026-07-15",
+      "period_end_date": "2026-08-29",
+      "day_of_week": 6
     }
   ],
   "156384e89ba0ce02caa3d67c255d7dec": [
@@ -7366,6 +7398,48 @@
       "period_start_date": "2026-06-25",
       "period_end_date": "2026-08-09",
       "day_of_week": 7
+    }
+  ],
+  "158e20a9eb65fc01cc6c9b9b859de66b": [
+    {
+      "activity": "Lane swim",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "12:00",
+      "end_time": "16:30",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Aquafit General - deep",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Aquafit General - shallow",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
     }
   ],
   "06b5d0493e21d116b2f4facd3dfed604": [
@@ -7640,48 +7714,6 @@
       "period_start_date": "2026-06-29",
       "period_end_date": "2026-08-30",
       "day_of_week": 5
-    }
-  ],
-  "158e20a9eb65fc01cc6c9b9b859de66b": [
-    {
-      "activity": "Lane swim",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "16:30",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Aquafit General - deep",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Aquafit General - shallow",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-08-03",
-      "period_end_date": "2026-08-03",
-      "day_of_week": 1
     }
   ],
   "ea038bd18dc75dc5e81a175395eac3e2": [
@@ -9414,6 +9446,56 @@
       "period_start_date": "2026-06-22",
       "period_end_date": "2026-08-30",
       "day_of_week": 7
+    }
+  ],
+  "8d4665ee8280f687223d39f0a8c39be8": [
+    {
+      "activity": "Rollerblade - all ages",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Rollerblade - all ages",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Roller hockey - youth",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Ball hockey - child",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Basketball - child",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Basketball - youth",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "period_start_date": "2026-08-03",
+      "period_end_date": "2026-08-03",
+      "day_of_week": 1
     }
   ],
   "47575a7e5688ca375ca85d7343d8cf2f": [
@@ -16997,7 +17079,7 @@
       "day_of_week": 4
     }
   ],
-  "2549620057e79ab1d3281c7578401ca5": [
+  "cee30311a675f2a84e4a20f852a4fc35": [
     {
       "activity": "Badminton - adult",
       "start_time": "18:00",
@@ -17029,22 +17111,6 @@
       "period_start_date": "2026-06-27",
       "period_end_date": "2026-08-30",
       "day_of_week": 3
-    },
-    {
-      "activity": "Badminton - adult",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "period_start_date": "2026-06-27",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Badminton - adult",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-06-27",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 4
     },
     {
       "activity": "Badminton - adult",
@@ -17085,22 +17151,6 @@
       "period_start_date": "2026-06-27",
       "period_end_date": "2026-08-30",
       "day_of_week": 4
-    },
-    {
-      "activity": "Badminton - adult",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "period_start_date": "2026-06-27",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Badminton - adult",
-      "start_time": "17:30",
-      "end_time": "18:30",
-      "period_start_date": "2026-06-27",
-      "period_end_date": "2026-08-30",
-      "day_of_week": 6
     },
     {
       "activity": "Badminton - adult",
@@ -18790,7 +18840,8 @@
       "end_time": "16:50",
       "period_start_date": "2026-05-08",
       "period_end_date": "2026-07-30",
-      "day_of_week": 5
+      "day_of_week": 5,
+      "facility": "Tom Brown Arena"
     },
     {
       "activity": "Figure skating",
@@ -18798,7 +18849,8 @@
       "end_time": "17:50",
       "period_start_date": "2026-05-08",
       "period_end_date": "2026-07-30",
-      "day_of_week": 5
+      "day_of_week": 5,
+      "facility": "Tom Brown Arena"
     },
     {
       "activity": "Hockey 18+",
@@ -18806,7 +18858,8 @@
       "end_time": "18:50",
       "period_start_date": "2026-05-08",
       "period_end_date": "2026-07-30",
-      "day_of_week": 4
+      "day_of_week": 4,
+      "facility": "Tom Brown Arena"
     }
   ],
   "1890009c3581f57c23a3034195832300": [
@@ -18816,7 +18869,8 @@
       "end_time": "15:50",
       "period_start_date": "2026-05-08",
       "period_end_date": "2026-07-30",
-      "day_of_week": 5
+      "day_of_week": 5,
+      "facility": "Tom Brown Arena"
     }
   ]
 }
