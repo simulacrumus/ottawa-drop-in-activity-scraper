@@ -3287,8 +3287,17 @@
   {
     "facility": "Brewer Pool and Arena",
     "activity": "Lane swim",
-    "startTime": "19:00",
+    "startTime": "20:00",
     "endTime": "21:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
     "periodStartDate": "2026-08-04",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 1
@@ -3331,6 +3340,33 @@
   },
   {
     "facility": "Brewer Pool and Arena",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Aquafit general",
+    "startTime": "08:35",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Aquafit general",
+    "startTime": "09:35",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Brewer Pool and Arena",
     "activity": "Lane swim",
     "startTime": "06:30",
     "endTime": "08:30",
@@ -3355,6 +3391,69 @@
     "periodStartDate": "2026-08-04",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Aquafit general",
+    "startTime": "08:35",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Aquafit general",
+    "startTime": "09:35",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Lane swim",
+    "startTime": "06:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
   },
   {
     "facility": "Brewer Pool and Arena",
@@ -3363,40 +3462,31 @@
     "endTime": "21:00",
     "periodStartDate": "2026-08-04",
     "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
+    "dayOfWeek": 4
   },
   {
     "facility": "Brewer Pool and Arena",
-    "activity": "Lane swim",
-    "startTime": "06:30",
-    "endTime": "08:30",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
     "periodStartDate": "2026-08-04",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 4
   },
   {
     "facility": "Brewer Pool and Arena",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:00",
+    "activity": "Aquafit general",
+    "startTime": "08:35",
+    "endTime": "09:30",
     "periodStartDate": "2026-08-04",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 4
   },
   {
     "facility": "Brewer Pool and Arena",
-    "activity": "Lane swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Lane swim",
-    "startTime": "19:00",
-    "endTime": "21:00",
+    "activity": "Aquafit general",
+    "startTime": "09:35",
+    "endTime": "10:30",
     "periodStartDate": "2026-08-04",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 4
@@ -3430,6 +3520,33 @@
   },
   {
     "facility": "Brewer Pool and Arena",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Aquafit general",
+    "startTime": "08:35",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Brewer Pool and Arena",
+    "activity": "Aquafit general",
+    "startTime": "09:35",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Brewer Pool and Arena",
     "activity": "Lane swim",
     "startTime": "11:30",
     "endTime": "13:00",
@@ -3448,6 +3565,15 @@
   },
   {
     "facility": "Brewer Pool and Arena",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-08-04",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Brewer Pool and Arena",
     "activity": "Lane swim",
     "startTime": "11:30",
     "endTime": "13:00",
@@ -3471,133 +3597,7 @@
     "endTime": "15:00",
     "periodStartDate": "2026-08-04",
     "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "08:35",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "09:35",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "08:35",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "09:35",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "08:35",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "09:35",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "08:35",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Brewer Pool and Arena",
-    "activity": "Aquafit general",
-    "startTime": "09:35",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-04",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
   },
   {
     "facility": "Canterbury Recreation Complex",
@@ -9996,7 +9996,7 @@
     "endTime": "18:30",
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
+    "dayOfWeek": 7
   },
   {
     "facility": "Jim Tubman Chevrolet Rink",
@@ -10266,7 +10266,7 @@
     "endTime": "13:30",
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
+    "dayOfWeek": 6
   },
   {
     "facility": "Jim Tubman Chevrolet Rink",
@@ -12691,15 +12691,6 @@
   },
   {
     "facility": "Nepean Seniors Centre",
-    "activity": "Shuffleboard",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Nepean Seniors Centre",
     "activity": "Euchre",
     "startTime": "12:30",
     "endTime": "15:30",
@@ -12775,6 +12766,24 @@
     "activity": "Social board games",
     "startTime": "09:30",
     "endTime": "11:30",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Seniors Centre",
+    "activity": "Short Mat Bowling",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Nepean Seniors Centre",
+    "activity": "Short Mat Bowling",
+    "startTime": "18:00",
+    "endTime": "20:30",
     "periodStartDate": null,
     "periodEndDate": null,
     "dayOfWeek": 3
@@ -16120,6 +16129,69 @@
   },
   {
     "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "periodStartDate": "2026-06-22",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "periodStartDate": "2026-06-22",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "periodStartDate": "2026-06-22",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "periodStartDate": "2026-06-22",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "periodStartDate": "2026-06-22",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "12:15",
+    "endTime": "14:05",
+    "periodStartDate": "2026-06-22",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
+    "activity": "Public Skating",
+    "startTime": "15:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-06-22",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Ray Friel Recreation Complex",
     "activity": "20 - 20 - 20",
     "startTime": "16:30",
     "endTime": "17:25",
@@ -16319,8 +16391,8 @@
   {
     "facility": "Ray Friel Recreation Complex",
     "activity": "Strength and balance - older adult",
-    "startTime": "14:15",
-    "endTime": "15:10",
+    "startTime": "14:00",
+    "endTime": "15:00",
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 3
@@ -16328,8 +16400,8 @@
   {
     "facility": "Ray Friel Recreation Complex",
     "activity": "Strength and balance - older adult",
-    "startTime": "14:15",
-    "endTime": "14:55",
+    "startTime": "14:00",
+    "endTime": "15:00",
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 5
@@ -16468,69 +16540,6 @@
     "periodStartDate": "2026-06-22",
     "periodEndDate": "2026-08-30",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:20",
-    "periodStartDate": "2026-06-22",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:20",
-    "periodStartDate": "2026-06-22",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:20",
-    "periodStartDate": "2026-06-22",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:20",
-    "periodStartDate": "2026-06-22",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "13:20",
-    "periodStartDate": "2026-06-22",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
-    "startTime": "12:15",
-    "endTime": "14:05",
-    "periodStartDate": "2026-06-22",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Ray Friel Recreation Complex",
-    "activity": "Public Skating",
-    "startTime": "15:00",
-    "endTime": "16:50",
-    "periodStartDate": "2026-06-22",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
   },
   {
     "facility": "Richcraft Recreation Complex-Kanata",
@@ -19599,6 +19608,771 @@
     "endTime": "15:30",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-09-07",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:00",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:00",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:00",
+    "endTime": "09:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:15",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Lane Swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public swim",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "07:00",
+    "endTime": "07:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general deep",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "07:00",
+    "endTime": "07:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "07:00",
+    "endTime": "09:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "11:15",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "07:00",
+    "endTime": "09:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Aquafit - general shallow",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "20:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "09:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "11:15",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "07:00",
+    "endTime": "09:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Sauna",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:15",
+    "endTime": "13:05",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:15",
+    "endTime": "13:05",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "13:15",
+    "endTime": "14:05",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "13:15",
+    "endTime": "14:05",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "19:00",
+    "endTime": "19:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Tony Graham Recreation Complex – Kanata",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-10-13",
+    "periodEndDate": "2026-12-27",
     "dayOfWeek": 7
   }
 ]
