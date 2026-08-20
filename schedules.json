@@ -19504,38 +19504,272 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "20-20-20 (Outdoor - weather dependent)",
-    "startTime": "10:30",
-    "endTime": "11:30",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:30",
     "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-09-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
     "dayOfWeek": 3
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "13:30",
-    "endTime": "14:30",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
     "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-09-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
     "dayOfWeek": 5
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
+    "activity": "Lane swim",
     "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-20",
+    "endTime": "13:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
     "dayOfWeek": 3
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-20",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "16:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Women's swim",
+    "startTime": "19:15",
+    "endTime": "20:45",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Aquafit",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Aquafit",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Aquafit",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Aquafit",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Aquafit",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Aquafit",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Aquafit",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
     "dayOfWeek": 5
   },
   {
@@ -20054,276 +20288,6 @@
   {
     "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "15:30",
-    "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "15:30",
-    "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "16:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Women's swim",
-    "startTime": "19:15",
-    "endTime": "20:45",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Lane swim",
     "startTime": "11:00",
     "endTime": "14:00",
     "periodStartDate": "2026-09-14",
@@ -20588,6 +20552,42 @@
     "startTime": "10:00",
     "endTime": "11:00",
     "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "20-20-20 (Outdoor - weather dependent)",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-09-06",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-09-06",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 5
   },
@@ -22443,132 +22443,6 @@
     "endTime": "15:30",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-09-07",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:15",
-    "endTime": "13:05",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Pick-up hockey 18+",
-    "startTime": "12:15",
-    "endTime": "13:05",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "13:15",
-    "endTime": "14:05",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "13:15",
-    "endTime": "14:05",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "19:00",
-    "endTime": "19:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Tony Graham Recreation Complex – Kanata",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-10-13",
-    "periodEndDate": "2026-12-27",
     "dayOfWeek": 7
   }
 ]
