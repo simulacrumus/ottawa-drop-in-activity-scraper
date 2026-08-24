@@ -1,370 +1,1648 @@
 [
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "07:15",
-    "end_time": "10:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "activity": "Aqua general deep",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Bearbrook Pool"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "11:30",
+    "activity": "Aqua general deep",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Aqua general deep",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Aqua general deep",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Aqua general shallow",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Aqua general shallow",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Aqua general shallow",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "07:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:00",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "17:30",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "07:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:00",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "17:30",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "07:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "15:30",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "14:30",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "14:30",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "14:30",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "14:30",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "17:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "17:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Preschool swim - children's pool",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Preschool swim - children's pool",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Bearbrook Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:00",
     "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Therapeutic Pool",
-    "start_time": "14:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Therapeutic Pool",
-    "start_time": "20:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
     "activity": "Lane swim",
-    "start_time": "07:15",
-    "end_time": "08:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Reduced lane swim",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
     "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Lane swim",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "20:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Preschool swim (shared pool)",
-    "start_time": "08:15",
-    "end_time": "09:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Public swim with slide",
-    "start_time": "14:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Aquafit General - Shallow/deep combo",
-    "start_time": "08:15",
-    "end_time": "09:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Aquafit General - Shallow/deep combo",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Therapeutic Pool",
-    "start_time": "08:30",
-    "end_time": "09:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "activity": "Reduced lane swim",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
     "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Reduced lane swim",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "14:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Reduced lane swim",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "18:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "20:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "50+ swim",
-    "start_time": "08:30",
-    "end_time": "09:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Public swim with slide",
-    "start_time": "14:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Public swim with slide",
-    "start_time": "18:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Aquafit General - Shallow/deep combo",
-    "start_time": "n/a",
-    "end_time": "n/a",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Reduced lane swim",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
     "activity": "Preschool swim",
-    "start_time": "n/a",
-    "end_time": "n/a",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Preschool swim (shared pool)",
-    "start_time": "n/a",
-    "end_time": "n/a",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Preschool swim",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "07:15",
-    "end_time": "10:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "activity": "Preschool swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
     "day_of_week": 3,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "11:30",
+    "activity": "Preschool swim",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "11:00",
     "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Beaverbrook Pool - Kanata"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "14:00",
+    "activity": "Preschool swim",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "11:00",
+    "end_time": "12:30",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
     "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-07-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Beaverbrook Pool - Kanata"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Therapeutic pool",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Therapeutic pool",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit General - Therapeutic pool",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit Lite - Therapeutic pool",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit Lite - Therapeutic pool",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Aquafit Lite - Therapeutic pool",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "07:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "07:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "06:00",
+    "end_time": "08:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "14:00",
+    "end_time": "15:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - 25 metre pool only",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - 25 metre pool only",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - 25 metre pool only",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - 25 metre pool only",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - 25 metre pool only",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - 25 metre pool only",
+    "start_time": "11:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "19:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "19:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Public swim - Therapeutic pool",
+    "start_time": "11:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans"
+  },
+  {
+    "activity": "Step and strength",
+    "start_time": "18:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Step and strength",
+    "start_time": "09:10",
+    "end_time": "10:10",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
     "day_of_week": 3,
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
-    "activity": "Therapeutic Pool",
+    "activity": "Yoga",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Yoga",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Yoga",
+    "start_time": "08:30",
+    "end_time": "09:30",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Yoga - Yin",
+    "start_time": "07:45",
+    "end_time": "08:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Yoga - Yin",
+    "start_time": "07:45",
+    "end_time": "08:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Yoga - Yin",
+    "start_time": "07:45",
+    "end_time": "08:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength",
+    "start_time": "09:10",
+    "end_time": "10:10",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength",
+    "start_time": "10:15",
+    "end_time": "11:15",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength 50+",
+    "start_time": "11:20",
+    "end_time": "12:20",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength 50+",
+    "start_time": "11:20",
+    "end_time": "12:20",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength 50+",
+    "start_time": "11:20",
+    "end_time": "12:20",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength 50+",
+    "start_time": "11:20",
+    "end_time": "12:20",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Cardio and strength 50+",
+    "start_time": "11:20",
+    "end_time": "12:20",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "TMC",
+    "start_time": "10:15",
+    "end_time": "11:15",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "TMC",
+    "start_time": "18:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Indoor cycling",
+    "start_time": "06:55",
+    "end_time": "07:55",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Indoor cycling",
+    "start_time": "18:15",
+    "end_time": "19:15",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Indoor cycling",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Drums Alive",
+    "start_time": "09:10",
+    "end_time": "10:10",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Core conditioning",
+    "start_time": "09:10",
+    "end_time": "10:10",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Pilates",
+    "start_time": "07:45",
+    "end_time": "08:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Pilates",
+    "start_time": "07:45",
+    "end_time": "08:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Strength",
+    "start_time": "10:15",
+    "end_time": "11:15",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Strength",
+    "start_time": "10:15",
+    "end_time": "11:15",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "The Groove Method",
+    "start_time": "10:15",
+    "end_time": "11:15",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Zumba",
+    "start_time": "09:10",
+    "end_time": "10:10",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Badminton - adult (18+)",
+    "start_time": "19:45",
+    "end_time": "21:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Badminton - adult (18+)",
+    "start_time": "20:30",
+    "end_time": "21:30",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Badminton - adult (18+)",
+    "start_time": "19:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Badminton - adult (18+)",
     "start_time": "20:00",
     "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
-    "activity": "Lane swim",
-    "start_time": "07:15",
-    "end_time": "08:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
+    "activity": "Badminton - adult (18+)",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
-    "activity": "Lane swim",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
+    "activity": "Badminton - adult (18+)",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
-    "activity": "Lane swim",
-    "start_time": "20:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
+    "activity": "Badminton - adult (18+)",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
-    "activity": "Preschool swim (shared pool)",
-    "start_time": "08:15",
-    "end_time": "09:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
+    "activity": "Badminton - adult (18+)",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Badminton - family",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Basketball - adult (18+)",
+    "start_time": "19:45",
+    "end_time": "21:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "CARDELREC Recreation Complex Goulbourn"
+  },
+  {
+    "activity": "Volleyball - adult (18+)",
+    "start_time": "19:45",
+    "end_time": "21:45",
+    "period_start_date": "2026-06-22",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
     "facility": "CARDELREC Recreation Complex Goulbourn"
   },
   {
     "activity": "Public swim",
-    "start_time": "14:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Corkstown Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Corkstown Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Corkstown Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Corkstown Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
     "day_of_week": 3,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Corkstown Pool"
   },
   {
-    "activity": "Aquafit General - Shallow/deep combo",
-    "start_time": "08:15",
-    "end_time": "09:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
     "day_of_week": 3,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Corkstown Pool"
   },
   {
-    "activity": "Aquafit General - Shallow/deep combo",
-    "start_time": "09:15",
-    "end_time": "10:15",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
-  },
-  {
-    "activity": "Therapeutic Pool",
-    "start_time": "08:30",
-    "end_time": "09:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
     "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Corkstown Pool"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
     "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "facility": "Corkstown Pool"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "14:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Corkstown Pool"
   },
   {
-    "activity": "Therapeutic Pool",
-    "start_time": "18:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Corkstown Pool"
   },
   {
-    "activity": "Lane swim",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Corkstown Pool"
   },
   {
-    "activity": "50+ swim",
-    "start_time": "08:60",
-    "end_time": "09:60",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "CARDELREC Recreation Complex Goulbourn"
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:00",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Corkstown Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-07-20",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Corkstown Pool"
   },
   {
     "activity": "Lane swim",
     "start_time": "12:00",
     "end_time": "13:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Aquafit",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 1,
     "facility": "Crestview Pool"
   },
@@ -372,8 +1650,8 @@
     "activity": "Lane swim",
     "start_time": "09:00",
     "end_time": "10:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 2,
     "facility": "Crestview Pool"
   },
@@ -381,8 +1659,17 @@
     "activity": "Lane swim",
     "start_time": "12:00",
     "end_time": "13:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 2,
     "facility": "Crestview Pool"
   },
@@ -390,8 +1677,26 @@
     "activity": "Lane swim",
     "start_time": "12:00",
     "end_time": "13:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Aquafit",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 3,
     "facility": "Crestview Pool"
   },
@@ -399,8 +1704,8 @@
     "activity": "Lane swim",
     "start_time": "09:00",
     "end_time": "10:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 4,
     "facility": "Crestview Pool"
   },
@@ -408,8 +1713,17 @@
     "activity": "Lane swim",
     "start_time": "12:00",
     "end_time": "13:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 4,
     "facility": "Crestview Pool"
   },
@@ -417,17 +1731,53 @@
     "activity": "Lane swim",
     "start_time": "12:00",
     "end_time": "13:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Aquafit",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
     "facility": "Crestview Pool"
   },
   {
     "activity": "Lane swim",
     "start_time": "11:00",
     "end_time": "13:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
     "day_of_week": 7,
     "facility": "Crestview Pool"
   },
@@ -435,729 +1785,2196 @@
     "activity": "Public swim",
     "start_time": "13:00",
     "end_time": "16:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-08-17",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Crestview Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "20:30",
+    "end_time": "21:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 1,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "20:30",
+    "end_time": "21:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "20:30",
+    "end_time": "21:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
-    "start_time": "18:00",
-    "end_time": "19:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 1,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "16:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 2,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
-    "start_time": "18:00",
-    "end_time": "19:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "start_time": "18:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 2,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "16:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 3,
-    "facility": "Crestview Pool"
-  },
-  {
-    "activity": "Public swim",
-    "start_time": "18:00",
-    "end_time": "19:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "16:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 4,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
-    "start_time": "18:00",
-    "end_time": "19:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "start_time": "18:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 4,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "16:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 5,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
-    "start_time": "18:00",
+    "start_time": "18:30",
     "end_time": "19:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 5,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "16:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 6,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Public swim",
     "start_time": "13:00",
-    "end_time": "16:30",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 7,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
-    "activity": "Aquafit",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Crestview Pool"
-  },
-  {
-    "activity": "Aquafit",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "activity": "Public swim - women's only",
+    "start_time": "19:45",
+    "end_time": "21:15",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 3,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
-    "activity": "Aquafit",
-    "start_time": "09:00",
-    "end_time": "10:00",
-    "period_start_date": "2026-08-10",
-    "period_end_date": "2026-08-16",
+    "activity": "50+ swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "50+ swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "50+ swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "50+ swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "50+ swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 5,
-    "facility": "Crestview Pool"
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "50+ swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Deborah Anne Kirwan Pool"
+  },
+  {
+    "activity": "Preschool swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Deborah Anne Kirwan Pool"
   },
   {
     "activity": "Lane swim",
-    "start_time": "06:30",
+    "start_time": "08:00",
     "end_time": "09:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
+    "period_end_date": "2026-08-23",
     "day_of_week": 1,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "15:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "20:00",
-    "end_time": "22:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Public swim",
-    "start_time": "12:30",
-    "end_time": "14:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "50+ Vitality",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Lowertown Community Centre and Pool"
+    "facility": "Entrance Pool"
   },
   {
     "activity": "Lane swim",
     "start_time": "11:30",
-    "end_time": "12:30",
+    "end_time": "13:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "21:00",
-    "end_time": "22:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Public swim",
-    "start_time": "12:30",
-    "end_time": "14:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Public swim",
-    "start_time": "19:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "50+ Swim",
-    "start_time": "15:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "06:30",
-    "end_time": "09:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "15:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "20:00",
-    "end_time": "22:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Public swim",
-    "start_time": "12:30",
-    "end_time": "14:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "50+ Vitality",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "06:30",
-    "end_time": "09:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "11:30",
-    "end_time": "12:30",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "21:00",
-    "end_time": "22:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Public swim",
-    "start_time": "12:30",
-    "end_time": "14:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Public swim",
-    "start_time": "19:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "50+ Swim",
-    "start_time": "15:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "06:30",
-    "end_time": "09:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Lowertown Community Centre and Pool"
-  },
-  {
-    "activity": "Lane swim",
-    "start_time": "15:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Lowertown Community Centre and Pool"
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Entrance Pool"
   },
   {
     "activity": "Lane swim",
     "start_time": "19:00",
-    "end_time": "22:00",
+    "end_time": "20:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Lowertown Community Centre and Pool"
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Entrance Pool"
   },
   {
-    "activity": "Public swim",
-    "start_time": "12:30",
-    "end_time": "14:00",
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Lowertown Community Centre and Pool"
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Entrance Pool"
   },
   {
-    "activity": "Public swim",
+    "activity": "Lane swim",
+    "start_time": "11:30",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
     "start_time": "16:00",
-    "end_time": "19:00",
+    "end_time": "17:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Lowertown Community Centre and Pool"
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Entrance Pool"
   },
   {
-    "activity": "50+ Vitality",
+    "activity": "Lane swim",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "19:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:30",
+    "end_time": "19:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "19:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:30",
+    "end_time": "19:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Aquafit - General",
     "start_time": "11:30",
     "end_time": "12:30",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Entrance Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 5,
-    "facility": "Lowertown Community Centre and Pool"
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "09:30",
+    "end_time": "11:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
   },
   {
     "activity": "Lane swim",
     "start_time": "15:00",
-    "end_time": "16:30",
+    "end_time": "16:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
+    "period_end_date": "2026-08-23",
     "day_of_week": 6,
-    "facility": "Lowertown Community Centre and Pool"
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Public swim",
+    "activity": "Lane swim",
     "start_time": "12:00",
-    "end_time": "15:00",
+    "end_time": "13:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 6,
-    "facility": "Lowertown Community Centre and Pool"
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
   },
   {
     "activity": "Lane swim",
     "start_time": "15:00",
-    "end_time": "16:30",
+    "end_time": "16:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
+    "period_end_date": "2026-08-23",
     "day_of_week": 7,
-    "facility": "Lowertown Community Centre and Pool"
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Public swim",
+    "activity": "Lane swim - shared pool",
+    "start_time": "08:30",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "13:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "16:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "08:30",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "18:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "08:30",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "16:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "08:30",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "18:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "08:30",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "13:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "16:30",
+    "end_time": "19:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim - shared pool",
+    "start_time": "10:30",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Preschool swim - therapeutic pool",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Preschool swim - therapeutic pool",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Preschool swim - therapeutic pool",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Preschool swim - therapeutic pool",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Preschool swim - therapeutic pool",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Preschool swim - therapeutic pool",
+    "start_time": "09:30",
+    "end_time": "11:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Preschool swim - therapeutic pool",
+    "start_time": "08:30",
+    "end_time": "09:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "12:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "12:00",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "12:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "16:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
+    "start_time": "11:30",
+    "end_time": "15:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - therapeutic pool",
     "start_time": "12:00",
     "end_time": "15:00",
     "period_start_date": "2026-06-29",
-    "period_end_date": "2026-08-16",
+    "period_end_date": "2026-08-23",
     "day_of_week": 7,
-    "facility": "Lowertown Community Centre and Pool"
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Badminton - adult",
+    "activity": "Public swim - 25m pool",
+    "start_time": "13:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - 25m pool",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - 25m pool",
+    "start_time": "13:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - 25m pool",
+    "start_time": "19:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - 25m pool",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - 25m pool",
+    "start_time": "13:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Public swim - 25m pool",
     "start_time": "18:00",
-    "end_time": "19:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Routhier Community Centre"
+    "end_time": "19:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "19:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Routhier Community Centre"
+    "activity": "Public swim - 25m pool",
+    "start_time": "11:30",
+    "end_time": "15:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "20:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Routhier Community Centre"
+    "activity": "Public swim - 25m pool",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "21:00",
-    "end_time": "22:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 3,
-    "facility": "Routhier Community Centre"
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "17:00",
-    "end_time": "18:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "activity": "Aquafit General - Deep",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "17:30",
+    "end_time": "18:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
     "day_of_week": 4,
-    "facility": "Routhier Community Centre"
+    "facility": "François Dupuis Recreation Centre"
   },
   {
-    "activity": "Badminton - adult",
+    "activity": "Aquafit General - Deep",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "17:30",
+    "end_time": "18:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Deep",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "17:30",
+    "end_time": "18:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "17:30",
+    "end_time": "18:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "08:30",
+    "end_time": "09:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit General - Shallow",
+    "start_time": "09:30",
+    "end_time": "10:25",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Aquafit Lite - warm pool",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "07:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "16:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "07:30",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "17:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "07:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "16:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "07:30",
+    "end_time": "13:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "17:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "07:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "16:30",
+    "end_time": "20:30",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "09:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Sauna",
+    "start_time": "09:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-06-29",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "François Dupuis Recreation Centre"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
     "start_time": "18:00",
-    "end_time": "19:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Routhier Community Centre"
+    "end_time": "19:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "General Burns Pool"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "19:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Routhier Community Centre"
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "General Burns Pool"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "20:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Badminton - adult",
-    "start_time": "21:00",
-    "end_time": "22:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Badminton - adult",
+    "activity": "Lane swim",
     "start_time": "16:30",
     "end_time": "17:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 7,
-    "facility": "Routhier Community Centre"
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "General Burns Pool"
   },
   {
-    "activity": "Badminton - adult",
-    "start_time": "17:30",
-    "end_time": "18:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 7,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Badminton - family",
-    "start_time": "14:30",
-    "end_time": "15:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 7,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Badminton - family",
-    "start_time": "15:30",
+    "activity": "Public swim",
+    "start_time": "13:00",
     "end_time": "16:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 7,
-    "facility": "Routhier Community Centre"
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "General Burns Pool"
   },
   {
-    "activity": "Basketball - adult",
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "16:30",
+    "end_time": "17:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "17:30",
+    "end_time": "19:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "13:00",
+    "end_time": "16:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane swim",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Public swim",
+    "start_time": "12:30",
+    "end_time": "16:00",
+    "period_start_date": "2026-08-10",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "General Burns Pool"
+  },
+  {
+    "activity": "Lane Swim",
     "start_time": "12:00",
     "end_time": "13:00",
     "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 7,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Basketball - adult",
-    "start_time": "13:00",
-    "end_time": "14:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 7,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "09:30",
-    "end_time": "10:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "10:30",
-    "end_time": "11:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "09:30",
-    "end_time": "10:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "10:30",
-    "end_time": "11:30",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 4,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "19:00",
-    "end_time": "20:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "20:00",
-    "end_time": "21:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Pickleball - adult",
-    "start_time": "21:00",
-    "end_time": "22:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 5,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "17:45",
-    "end_time": "18:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "period_end_date": "2026-08-23",
     "day_of_week": 1,
-    "facility": "Routhier Community Centre"
+    "facility": "Glen Cairn Pool"
   },
   {
-    "activity": "Volleyball - 16+",
-    "start_time": "18:45",
-    "end_time": "19:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "19:45",
-    "end_time": "20:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "20:45",
-    "end_time": "21:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 1,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "17:45",
-    "end_time": "18:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "18:45",
-    "end_time": "19:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "19:45",
-    "end_time": "20:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "20:45",
-    "end_time": "21:45",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 2,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "14:00",
-    "end_time": "15:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 6,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "15:00",
-    "end_time": "16:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 6,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
-    "start_time": "16:00",
-    "end_time": "17:00",
-    "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
-    "day_of_week": 6,
-    "facility": "Routhier Community Centre"
-  },
-  {
-    "activity": "Volleyball - 16+",
+    "activity": "Lane Swim",
     "start_time": "17:00",
     "end_time": "18:00",
     "period_start_date": "2026-06-27",
-    "period_end_date": "2026-08-16",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "17:00",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "17:00",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
     "day_of_week": 6,
-    "facility": "Routhier Community Centre"
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim - shared pool",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim - shared pool",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim - shared pool",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim - shared pool",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim - shared pool",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "17:00",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "17:00",
+    "end_time": "18:30",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "11:30",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "14:30",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "14:30",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "14:30",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:30",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:30",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Glen Cairn Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Lane Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public Swim",
+    "start_time": "13:00",
+    "end_time": "17:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 1,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 2,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 3,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 4,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 5,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 6,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Preschool Swim",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "period_start_date": "2026-06-27",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Katimavik Pool"
+  },
+  {
+    "activity": "Public skating",
+    "start_time": "17:15",
+    "end_time": "18:05",
+    "period_start_date": "2026-07-26",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Minto Recreation Complex - Barrhaven"
+  },
+  {
+    "activity": "Family skating",
+    "start_time": "16:15",
+    "end_time": "17:05",
+    "period_start_date": "2026-07-26",
+    "period_end_date": "2026-08-23",
+    "day_of_week": 7,
+    "facility": "Minto Recreation Complex - Barrhaven"
   }
 ]
