@@ -217,19 +217,64 @@
   },
   {
     "facility": "Bernard Grandmaître Arena",
+    "activity": "Public skating",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Figure Skating (6+)",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
     "activity": "Speed skating (6+)",
     "startTime": "15:00",
     "endTime": "15:50",
-    "periodStartDate": "2026-09-01",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-31",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Hockey 35+",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Hockey 50+",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
   },
   {
     "facility": "Bernard Grandmaître Arena",
     "activity": "Ringette (10 to 14 years)",
     "startTime": "16:00",
     "endTime": "16:50",
-    "periodStartDate": "2026-09-01",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-31",
     "dayOfWeek": 6
   },
@@ -238,7 +283,7 @@
     "activity": "Stick and Puck - Preschool and Child (3 to 12 years)",
     "startTime": "15:00",
     "endTime": "15:50",
-    "periodStartDate": "2026-09-01",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-31",
     "dayOfWeek": 2
   },
@@ -247,18 +292,9 @@
     "activity": "Stick and Puck - Youth and Adult (13+)",
     "startTime": "16:00",
     "endTime": "16:50",
-    "periodStartDate": "2026-09-01",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-31",
     "dayOfWeek": 2
-  },
-  {
-    "facility": "Bernard Grandmaître Arena",
-    "activity": "Public skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-31",
-    "dayOfWeek": 7
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -2198,9 +2234,27 @@
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Public skating",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-09-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Figure skating",
+    "startTime": "20:15",
+    "endTime": "21:05",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-09-13",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
     "startTime": "14:00",
     "endTime": "14:50",
-    "periodStartDate": "2026-09-04",
+    "periodStartDate": "2026-09-14",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 1
   },
@@ -2209,7 +2263,7 @@
     "activity": "Public skating",
     "startTime": "10:00",
     "endTime": "10:50",
-    "periodStartDate": "2026-09-04",
+    "periodStartDate": "2026-09-14",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 4
   },
@@ -2218,7 +2272,7 @@
     "activity": "Public skating",
     "startTime": "19:15",
     "endTime": "20:05",
-    "periodStartDate": "2026-09-04",
+    "periodStartDate": "2026-09-14",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 5
   },
@@ -2227,7 +2281,16 @@
     "activity": "Public skating",
     "startTime": "13:00",
     "endTime": "13:50",
-    "periodStartDate": "2026-09-04",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2027-04-16",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Play Free",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-14",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 7
   },
@@ -2236,7 +2299,7 @@
     "activity": "50+ skating",
     "startTime": "14:00",
     "endTime": "14:50",
-    "periodStartDate": "2026-09-04",
+    "periodStartDate": "2026-09-14",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 3
   },
@@ -2245,7 +2308,7 @@
     "activity": "Figure skating",
     "startTime": "20:15",
     "endTime": "21:05",
-    "periodStartDate": "2026-09-04",
+    "periodStartDate": "2026-09-14",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 5
   },
@@ -3754,6 +3817,15 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2026-07-07",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "Pick-up hockey 50+",
     "startTime": "13:00",
     "endTime": "13:50",
@@ -3781,15 +3853,6 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Public skate",
-    "startTime": "17:15",
-    "endTime": "18:05",
-    "periodStartDate": "2026-07-07",
-    "periodEndDate": "2026-08-31",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
     "activity": "Family skate",
     "startTime": "13:00",
     "endTime": "13:50",
@@ -3807,67 +3870,400 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-23",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
     "dayOfWeek": 1
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-23",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
     "dayOfWeek": 6
   },
   {
-    "facility": "Champagne Fitness Centre",
-    "activity": "Weight and cardio room",
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga Balance",
     "startTime": "09:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 7
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "TMC",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Drums Alive",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Core conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pilates",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pilates",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Strength",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Strength",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "The Groove Method",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Zumba",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ skate",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "50+ skate",
+    "startTime": "10:15",
+    "endTime": "11:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Adult skate",
+    "startTime": "11:15",
+    "endTime": "12:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-up hockey 18+",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-Up Hockey 35+",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-Up Hockey 35+",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pick-up hockey 50+",
+    "startTime": "12:15",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "16:15",
+    "endTime": "17:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "13:15",
+    "endTime": "14:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "18:15",
+    "endTime": "19:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Family skate",
+    "startTime": "14:15",
+    "endTime": "15:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "17:15",
+    "endTime": "18:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Public skate",
+    "startTime": "15:15",
+    "endTime": "16:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 6
   },
   {
     "facility": "Champagne Fitness Centre",
@@ -3927,6 +4323,69 @@
     "facility": "Champagne Fitness Centre",
     "activity": "Lane swim",
     "startTime": "10:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Champagne Fitness Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
     "endTime": "14:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-23",
@@ -8460,6 +8919,609 @@
     "dayOfWeek": 6
   },
   {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Cardio and strength 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Core conditioning",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "HIIT",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates 50+",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pilates 50+",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Stretch and strength 50+",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "TMC 50+",
+    "startTime": "10:45",
+    "endTime": "11:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "19:45",
+    "endTime": "20:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "17:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga",
+    "startTime": "08:15",
+    "endTime": "09:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga 50+",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga 50+",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Yoga 50+",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba Gold 50+",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Zumba Gold 50+",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton 16 +",
+    "startTime": "18:50",
+    "endTime": "19:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton 16 +",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton - Parent with Child (ages 15 and under)",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Badminton - Parent with Child (ages 15 and under)",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 16+",
+    "startTime": "18:50",
+    "endTime": "19:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "10:40",
+    "endTime": "11:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:50",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "08:20",
+    "endTime": "09:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "10:40",
+    "endTime": "11:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "10:40",
+    "endTime": "11:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:50",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "10:40",
+    "endTime": "11:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "11:50",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "08:20",
+    "endTime": "09:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball 50+",
+    "startTime": "10:40",
+    "endTime": "11:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball - Parent with Child (ages 15 and under)",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball Intermediate 16+",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball Intermediate 50+",
+    "startTime": "08:20",
+    "endTime": "09:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball Intermediate 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball Intermediate 50+",
+    "startTime": "11:50",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball Intermediate 50+",
+    "startTime": "08:20",
+    "endTime": "09:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball Intermediate 50+",
+    "startTime": "08:20",
+    "endTime": "09:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Pickleball Intermediate 50+",
+    "startTime": "11:50",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:40",
+    "endTime": "18:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:40",
+    "endTime": "18:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "17:40",
+    "endTime": "18:40",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "18:50",
+    "endTime": "19:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball 12+",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball - Parent with Child (ages 12 and under)",
+    "startTime": "15:20",
+    "endTime": "16:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Basketball - Parent with Child (ages 12 and under)",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "18:50",
+    "endTime": "19:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Volleyball 16+",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "François Dupuis Recreation Centre",
+    "activity": "Rock Climbing 5+",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-18",
+    "dayOfWeek": 6
+  },
+  {
     "facility": "Fred Barrett Arena",
     "activity": "Public skating",
     "startTime": "16:15",
@@ -9504,141 +10566,6 @@
     "dayOfWeek": 4
   },
   {
-    "facility": "Heron Seniors Centre",
-    "activity": "Art studio",
-    "startTime": "08:30",
-    "endTime": "15:00",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Art studio",
-    "startTime": "08:30",
-    "endTime": "15:00",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Bridge",
-    "startTime": "12:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Bridge",
-    "startTime": "12:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Tea and chat",
-    "startTime": "09:30",
-    "endTime": "12:00",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Euchre",
-    "startTime": "12:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Social games",
-    "startTime": "12:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Billards and darts",
-    "startTime": "08:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Billards and darts",
-    "startTime": "08:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Billards and darts",
-    "startTime": "08:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Billards and darts",
-    "startTime": "08:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Billards and darts",
-    "startTime": "08:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Walking club",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Walking club",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Heron Seniors Centre",
-    "activity": "Walking club",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-07-01",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
     "facility": "Hintonburg Community Centre",
     "activity": "Badminton",
     "startTime": "12:00",
@@ -9820,6 +10747,15 @@
   },
   {
     "facility": "Howard Darwin Centennial Arena",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-09-05",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Howard Darwin Centennial Arena",
     "activity": "Family skating",
     "startTime": "19:00",
     "endTime": "19:50",
@@ -9835,6 +10771,15 @@
     "periodStartDate": "2026-09-05",
     "periodEndDate": "2026-12-27",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Howard Darwin Centennial Arena",
+    "activity": "Family skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-05",
+    "periodEndDate": "2026-12-27",
+    "dayOfWeek": 7
   },
   {
     "facility": "Hunt Club-Riverside Park Community Centre",
@@ -10213,465 +11158,6 @@
     "periodStartDate": "2026-09-11",
     "periodEndDate": "2026-12-27",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Alternate needs swim",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Alternate needs swim",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Alternate needs swim",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Alternate needs swim",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Alternate needs swim",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Alternate needs swim",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Alternate needs swim",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Lane swim",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aqua therapy",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aqua therapy",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aqua therapy",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aqua therapy",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aqua therapy",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Chronic pain",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Chronic pain",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Chronic pain",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Chronic pain",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Chronic pain",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aquafit Lite",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aquafit Lite",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aquafit Lite",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aquafit Lite",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aquafit Lite",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Aquafit Lite",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Womens only swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Womens only swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim womens only",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Public swim womens only",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-09-07",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "20:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "17:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Jack Purcell Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "09:00",
-    "endTime": "17:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 7
   },
   {
     "facility": "Jack Purcell Community Centre",
@@ -11076,6 +11562,465 @@
     "endTime": "16:00",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-09-06",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Alternate needs swim",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Alternate needs swim",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Alternate needs swim",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Alternate needs swim",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Alternate needs swim",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Alternate needs swim",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Alternate needs swim",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Lane swim",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aqua therapy",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aqua therapy",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aqua therapy",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aqua therapy",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aqua therapy",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Chronic pain",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Chronic pain",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Chronic pain",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Chronic pain",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Chronic pain",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aquafit Lite",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aquafit Lite",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aquafit Lite",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aquafit Lite",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aquafit Lite",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Aquafit Lite",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Womens only swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Womens only swim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim womens only",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Public swim womens only",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "20:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Jack Purcell Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
     "dayOfWeek": 7
   },
   {
@@ -11971,6 +12916,339 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "12:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Weight and cardio room",
     "startTime": "07:00",
     "endTime": "21:00",
@@ -12031,6 +13309,168 @@
     "periodStartDate": null,
     "periodEndDate": null,
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Step and strength",
+    "startTime": "09:00",
+    "endTime": "10:15",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Tai Chi",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Tai Chi",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba Gold",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-07-06",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "QiGong",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-08-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Qigong",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Qigong",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -12124,431 +13564,107 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Step and strength",
-    "startTime": "09:00",
-    "endTime": "10:15",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Tai Chi",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Tai Chi",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Yoga",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Yoga",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba Gold",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-07-06",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
     "dayOfWeek": 1
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Hot tub and sauna",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "12:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "07:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
+    "startTime": "08:00",
     "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "17:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "17:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Aquafit",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
     "dayOfWeek": 1
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Aquafit",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "11:05",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
     "dayOfWeek": 2
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Aquafit",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Aquafit",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
+    "startTime": "12:05",
     "endTime": "13:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
@@ -12559,141 +13675,6 @@
     "activity": "Hot tub and sauna",
     "startTime": "17:00",
     "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "12:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "12:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 2
@@ -12709,27 +13690,9 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
+    "activity": "Hot tub and sauna",
     "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "10:00",
     "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 3
@@ -12738,78 +13701,6 @@
     "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Lane swim",
     "startTime": "08:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
     "endTime": "13:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
@@ -12822,16 +13713,7 @@
     "endTime": "13:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
+    "dayOfWeek": 3
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -12844,30 +13726,12 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
+    "activity": "Hot tub and sauna",
     "startTime": "17:00",
-    "endTime": "18:00",
+    "endTime": "21:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
+    "dayOfWeek": 3
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -12880,6 +13744,150 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "13:05",
+    "endTime": "14:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "12:05",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Wave swim",
     "startTime": "18:00",
     "endTime": "20:00",
@@ -12889,12 +13897,75 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "12:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Wave swim",
     "startTime": "13:00",
     "endTime": "17:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "12:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
@@ -13201,168 +14272,6 @@
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-30",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "17:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "17:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "12:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "12:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "20:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "20:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "20:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "17:00",
-    "endTime": "18:45",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "14:30",
-    "endTime": "16:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym - family",
-    "startTime": "09:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "17:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Volleyball",
-    "startTime": "17:15",
-    "endTime": "19:15",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 7
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
@@ -14977,6 +15886,51 @@
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public skating",
+    "startTime": "09:00",
+    "endTime": "09:50",
+    "periodStartDate": "2026-09-03",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public skating",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-09-03",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Family skating",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2026-09-03",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Family skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-09-03",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Figure skating",
+    "startTime": "10:15",
+    "endTime": "12:15",
+    "periodStartDate": "2026-09-03",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Open gym - family (ages 6 to 14)",
     "startTime": "18:00",
     "endTime": "19:00",
@@ -15139,48 +16093,291 @@
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public skating",
-    "startTime": "09:00",
-    "endTime": "09:50",
-    "periodStartDate": "2026-09-03",
+    "activity": "Pickleball",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
+    "dayOfWeek": 1
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public skating",
-    "startTime": "17:00",
-    "endTime": "17:50",
-    "periodStartDate": "2026-09-03",
+    "activity": "Pickleball",
+    "startTime": "12:50",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
+    "dayOfWeek": 1
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Family skating",
-    "startTime": "10:00",
-    "endTime": "10:50",
-    "periodStartDate": "2026-09-03",
+    "activity": "Pickleball",
+    "startTime": "13:55",
+    "endTime": "14:55",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
+    "dayOfWeek": 1
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Family skating",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2026-09-03",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Figure skating",
-    "startTime": "10:15",
-    "endTime": "12:15",
-    "periodStartDate": "2026-09-03",
+    "activity": "Pickleball",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "12:50",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "13:55",
+    "endTime": "14:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "19:20",
+    "endTime": "20:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "20:25",
+    "endTime": "21:25",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "12:50",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "13:55",
+    "endTime": "14:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "12:50",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "13:55",
+    "endTime": "14:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "12:50",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Pickleball",
+    "startTime": "13:55",
+    "endTime": "14:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "20:45",
+    "endTime": "21:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "18:45",
+    "endTime": "19:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kinderplay",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kinderplay",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Volleyball",
+    "startTime": "20:35",
+    "endTime": "21:35",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Volleyball - family (8 to 14 years old)",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Basketball - adult",
+    "startTime": "07:20",
+    "endTime": "08:20",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Basketball - adult",
+    "startTime": "21:00",
+    "endTime": "21:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Basketball - youth",
+    "startTime": "20:15",
+    "endTime": "21:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Basketball - family (6 to 14 years old)",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
   },
   {
     "facility": "Nepean Seniors Centre",
@@ -17497,501 +18694,6 @@
   },
   {
     "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "18:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "14:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "10:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Strength Circuit 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Yoga",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Cardio and Strength 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Strength 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Strength 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Strength Circuit 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Core Conditioning 50+",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "TMC",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "TMC",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Zumba",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-10",
-    "periodEndDate": "2026-08-30",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public Swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Aqua General - Shallow/deep combo",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public Swim",
-    "startTime": "11:30",
-    "endTime": "12:45",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "06:30",
-    "endTime": "07:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Aqua General - Shallow/deep combo",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public Swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public Swim",
-    "startTime": "11:30",
-    "endTime": "12:45",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "06:30",
-    "endTime": "07:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Aqua General - Shallow/deep combo",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Aqua General - Shallow/deep combo",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Public Swim",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Lane Swim",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
-    "activity": "Aqua General - Shallow/deep combo",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-09-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Pinecrest Recreation Complex",
     "activity": "Public Swim",
     "startTime": "13:00",
     "endTime": "14:00",
@@ -18330,6 +19032,501 @@
     "endTime": "09:30",
     "periodStartDate": "2026-06-29",
     "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public Swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Aqua General - Shallow/deep combo",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public Swim",
+    "startTime": "11:30",
+    "endTime": "12:45",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "06:30",
+    "endTime": "07:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Aqua General - Shallow/deep combo",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public Swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public Swim",
+    "startTime": "11:30",
+    "endTime": "12:45",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "06:30",
+    "endTime": "07:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Aqua General - Shallow/deep combo",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Aqua General - Shallow/deep combo",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Public Swim",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Lane Swim",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Aqua General - Shallow/deep combo",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "06:30",
+    "endTime": "21:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "18:00",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "14:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "10:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-06-29",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Yoga",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Cardio and Strength 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Strength 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Strength 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Strength Circuit 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Core Conditioning 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "TMC",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "TMC",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Zumba",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-10",
+    "periodEndDate": "2026-08-30",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Pinecrest Recreation Complex",
+    "activity": "Strength Circuit 50+",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-04",
     "dayOfWeek": 5
   },
   {
@@ -28435,7 +29632,7 @@
     "activity": "Strength and balance - older adult",
     "startTime": "11:30",
     "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
+    "periodStartDate": "2026-09-11",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 3
   },
@@ -28444,7 +29641,7 @@
     "activity": "Strength and balance - older adult",
     "startTime": "11:30",
     "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
+    "periodStartDate": "2026-09-11",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 5
   },
@@ -28672,321 +29869,6 @@
     "periodStartDate": "2026-09-12",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 6
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave Swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave Swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave Swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave Swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave Swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave Swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Wave Swim",
-    "startTime": "11:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit General - Shallow",
-    "startTime": "08:05",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit General - Shallow",
-    "startTime": "08:05",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "08:05",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "08:05",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Aquafit General - Deep",
-    "startTime": "08:05",
-    "endTime": "09:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "17:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "17:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Public Swim - wave tank and warm pool",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "06:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "06:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "06:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "06:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "06:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "11:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Splash Wave Pool",
-    "activity": "Lane Swim",
-    "startTime": "11:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-06-29",
-    "periodEndDate": "2026-08-28",
-    "dayOfWeek": 7
   },
   {
     "facility": "St. Laurent Complex",
