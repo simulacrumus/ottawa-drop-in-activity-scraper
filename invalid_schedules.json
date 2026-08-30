@@ -765,6 +765,87 @@
     "facility": "François Dupuis Recreation Centre"
   },
   {
+    "activity": "Public skating",
+    "start_time": "16:15",
+    "end_time": "17:05",
+    "period_start_date": "2026-06-02",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 2,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Public skating",
+    "start_time": "20:15",
+    "end_time": "21:05",
+    "period_start_date": "2026-06-02",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 5,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Public skating",
+    "start_time": "16:15",
+    "end_time": "17:05",
+    "period_start_date": "2026-06-02",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Family skating",
+    "start_time": "15:15",
+    "end_time": "16:05",
+    "period_start_date": "2026-06-02",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Adult skating (ages 18+)",
+    "start_time": "15:15",
+    "end_time": "16:05",
+    "period_start_date": "2026-06-02",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 2,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Hockey - child (6 to 12 years)",
+    "start_time": "18:15",
+    "end_time": "19:05",
+    "period_start_date": "2026-07-15",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 5,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Hockey - youth (13 to 17 years)",
+    "start_time": "19:15",
+    "end_time": "20:05",
+    "period_start_date": "2026-07-15",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 5,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Stick and Puck - preschool and child (3 to 12 years)",
+    "start_time": "17:15",
+    "end_time": "18:05",
+    "period_start_date": "2026-07-15",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "Fred Barrett Arena"
+  },
+  {
+    "activity": "Stick and Puck - youth and adult (13+)",
+    "start_time": "18:15",
+    "end_time": "19:05",
+    "period_start_date": "2026-07-15",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "Fred Barrett Arena"
+  },
+  {
     "activity": "Lane swim",
     "start_time": "08:00",
     "end_time": "09:00",
@@ -1582,6 +1663,60 @@
     "period_end_date": "2026-12-20",
     "day_of_week": 7,
     "facility": "Richcraft Recreation Complex-Kanata"
+  },
+  {
+    "activity": "Pickleball - adult",
+    "start_time": "13:45",
+    "end_time": "14:45",
+    "period_start_date": "2026-06-20",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "South Fallingbrook Community Centre"
+  },
+  {
+    "activity": "Pickleball - adult",
+    "start_time": "14:45",
+    "end_time": "15:45",
+    "period_start_date": "2026-06-20",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "South Fallingbrook Community Centre"
+  },
+  {
+    "activity": "Pickleball - parent with child",
+    "start_time": "12:45",
+    "end_time": "13:45",
+    "period_start_date": "2026-06-20",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "South Fallingbrook Community Centre"
+  },
+  {
+    "activity": "Volleyball - parent with child",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "period_start_date": "2026-06-20",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "South Fallingbrook Community Centre"
+  },
+  {
+    "activity": "Badminton - parent with child",
+    "start_time": "08:30",
+    "end_time": "09:30",
+    "period_start_date": "2026-06-20",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "South Fallingbrook Community Centre"
+  },
+  {
+    "activity": "Badminton - parent with child",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "period_start_date": "2026-06-20",
+    "period_end_date": "2026-08-29",
+    "day_of_week": 6,
+    "facility": "South Fallingbrook Community Centre"
   },
   {
     "activity": "Wave Swim",
