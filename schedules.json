@@ -37,6 +37,24 @@
   },
   {
     "facility": "Bernard Grandmaître Arena",
+    "activity": "Public skating",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bernard Grandmaître Arena",
     "activity": "Figure Skating (6+)",
     "startTime": "16:00",
     "endTime": "16:50",
@@ -46,12 +64,12 @@
   },
   {
     "facility": "Bernard Grandmaître Arena",
-    "activity": "Speed skating (6+)",
+    "activity": "Figure Skating (6+)",
     "startTime": "15:00",
     "endTime": "15:50",
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-31",
-    "dayOfWeek": 6
+    "dayOfWeek": 7
   },
   {
     "facility": "Bernard Grandmaître Arena",
@@ -97,24 +115,6 @@
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-31",
     "dayOfWeek": 2
-  },
-  {
-    "facility": "Bernard Grandmaître Arena",
-    "activity": "Public skating",
-    "startTime": "11:00",
-    "endTime": "11:50",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-31",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Bernard Grandmaître Arena",
-    "activity": "Public skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-31",
-    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -2542,63 +2542,63 @@
     "activity": "Public skating",
     "startTime": "14:00",
     "endTime": "14:50",
-    "periodStartDate": "2026-09-14",
+    "periodStartDate": "2026-09-16",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "10:00",
-    "endTime": "10:50",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2027-04-16",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "19:15",
-    "endTime": "20:05",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2027-04-16",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public skating",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2027-04-16",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Play Free",
-    "startTime": "13:00",
-    "endTime": "13:50",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2027-04-16",
-    "dayOfWeek": 7
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "50+ skating",
     "startTime": "14:00",
     "endTime": "14:50",
-    "periodStartDate": "2026-09-14",
+    "periodStartDate": "2026-09-16",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2026-09-16",
+    "periodEndDate": "2027-04-16",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "periodStartDate": "2026-09-16",
+    "periodEndDate": "2027-04-16",
+    "dayOfWeek": 5
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Figure skating",
     "startTime": "20:15",
     "endTime": "21:05",
-    "periodStartDate": "2026-09-14",
+    "periodStartDate": "2026-09-16",
     "periodEndDate": "2027-04-16",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "19:15",
+    "endTime": "20:05",
+    "periodStartDate": "2026-09-16",
+    "periodEndDate": "2027-04-16",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Public skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-16",
+    "periodEndDate": "2027-04-16",
+    "dayOfWeek": 7
   },
   {
     "facility": "Brewer Pool and Arena",
@@ -3793,6 +3793,321 @@
     "activity": "Yoga",
     "startTime": "19:30",
     "endTime": "20:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga - Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga - Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga - Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga - Yin",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga - Balance",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Cardio and strength 50+",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "TMC",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "TMC",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Bootcamp",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Indoor cycling",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Drums Alive",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Core conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pilates",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Pilates",
+    "startTime": "07:45",
+    "endTime": "08:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Strength",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Strength",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "The Groove Method",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Zumba",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-10-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "CARDELREC Recreation Complex Goulbourn",
+    "activity": "Yoga",
+    "startTime": "19:30",
+    "endTime": "20:30",
     "periodStartDate": "2026-10-05",
     "periodEndDate": "2026-12-18",
     "dayOfWeek": 1
@@ -4456,318 +4771,21 @@
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
+    "activity": "Kinderplay",
     "startTime": "09:00",
     "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga",
-    "startTime": "08:30",
-    "endTime": "09:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
+    "periodStartDate": "2026-09-13",
+    "periodEndDate": "2026-12-13",
     "dayOfWeek": 7
   },
   {
     "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga - Yin",
-    "startTime": "07:45",
-    "endTime": "08:45",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga - Yin",
-    "startTime": "07:45",
-    "endTime": "08:45",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga - Yin",
-    "startTime": "07:45",
-    "endTime": "08:45",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga - Yin",
-    "startTime": "07:45",
-    "endTime": "08:45",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Yoga - Balance",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength",
+    "activity": "Kinderplay",
     "startTime": "10:15",
     "endTime": "11:15",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength 50+",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength 50+",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength 50+",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength 50+",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Cardio and strength 50+",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "TMC",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "TMC",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Bootcamp",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Bootcamp",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Indoor cycling",
-    "startTime": "07:00",
-    "endTime": "08:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Indoor cycling",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Indoor cycling",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Drums Alive",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Core conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Pilates",
-    "startTime": "07:45",
-    "endTime": "08:45",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Pilates",
-    "startTime": "07:45",
-    "endTime": "08:45",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Strength",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Strength",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "The Groove Method",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "CARDELREC Recreation Complex Goulbourn",
-    "activity": "Zumba",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-10-04",
-    "dayOfWeek": 5
+    "periodStartDate": "2026-09-13",
+    "periodEndDate": "2026-12-13",
+    "dayOfWeek": 7
   },
   {
     "facility": "Champagne Fitness Centre",
@@ -5284,6 +5302,69 @@
   },
   {
     "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "07:30",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Diane Deans Greenboro Community Centre",
     "activity": "Cardio and Strength",
     "startTime": "12:00",
     "endTime": "13:00",
@@ -5730,69 +5811,6 @@
     "endTime": "11:30",
     "periodStartDate": "2026-09-14",
     "periodEndDate": "2026-12-13",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "07:30",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "18:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Diane Deans Greenboro Community Centre",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "18:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
     "dayOfWeek": 7
   },
   {
@@ -7929,6 +7947,411 @@
     "dayOfWeek": 7
   },
   {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "09:00",
+    "endTime": "09:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "10:00",
+    "endTime": "10:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 50+ Older Adult",
+    "startTime": "13:00",
+    "endTime": "13:55",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "09:05",
+    "endTime": "10:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Pickleball 18+",
+    "startTime": "09:05",
+    "endTime": "10:05",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Badminton - family",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Badminton 18+",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Badminton 18+",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Badminton 18+",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Badminton 18+",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Badminton 18+",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Badminton 18+",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Kindergym",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Kindergym",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Basketball 18+",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Volleyball 18+",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Heron Road Community Centre",
+    "activity": "Volleyball - youth (13 to 17)",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-31",
+    "dayOfWeek": 3
+  },
+  {
     "facility": "Heron Seniors Centre",
     "activity": "Art studio",
     "startTime": "08:30",
@@ -9676,177 +10099,6 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "07:00",
-    "endTime": "21:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "18:00",
-    "periodStartDate": null,
-    "periodEndDate": null,
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Qigong",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Qigong",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Step and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Step and strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Strength",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Tai Chi",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Tai Chi",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Yoga",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Yoga",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Zumba Gold",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-09-01",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Hot tub and sauna",
     "startTime": "08:00",
     "endTime": "13:00",
@@ -10231,6 +10483,177 @@
     "periodStartDate": "2026-09-04",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "07:00",
+    "endTime": "21:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Weight and cardio room",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "periodStartDate": null,
+    "periodEndDate": null,
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Qigong",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Qigong",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Step and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Step and strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Strength",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Tai Chi",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Tai Chi",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Yoga",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Zumba Gold",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-09-01",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
   },
   {
     "facility": "Kanata Seniors Centre",
@@ -10987,6 +11410,60 @@
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-29",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "McNabb Arena and Community Centre",
+    "activity": "Stick and puck - preschool and child (3 to 12 years old)",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-09-23",
+    "periodEndDate": "2026-12-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "McNabb Arena and Community Centre",
+    "activity": "Stick and Puck - youth and adult (13+ years)",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-09-23",
+    "periodEndDate": "2026-12-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "McNabb Arena and Community Centre",
+    "activity": "Public skating",
+    "startTime": "18:00",
+    "endTime": "18:50",
+    "periodStartDate": "2026-09-23",
+    "periodEndDate": "2026-12-30",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "McNabb Arena and Community Centre",
+    "activity": "Public skating",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-09-23",
+    "periodEndDate": "2026-12-30",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "McNabb Arena and Community Centre",
+    "activity": "Public skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-09-23",
+    "periodEndDate": "2026-12-30",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "McNabb Arena and Community Centre",
+    "activity": "Family skating",
+    "startTime": "13:00",
+    "endTime": "13:50",
+    "periodStartDate": "2026-09-23",
+    "periodEndDate": "2026-12-30",
+    "dayOfWeek": 7
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
@@ -15460,6 +15937,24 @@
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-11-29",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "R.J. Kennedy Community Centre and Arena",
+    "activity": "Public skating",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-09-12",
+    "periodEndDate": "2026-12-19",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "R.J. Kennedy Community Centre and Arena",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-09-12",
+    "periodEndDate": "2026-12-19",
+    "dayOfWeek": 6
   },
   {
     "facility": "Ray Friel Recreation Complex",
