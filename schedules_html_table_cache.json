@@ -2303,64 +2303,20 @@
       "day_of_week": 7
     }
   ],
-  "4e7a7b8c7a41bf0f9915eeb756e9b1f0": [
-    {
-      "activity": "Public skating",
-      "start_time": "19:15",
-      "end_time": "20:05",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-09-13",
-      "day_of_week": 6,
-      "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-    },
-    {
-      "activity": "Figure skating",
-      "start_time": "20:15",
-      "end_time": "21:05",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-09-13",
-      "day_of_week": 6,
-      "facility": "Bob MacQuarrie Recreation Complex - Orléans"
-    }
-  ],
-  "0d21baf9420b2797edc2bece1348e3a7": [
+  "9dd59faf720ea652ac262a6fbe21f129": [
     {
       "activity": "Public skating",
       "start_time": "14:00",
       "end_time": "14:50",
-      "period_start_date": "2026-09-16",
+      "period_start_date": "2026-09-21",
       "period_end_date": "2027-04-16",
       "day_of_week": 1
     },
     {
-      "activity": "50+ skating",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "period_start_date": "2026-09-16",
-      "period_end_date": "2027-04-16",
-      "day_of_week": 3
-    },
-    {
       "activity": "Public skating",
       "start_time": "10:00",
       "end_time": "10:50",
-      "period_start_date": "2026-09-16",
-      "period_end_date": "2027-04-16",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "10:00",
-      "end_time": "10:50",
-      "period_start_date": "2026-09-16",
-      "period_end_date": "2027-04-16",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Figure skating",
-      "start_time": "20:15",
-      "end_time": "21:05",
-      "period_start_date": "2026-09-16",
+      "period_start_date": "2026-09-21",
       "period_end_date": "2027-04-16",
       "day_of_week": 5
     },
@@ -2368,7 +2324,7 @@
       "activity": "Public skating",
       "start_time": "19:15",
       "end_time": "20:05",
-      "period_start_date": "2026-09-16",
+      "period_start_date": "2026-09-21",
       "period_end_date": "2027-04-16",
       "day_of_week": 6
     },
@@ -2376,9 +2332,25 @@
       "activity": "Public skating",
       "start_time": "13:00",
       "end_time": "13:50",
-      "period_start_date": "2026-09-16",
+      "period_start_date": "2026-09-21",
       "period_end_date": "2027-04-16",
       "day_of_week": 7
+    },
+    {
+      "activity": "50+ skating",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2026-09-21",
+      "period_end_date": "2027-04-16",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Figure skating",
+      "start_time": "20:15",
+      "end_time": "21:05",
+      "period_start_date": "2026-09-21",
+      "period_end_date": "2027-04-16",
+      "day_of_week": 5
     }
   ],
   "eb88da823eeba188e0fcafddfdada1ed": [
@@ -7185,7 +7157,7 @@
       "day_of_week": 7
     }
   ],
-  "5698117283aa1c4fb7147cdba3d9649f": [
+  "83eda2b69a460e2da9944dafe8bd819c": [
     {
       "activity": "Pickleball 50+ Older Adult",
       "start_time": "09:00",
@@ -7222,6 +7194,22 @@
       "activity": "Pickleball 50+ Older Adult",
       "start_time": "13:00",
       "end_time": "13:55",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Badminton - family",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Badminton 18+",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
       "day_of_week": 1
@@ -7267,6 +7255,38 @@
       "day_of_week": 2
     },
     {
+      "activity": "Pickleball 18+",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "09:05",
+      "end_time": "10:05",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Volleyball 18+",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Volleyball - youth (13 to 17)",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 2
+    },
+    {
       "activity": "Pickleball 50+ Older Adult",
       "start_time": "09:00",
       "end_time": "09:55",
@@ -7305,86 +7325,6 @@
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
       "day_of_week": 3
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "09:00",
-      "end_time": "09:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "10:00",
-      "end_time": "10:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "11:00",
-      "end_time": "11:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "12:00",
-      "end_time": "12:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "13:00",
-      "end_time": "13:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "09:00",
-      "end_time": "09:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "10:00",
-      "end_time": "10:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "11:00",
-      "end_time": "11:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "12:00",
-      "end_time": "12:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Pickleball 50+ Older Adult",
-      "start_time": "13:00",
-      "end_time": "13:55",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 5
     },
     {
       "activity": "Pickleball 18+",
@@ -7411,116 +7351,44 @@
       "day_of_week": 3
     },
     {
-      "activity": "Pickleball 18+",
-      "start_time": "20:00",
-      "end_time": "21:00",
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "09:00",
+      "end_time": "09:55",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
-      "day_of_week": 3
+      "day_of_week": 4
     },
     {
-      "activity": "Pickleball 18+",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "10:00",
+      "end_time": "10:55",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
-      "day_of_week": 6
+      "day_of_week": 4
     },
     {
-      "activity": "Pickleball 18+",
-      "start_time": "09:05",
-      "end_time": "10:05",
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "11:00",
+      "end_time": "11:55",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
-      "day_of_week": 6
+      "day_of_week": 4
     },
     {
-      "activity": "Pickleball 18+",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "12:00",
+      "end_time": "12:55",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
-      "day_of_week": 7
+      "day_of_week": 4
     },
     {
-      "activity": "Pickleball 18+",
-      "start_time": "09:05",
-      "end_time": "10:05",
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "13:00",
+      "end_time": "13:55",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton - family ",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Badminton 18+",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Badminton 18+",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Badminton 18+",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Badminton 18+",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Badminton 18+",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Badminton 18+",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Kindergym",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-31",
-      "day_of_week": 7
+      "day_of_week": 4
     },
     {
       "activity": "Basketball 18+",
@@ -7531,20 +7399,124 @@
       "day_of_week": 4
     },
     {
-      "activity": "Volleyball 18+",
-      "start_time": "19:00",
-      "end_time": "20:00",
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "09:00",
+      "end_time": "09:55",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
-      "day_of_week": 3
+      "day_of_week": 5
     },
     {
-      "activity": "Volleyball - youth (13 to 17)",
-      "start_time": "17:00",
-      "end_time": "18:00",
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "10:00",
+      "end_time": "10:55",
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-31",
-      "day_of_week": 3
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "11:00",
+      "end_time": "11:55",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "12:00",
+      "end_time": "12:55",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pickleball 50+ Older Adult",
+      "start_time": "13:00",
+      "end_time": "13:55",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "09:05",
+      "end_time": "10:05",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Badminton 18+",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Badminton 18+",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Kindergym",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Pickleball 18+",
+      "start_time": "09:05",
+      "end_time": "10:05",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton 18+",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Badminton 18+",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Kindergym",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-31",
+      "day_of_week": 7
     }
   ],
   "e6a54bfaaf4cd15a0124ee77266fc839": [
@@ -12931,328 +12903,6 @@
       "day_of_week": 6
     }
   ],
-  "9aab51e1044c1fb5ffe614238b97c6e2": [
-    {
-      "activity": "Public Swim",
-      "start_time": "11:30",
-      "end_time": "12:45",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Public Swim",
-      "start_time": "11:30",
-      "end_time": "12:45",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public Swim",
-      "start_time": "11:30",
-      "end_time": "12:45",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Public Swim",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public Swim",
-      "start_time": "12:30",
-      "end_time": "13:45",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "06:30",
-      "end_time": "07:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "06:30",
-      "end_time": "07:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Lane Swim",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "12:45",
-      "end_time": "13:45",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "12:45",
-      "end_time": "13:45",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Aqua General - Shallow/deep combo",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-18",
-      "day_of_week": 5
-    }
-  ],
   "78c4d3f66c77ad01076959b0bf39efdc": [
     {
       "activity": "Weight and cardio room",
@@ -13531,6 +13181,336 @@
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-18",
       "day_of_week": 1
+    }
+  ],
+  "0e9e1da718c20adeef2827cd9d3f8b7e": [
+    {
+      "activity": "Public Swim",
+      "start_time": "11:30",
+      "end_time": "12:45",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Public Swim",
+      "start_time": "11:30",
+      "end_time": "12:45",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Public Swim",
+      "start_time": "11:30",
+      "end_time": "12:45",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Public Swim",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public Swim",
+      "start_time": "12:30",
+      "end_time": "13:45",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Lane Swim",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "12:45",
+      "end_time": "13:45",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "12:45",
+      "end_time": "13:45",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Aqua General - Shallow/deep combo",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-18",
+      "day_of_week": 5
     }
   ],
   "03c9853be93656790a0030e5065d1f1b": [
