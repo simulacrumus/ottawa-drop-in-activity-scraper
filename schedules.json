@@ -11494,6 +11494,123 @@
   },
   {
     "facility": "Lowertown Community Centre and Pool",
+    "activity": "Basketball",
+    "startTime": "12:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "16:15",
+    "endTime": "18:15",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym - family",
+    "startTime": "09:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:45",
+    "endTime": "09:45",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "17:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
     "activity": "Lane Swim",
     "startTime": "07:30",
     "endTime": "10:00",
@@ -11513,7 +11630,7 @@
   {
     "facility": "Lowertown Community Centre and Pool",
     "activity": "Lane Swim",
-    "startTime": "08:30",
+    "startTime": "20:30",
     "endTime": "22:00",
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-23",
@@ -11585,8 +11702,8 @@
   {
     "facility": "Lowertown Community Centre and Pool",
     "activity": "Lane Swim",
-    "startTime": "19:00",
-    "endTime": "20:00",
+    "startTime": "20:00",
+    "endTime": "22:00",
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-23",
     "dayOfWeek": 4
@@ -11612,8 +11729,8 @@
   {
     "facility": "Lowertown Community Centre and Pool",
     "activity": "Lane Swim",
-    "startTime": "14:00",
-    "endTime": "16:00",
+    "startTime": "19:00",
+    "endTime": "20:00",
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-23",
     "dayOfWeek": 5
@@ -11621,7 +11738,25 @@
   {
     "facility": "Lowertown Community Centre and Pool",
     "activity": "Lane Swim",
-    "startTime": "15:00",
+    "startTime": "07:30",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane Swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-23",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane Swim",
+    "startTime": "14:00",
     "endTime": "16:00",
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-23",
@@ -11770,123 +11905,6 @@
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-23",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "12:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "16:15",
-    "endTime": "18:15",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym - family",
-    "startTime": "09:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "08:45",
-    "endTime": "09:45",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "08:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "17:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-23",
-    "dayOfWeek": 6
   },
   {
     "facility": "Manotick Community Centre and Mike O’Neil Arena",
