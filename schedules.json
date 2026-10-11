@@ -137,15 +137,6 @@
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
     "activity": "Public Swim - therapeutic pool",
-    "startTime": "14:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public Swim - therapeutic pool",
     "startTime": "13:30",
     "endTime": "16:00",
     "periodStartDate": "2026-10-11",
@@ -166,27 +157,9 @@
     "activity": "Public Swim - 25 metre pool only",
     "startTime": "13:30",
     "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Public Swim - 25 metre pool only",
-    "startTime": "13:30",
-    "endTime": "16:00",
     "periodStartDate": "2026-10-11",
     "periodEndDate": "2026-10-11",
     "dayOfWeek": 7
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Aquafit - deep",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -205,15 +178,6 @@
     "periodStartDate": "2026-10-12",
     "periodEndDate": "2026-10-12",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Aquafit - shallow",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -241,15 +205,6 @@
     "periodStartDate": "2026-10-12",
     "periodEndDate": "2026-10-12",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Weight and cardio room",
-    "startTime": "08:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -295,96 +250,6 @@
     "periodStartDate": "2026-10-12",
     "periodEndDate": "2026-10-12",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Racquetball - courts 4, 6, and 8",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -538,78 +403,6 @@
     "periodStartDate": "2026-10-12",
     "periodEndDate": "2026-10-12",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "14:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
-    "activity": "Squash - courts 1, 2, 5, and 7",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-10",
-    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -12655,6 +12448,141 @@
   },
   {
     "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "50+ Vitality",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Basketball",
+    "startTime": "12:30",
+    "endTime": "14:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Basketball",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "14:30",
+    "endTime": "16:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Open gym - family",
+    "startTime": "09:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Lowertown Community Centre and Pool",
     "activity": "Lane Swim",
     "startTime": "07:30",
     "endTime": "10:00",
@@ -13068,141 +12996,6 @@
     "dayOfWeek": 6
   },
   {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "09:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "50+ Vitality",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "12:30",
-    "endTime": "14:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Basketball",
-    "startTime": "12:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "14:30",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym",
-    "startTime": "12:00",
-    "endTime": "16:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Open gym - family",
-    "startTime": "09:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Lowertown Community Centre and Pool",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
     "facility": "Manotick Community Centre and Mike O’Neil Arena",
     "activity": "Hockey 18+",
     "startTime": "11:00",
@@ -13318,6 +13111,276 @@
     "periodStartDate": "2026-09-23",
     "periodEndDate": "2026-12-30",
     "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "09:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "12:15",
+    "endTime": "14:15",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "14:30",
+    "endTime": "17:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "18:45",
+    "endTime": "19:45",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "19:50",
+    "endTime": "20:50",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Basketball - family (6 to 14 years old)",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Weight and Cardio Room",
+    "startTime": "07:30",
+    "endTime": "20:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "12:45",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "11:00",
+    "endTime": "12:45",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Core Conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kinderplay",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Volleyball - family",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Family skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public skating",
+    "startTime": "17:00",
+    "endTime": "17:50",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Weight and Cardio Room",
+    "startTime": "07:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Lane swim",
+    "startTime": "07:30",
+    "endTime": "12:45",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Preschool swim",
+    "startTime": "11:00",
+    "endTime": "12:45",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Public swim",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Kinderplay",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "12:35",
+    "endTime": "13:35",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "13:40",
+    "endTime": "14:40",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Badminton",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Basketball - family (6 to 14 years old)",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Weight and Cardio Room",
+    "startTime": "07:30",
+    "endTime": "15:30",
+    "periodStartDate": "2026-10-10",
+    "periodEndDate": "2026-10-12",
+    "dayOfWeek": 1
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
@@ -14452,276 +14515,6 @@
     "periodStartDate": "2026-09-03",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "09:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "12:15",
-    "endTime": "14:15",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "14:30",
-    "endTime": "17:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Badminton",
-    "startTime": "18:45",
-    "endTime": "19:45",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Badminton",
-    "startTime": "19:50",
-    "endTime": "20:50",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Basketball - family (6 to 14 years old)",
-    "startTime": "16:45",
-    "endTime": "18:15",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Weight and Cardio Room",
-    "startTime": "07:30",
-    "endTime": "20:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "12:45",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "11:00",
-    "endTime": "12:45",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Core Conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Kinderplay",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Volleyball - family",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Family skating",
-    "startTime": "16:00",
-    "endTime": "16:50",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public skating",
-    "startTime": "17:00",
-    "endTime": "17:50",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Weight and Cardio Room",
-    "startTime": "07:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Lane swim",
-    "startTime": "07:30",
-    "endTime": "12:45",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Preschool swim",
-    "startTime": "11:00",
-    "endTime": "12:45",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Public swim",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Kinderplay",
-    "startTime": "08:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Badminton",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Badminton",
-    "startTime": "12:35",
-    "endTime": "13:35",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Badminton",
-    "startTime": "13:40",
-    "endTime": "14:40",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Badminton",
-    "startTime": "14:45",
-    "endTime": "15:45",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Basketball - family (6 to 14 years old)",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Weight and Cardio Room",
-    "startTime": "07:30",
-    "endTime": "15:30",
-    "periodStartDate": "2026-10-10",
-    "periodEndDate": "2026-10-12",
-    "dayOfWeek": 1
   },
   {
     "facility": "Navan Memorial Centre",
