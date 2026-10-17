@@ -2598,7 +2598,7 @@
     "endTime": "12:55",
     "periodStartDate": "2026-10-19",
     "periodEndDate": "2027-01-03",
-    "dayOfWeek": 5
+    "dayOfWeek": 6
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -2617,6 +2617,15 @@
     "periodStartDate": "2026-10-19",
     "periodEndDate": "2027-01-03",
     "dayOfWeek": 1
+  },
+  {
+    "facility": "Bob MacQuarrie Recreation Complex - Orléans",
+    "activity": "Cardio and strength 50+",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-10-19",
+    "periodEndDate": "2027-01-03",
+    "dayOfWeek": 3
   },
   {
     "facility": "Bob MacQuarrie Recreation Complex - Orléans",
@@ -7908,7 +7917,7 @@
     "endTime": "14:15",
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-18",
-    "dayOfWeek": 5
+    "dayOfWeek": 4
   },
   {
     "facility": "François Dupuis Recreation Centre",
@@ -14728,6 +14737,276 @@
     "activity": "Badminton",
     "startTime": "19:00",
     "endTime": "20:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Badminton",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Badminton",
+    "startTime": "21:00",
+    "endTime": "22:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Badminton - Family",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Badminton - Family",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Pickleball",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-11-04",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Overbrook Community Centre",
+    "activity": "Badminton",
+    "startTime": "19:00",
+    "endTime": "20:00",
     "periodStartDate": "2026-11-05",
     "periodEndDate": "2026-12-22",
     "dayOfWeek": 3
@@ -15009,276 +15288,6 @@
     "endTime": "14:00",
     "periodStartDate": "2026-11-05",
     "periodEndDate": "2026-12-22",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Badminton",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Badminton",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Badminton",
-    "startTime": "21:00",
-    "endTime": "22:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Badminton - Family",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Badminton - Family",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Overbrook Community Centre",
-    "activity": "Pickleball",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-11-04",
     "dayOfWeek": 5
   },
   {
