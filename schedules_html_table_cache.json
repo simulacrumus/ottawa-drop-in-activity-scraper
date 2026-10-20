@@ -3128,104 +3128,6 @@
       "day_of_week": 5
     }
   ],
-  "417b0fc1b3e10bc1360f13eae08c72ec": [
-    {
-      "activity": "Table tennis",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "10:10",
-      "end_time": "11:10",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "11:20",
-      "end_time": "12:20",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "10:10",
-      "end_time": "11:10",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "11:20",
-      "end_time": "12:20",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "13:10",
-      "end_time": "14:10",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "14:20",
-      "end_time": "15:20",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "13:10",
-      "end_time": "14:10",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Table tennis",
-      "start_time": "14:20",
-      "end_time": "15:20",
-      "period_start_date": "2026-09-09",
-      "period_end_date": "2026-12-23",
-      "day_of_week": 7
-    }
-  ],
   "04551b7e9969a445c0c4904da3fb6d9c": [
     {
       "activity": "Adult skating",
@@ -3289,6 +3191,250 @@
       "end_time": "18:00",
       "period_start_date": "2026-09-09",
       "period_end_date": "2027-04-19",
+      "day_of_week": 6
+    }
+  ],
+  "a71e59bcbedd6c703f6e06756600134c": [
+    {
+      "activity": "Table tennis",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "10:10",
+      "end_time": "11:10",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "11:20",
+      "end_time": "12:20",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "10:10",
+      "end_time": "11:10",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "11:20",
+      "end_time": "12:20",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "13:10",
+      "end_time": "14:10",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "14:20",
+      "end_time": "15:20",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "13:10",
+      "end_time": "14:10",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "14:20",
+      "end_time": "15:20",
+      "period_start_date": "2026-09-09",
+      "period_end_date": "2026-11-05",
+      "day_of_week": 7
+    }
+  ],
+  "b3ed1c2c46b2877bb815bdd2b2c0a7a4": [
+    {
+      "activity": "Table tennis",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "10:10",
+      "end_time": "11:10",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "11:20",
+      "end_time": "12:20",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "10:10",
+      "end_time": "11:10",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "11:20",
+      "end_time": "12:20",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "13:10",
+      "end_time": "14:10",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "14:20",
+      "end_time": "15:20",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "13:10",
+      "end_time": "14:10",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Table tennis",
+      "start_time": "14:20",
+      "end_time": "15:20",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Basketball - Child",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Basketball - Child",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Basketball - Youth",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Basketball - Youth",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Basketball - Adult",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Basketball - Adult",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "period_start_date": "2026-11-06",
+      "period_end_date": "2026-12-23",
       "day_of_week": 6
     }
   ],
