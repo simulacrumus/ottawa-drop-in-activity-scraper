@@ -4453,7 +4453,7 @@
       "day_of_week": 7
     }
   ],
-  "c7db8c2376ac4e1da0b6104e71ed5a84": [
+  "81c2b80246d8bd116c478ec8034b409a": [
     {
       "activity": "Weight and cardio room",
       "start_time": "06:30",
@@ -4480,7 +4480,7 @@
     },
     {
       "activity": "Weight and cardio room",
-      "start_time": "06:30",
+      "start_time": "09:30",
       "end_time": "21:30",
       "period_start_date": "2026-09-01",
       "period_end_date": "2026-12-23",
@@ -4496,8 +4496,8 @@
     },
     {
       "activity": "Weight and cardio room",
-      "start_time": "06:30",
-      "end_time": "21:30",
+      "start_time": "09:00",
+      "end_time": "14:00",
       "period_start_date": "2026-09-01",
       "period_end_date": "2026-12-23",
       "day_of_week": 6
@@ -9746,352 +9746,6 @@
       "day_of_week": 2
     }
   ],
-  "1e3852da551afe54ec93f67ba48b6b40": [
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "08:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "17:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "08:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "17:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "08:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "17:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "17:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "08:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "17:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "12:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Hot tub and sauna",
-      "start_time": "12:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "08:00",
-      "end_time": "12:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Lane swim",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "10:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "10:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "10:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Preschool swim",
-      "start_time": "10:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Public swim",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Wave swim",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Wave swim",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Wave swim",
-      "start_time": "13:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Wave swim",
-      "start_time": "13:00",
-      "end_time": "17:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Aquafit",
-      "start_time": "12:05",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Aquafit",
-      "start_time": "12:00",
-      "end_time": "12:55",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Aquafit",
-      "start_time": "13:05",
-      "end_time": "14:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Aquafit",
-      "start_time": "12:05",
-      "end_time": "13:00",
-      "period_start_date": "2026-09-04",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    }
-  ],
   "987487f304beb243002f807eb72642d9": [
     {
       "activity": "Weight and cardio room",
@@ -10262,6 +9916,328 @@
       "period_start_date": "2026-09-01",
       "period_end_date": "2026-12-20",
       "day_of_week": 3
+    }
+  ],
+  "9b43b7d86ebae1a5fa6bc5c674a63982": [
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Aquafit",
+      "start_time": "12:05",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Wave swim",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Aquafit",
+      "start_time": "12:00",
+      "end_time": "12:55",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Lane swim",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Preschool swim",
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Wave swim",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Aquafit",
+      "start_time": "12:05",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "12:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Wave swim",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Hot tub and sauna",
+      "start_time": "12:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public swim",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Wave swim",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "period_start_date": "2026-09-04",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 7
     }
   ],
   "38da7974bb36d624ef47c1267651450c": [
@@ -18699,7 +18675,33 @@
       "day_of_week": 6
     }
   ],
-  "032bf95c09961206152f2d6500953435": [
+  "9e832eceb3d5987b5f26d4bb351cbe64": [
+    {
+      "activity": "Strength and balance - older adult",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-09-11",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Strength and balance - older adult",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "period_start_date": "2026-09-11",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "20-20-20",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "period_start_date": "2026-09-11",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    }
+  ],
+  "427f086d593fd819c1280842d6ee1b68": [
     {
       "activity": "Lane swim",
       "start_time": "11:00",
@@ -18853,7 +18855,7 @@
       "day_of_week": 2
     },
     {
-      "activity": "Women's only swim",
+      "activity": "Womens only swim",
       "start_time": "20:30",
       "end_time": "21:30",
       "period_start_date": "2026-09-14",
@@ -18872,14 +18874,6 @@
       "activity": "Aquafit",
       "start_time": "09:00",
       "end_time": "10:00",
-      "period_start_date": "2026-09-14",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Aquafit",
-      "start_time": "10:00",
-      "end_time": "11:00",
       "period_start_date": "2026-09-14",
       "period_end_date": "2026-12-20",
       "day_of_week": 1
@@ -18910,14 +18904,6 @@
     },
     {
       "activity": "Aquafit",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "period_start_date": "2026-09-14",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Aquafit",
       "start_time": "08:00",
       "end_time": "09:00",
       "period_start_date": "2026-09-14",
@@ -18939,32 +18925,6 @@
       "period_start_date": "2026-09-14",
       "period_end_date": "2026-12-20",
       "day_of_week": 5
-    }
-  ],
-  "9e832eceb3d5987b5f26d4bb351cbe64": [
-    {
-      "activity": "Strength and balance - older adult",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-09-11",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Strength and balance - older adult",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "period_start_date": "2026-09-11",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "20-20-20",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "period_start_date": "2026-09-11",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
     }
   ],
   "e5119723584a0933d5d23ae7b12a176b": [
@@ -20315,7 +20275,7 @@
       "day_of_week": 4
     }
   ],
-  "3c449c1b010bd2ddedd8d1023e86e4fd": [
+  "c25ebea2f830efd47ec2a120f4a606a9": [
     {
       "activity": "Cardio and stretch 50+",
       "start_time": "09:00",
@@ -20363,14 +20323,6 @@
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-20",
       "day_of_week": 1
-    },
-    {
-      "activity": "Cardio and strength 50+",
-      "start_time": "08:30",
-      "end_time": "09:25",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
     },
     {
       "activity": "Cardio and strength 50+",

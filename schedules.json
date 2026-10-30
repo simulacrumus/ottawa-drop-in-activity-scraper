@@ -4988,7 +4988,7 @@
   {
     "facility": "Champagne Fitness Centre",
     "activity": "Weight and cardio room",
-    "startTime": "06:30",
+    "startTime": "09:30",
     "endTime": "21:30",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-23",
@@ -5006,8 +5006,8 @@
   {
     "facility": "Champagne Fitness Centre",
     "activity": "Weight and cardio room",
-    "startTime": "06:30",
-    "endTime": "21:30",
+    "startTime": "09:00",
+    "endTime": "14:00",
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-23",
     "dayOfWeek": 6
@@ -10801,393 +10801,6 @@
   },
   {
     "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "12:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Hot tub and sauna",
-    "startTime": "12:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "08:00",
-    "endTime": "12:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Lane swim",
-    "startTime": "20:00",
-    "endTime": "21:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Preschool swim",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Public swim",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Wave swim",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Aquafit",
-    "startTime": "12:05",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Aquafit",
-    "startTime": "12:00",
-    "endTime": "12:55",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Aquafit",
-    "startTime": "13:05",
-    "endTime": "14:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
-    "activity": "Aquafit",
-    "startTime": "12:05",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-04",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Kanata Leisure Centre and Wave Pool",
     "activity": "Weight and cardio room",
     "startTime": "07:00",
     "endTime": "21:00",
@@ -11374,6 +10987,366 @@
     "periodStartDate": "2026-09-01",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "12:05",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "12:00",
+    "endTime": "12:55",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "08:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Lane swim",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Preschool swim",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Aquafit",
+    "startTime": "12:05",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "12:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Hot tub and sauna",
+    "startTime": "12:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Public swim",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Kanata Leisure Centre and Wave Pool",
+    "activity": "Wave swim",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "periodStartDate": "2026-09-04",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
   },
   {
     "facility": "Kanata Seniors Centre",
@@ -20737,6 +20710,33 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-11",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "Strength and balance - older adult",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "periodStartDate": "2026-09-11",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
+    "activity": "20-20-20",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "periodStartDate": "2026-09-11",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Lane swim",
     "startTime": "11:00",
     "endTime": "14:00",
@@ -20908,7 +20908,7 @@
   },
   {
     "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Women's only swim",
+    "activity": "Womens only swim",
     "startTime": "20:30",
     "endTime": "21:30",
     "periodStartDate": "2026-09-14",
@@ -20929,15 +20929,6 @@
     "activity": "Aquafit",
     "startTime": "09:00",
     "endTime": "10:00",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
-    "startTime": "10:00",
-    "endTime": "11:00",
     "periodStartDate": "2026-09-14",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 1
@@ -20972,15 +20963,6 @@
   {
     "facility": "Sawmill Creek Community Centre and Pool",
     "activity": "Aquafit",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Aquafit",
     "startTime": "08:00",
     "endTime": "09:00",
     "periodStartDate": "2026-09-14",
@@ -21004,33 +20986,6 @@
     "periodStartDate": "2026-09-14",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-11",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "Strength and balance - older adult",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "periodStartDate": "2026-09-11",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Sawmill Creek Community Centre and Pool",
-    "activity": "20-20-20",
-    "startTime": "12:30",
-    "endTime": "13:30",
-    "periodStartDate": "2026-09-11",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
   },
   {
     "facility": "South Fallingbrook Community Centre",
@@ -22588,15 +22543,6 @@
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 1
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Cardio and strength 50+",
-    "startTime": "08:30",
-    "endTime": "09:25",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
   },
   {
     "facility": "St. Laurent Complex",
