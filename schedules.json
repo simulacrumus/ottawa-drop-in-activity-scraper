@@ -3172,114 +3172,6 @@
     "activity": "Table tennis",
     "startTime": "09:00",
     "endTime": "10:00",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "10:10",
-    "endTime": "11:10",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "11:20",
-    "endTime": "12:20",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "10:10",
-    "endTime": "11:10",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "11:20",
-    "endTime": "12:20",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "13:10",
-    "endTime": "14:10",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "14:20",
-    "endTime": "15:20",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "13:10",
-    "endTime": "14:10",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "14:20",
-    "endTime": "15:20",
-    "periodStartDate": "2026-09-09",
-    "periodEndDate": "2026-11-05",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Canterbury Recreation Complex",
-    "activity": "Table tennis",
-    "startTime": "09:00",
-    "endTime": "10:00",
     "periodStartDate": "2026-11-06",
     "periodEndDate": "2026-12-23",
     "dayOfWeek": 1
@@ -11782,6 +11674,24 @@
   },
   {
     "facility": "Manotick Community Centre and Mike O’Neil Arena",
+    "activity": "Hockey 18+",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-29",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Manotick Community Centre and Mike O’Neil Arena",
+    "activity": "Stick and Puck - Youth and Adult (13+)",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-09-08",
+    "periodEndDate": "2026-12-29",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Manotick Community Centre and Mike O’Neil Arena",
     "activity": "Public skating",
     "startTime": "17:00",
     "endTime": "17:50",
@@ -11833,24 +11743,6 @@
     "periodStartDate": "2026-09-08",
     "periodEndDate": "2026-12-29",
     "dayOfWeek": 3
-  },
-  {
-    "facility": "Manotick Community Centre and Mike O’Neil Arena",
-    "activity": "Hockey 18+",
-    "startTime": "11:00",
-    "endTime": "11:50",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-29",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Manotick Community Centre and Mike O’Neil Arena",
-    "activity": "Stick and Puck - Youth and Adult (13+)",
-    "startTime": "15:00",
-    "endTime": "15:50",
-    "periodStartDate": "2026-09-08",
-    "periodEndDate": "2026-12-29",
-    "dayOfWeek": 2
   },
   {
     "facility": "McNabb Arena and Community Centre",
@@ -12376,6 +12268,285 @@
   },
   {
     "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Dance",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Dance",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yin yoga",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "20-20-20",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "HIIT",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "HIIT",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yoga Tune Up",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yoga",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yoga",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Yoga",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Core conditioning",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Core conditioning",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "19:15",
+    "endTime": "20:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Zumba",
+    "startTime": "10:15",
+    "endTime": "11:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Cardio and strength",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Cardio and strength",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Balance and stability - Heartwise (older adult)",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Balance and stability - Heartwise (older adult)",
+    "startTime": "11:35",
+    "endTime": "12:35",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Stretch and strength",
+    "startTime": "13:05",
+    "endTime": "14:05",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Stretch and strength",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Strength circuit",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Indoor cycling",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 6
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "TRX",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
+    "activity": "Drums Fitness",
+    "startTime": "18:45",
+    "endTime": "19:45",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 3
+  },
+  {
+    "facility": "Minto Recreation Complex - Barrhaven",
     "activity": "Pickleball",
     "startTime": "11:45",
     "endTime": "12:45",
@@ -12751,285 +12922,6 @@
     "periodStartDate": "2026-09-03",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Dance",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Dance",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength",
-    "startTime": "09:30",
-    "endTime": "10:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yin yoga",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "20-20-20",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "HIIT",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "HIIT",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yoga Tune Up",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yoga",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yoga",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Yoga",
-    "startTime": "18:15",
-    "endTime": "19:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Core conditioning",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Core conditioning",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "16:45",
-    "endTime": "17:45",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "11:45",
-    "endTime": "12:45",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 2
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "19:15",
-    "endTime": "20:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Zumba",
-    "startTime": "10:15",
-    "endTime": "11:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Cardio and strength",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Cardio and strength",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Balance and stability - Heartwise (older adult)",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Balance and stability - Heartwise (older adult)",
-    "startTime": "11:35",
-    "endTime": "12:35",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Stretch and strength",
-    "startTime": "13:05",
-    "endTime": "14:05",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Stretch and strength",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Strength circuit",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 5
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Indoor cycling",
-    "startTime": "09:15",
-    "endTime": "10:15",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 6
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "TRX",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
-  },
-  {
-    "facility": "Minto Recreation Complex - Barrhaven",
-    "activity": "Drums Fitness",
-    "startTime": "18:45",
-    "endTime": "19:45",
-    "periodStartDate": "2026-08-31",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 3
   },
   {
     "facility": "Navan Memorial Centre",

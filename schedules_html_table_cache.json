@@ -2846,7 +2846,8 @@
       "end_time": "10:00",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 1
+      "day_of_week": 1,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2854,7 +2855,8 @@
       "end_time": "11:10",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 1
+      "day_of_week": 1,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2862,7 +2864,8 @@
       "end_time": "12:20",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 1
+      "day_of_week": 1,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2870,7 +2873,8 @@
       "end_time": "10:00",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 3
+      "day_of_week": 3,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2878,7 +2882,8 @@
       "end_time": "11:10",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 3
+      "day_of_week": 3,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2886,7 +2891,8 @@
       "end_time": "12:20",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 3
+      "day_of_week": 3,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2894,7 +2900,8 @@
       "end_time": "13:00",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2902,7 +2909,8 @@
       "end_time": "14:10",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2910,7 +2918,8 @@
       "end_time": "15:20",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 6
+      "day_of_week": 6,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2918,7 +2927,8 @@
       "end_time": "13:00",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 7
+      "day_of_week": 7,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2926,7 +2936,8 @@
       "end_time": "14:10",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 7
+      "day_of_week": 7,
+      "facility": "Canterbury Recreation Complex"
     },
     {
       "activity": "Table tennis",
@@ -2934,7 +2945,8 @@
       "end_time": "15:20",
       "period_start_date": "2026-09-09",
       "period_end_date": "2026-11-05",
-      "day_of_week": 7
+      "day_of_week": 7,
+      "facility": "Canterbury Recreation Complex"
     }
   ],
   "b3ed1c2c46b2877bb815bdd2b2c0a7a4": [
@@ -10634,6 +10646,24 @@
       "day_of_week": 6
     }
   ],
+  "467205eb4321545dd26ba841b89ef8e1": [
+    {
+      "activity": "Hockey 18+",
+      "start_time": "11:00",
+      "end_time": "11:50",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-29",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Stick and Puck - Youth and Adult (13+)",
+      "start_time": "15:00",
+      "end_time": "15:50",
+      "period_start_date": "2026-09-08",
+      "period_end_date": "2026-12-29",
+      "day_of_week": 2
+    }
+  ],
   "2f24307bca3462e0c80e64aab0927281": [
     {
       "activity": "Public skating",
@@ -10682,24 +10712,6 @@
       "period_start_date": "2026-09-08",
       "period_end_date": "2026-12-29",
       "day_of_week": 3
-    }
-  ],
-  "467205eb4321545dd26ba841b89ef8e1": [
-    {
-      "activity": "Hockey 18+",
-      "start_time": "11:00",
-      "end_time": "11:50",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-29",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Stick and Puck - Youth and Adult (13+)",
-      "start_time": "15:00",
-      "end_time": "15:50",
-      "period_start_date": "2026-09-08",
-      "period_end_date": "2026-12-29",
-      "day_of_week": 2
     }
   ],
   "f95ffe8740fb13acfeaa35b1a6bd3e51": [
@@ -11174,6 +11186,256 @@
       "day_of_week": 7
     }
   ],
+  "46723d3baf7e1f0183333a441b8aaa40": [
+    {
+      "activity": "Dance",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Dance",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Strength",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Strength",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Strength",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Yin yoga",
+      "start_time": "11:45",
+      "end_time": "12:45",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "20-20-20",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "HIIT",
+      "start_time": "19:15",
+      "end_time": "20:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "HIIT",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Yoga Tune Up",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Yoga",
+      "start_time": "18:15",
+      "end_time": "19:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Core conditioning",
+      "start_time": "19:15",
+      "end_time": "20:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Core conditioning",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "16:45",
+      "end_time": "17:45",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "11:45",
+      "end_time": "12:45",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "19:15",
+      "end_time": "20:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 6
+    },
+    {
+      "activity": "Zumba",
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Cardio and strength",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Cardio and strength",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Balance and stability - Heartwise (older adult)",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Balance and stability - Heartwise (older adult)",
+      "start_time": "11:35",
+      "end_time": "12:35",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Stretch and strength",
+      "start_time": "13:05",
+      "end_time": "14:05",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Stretch and strength",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Strength circuit",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Indoor cycling",
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 6
+    },
+    {
+      "activity": "TRX",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    },
+    {
+      "activity": "Drums Fitness",
+      "start_time": "18:45",
+      "end_time": "19:45",
+      "period_start_date": "2026-08-31",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 3
+    }
+  ],
   "efb7c7ee6153255df931b3caae40d16f": [
     {
       "activity": "Pickleball",
@@ -11512,256 +11774,6 @@
       "period_start_date": "2026-09-03",
       "period_end_date": "2026-12-20",
       "day_of_week": 2
-    }
-  ],
-  "46723d3baf7e1f0183333a441b8aaa40": [
-    {
-      "activity": "Dance",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Dance",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Strength",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Strength",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Strength",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Yin yoga",
-      "start_time": "11:45",
-      "end_time": "12:45",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "20-20-20",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "HIIT",
-      "start_time": "19:15",
-      "end_time": "20:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "HIIT",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Yoga Tune Up",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Yoga",
-      "start_time": "18:15",
-      "end_time": "19:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Core conditioning",
-      "start_time": "19:15",
-      "end_time": "20:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Core conditioning",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "16:45",
-      "end_time": "17:45",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "11:45",
-      "end_time": "12:45",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 2
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "19:15",
-      "end_time": "20:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 6
-    },
-    {
-      "activity": "Zumba",
-      "start_time": "10:15",
-      "end_time": "11:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Cardio and strength",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Cardio and strength",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Balance and stability - Heartwise (older adult)",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Balance and stability - Heartwise (older adult)",
-      "start_time": "11:35",
-      "end_time": "12:35",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Stretch and strength",
-      "start_time": "13:05",
-      "end_time": "14:05",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Stretch and strength",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Strength circuit",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 5
-    },
-    {
-      "activity": "Indoor cycling",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 6
-    },
-    {
-      "activity": "TRX",
-      "start_time": "17:30",
-      "end_time": "18:30",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
-    },
-    {
-      "activity": "Drums Fitness",
-      "start_time": "18:45",
-      "end_time": "19:45",
-      "period_start_date": "2026-08-31",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 3
     }
   ],
   "28fc8fccb045100b2930ca96b5365c23": [
