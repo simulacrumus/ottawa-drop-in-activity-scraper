@@ -21853,6 +21853,15 @@
   },
   {
     "facility": "St. Laurent Complex",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 1
+  },
+  {
+    "facility": "St. Laurent Complex",
     "activity": "Public skating",
     "startTime": "13:00",
     "endTime": "13:50",
@@ -21862,30 +21871,30 @@
   },
   {
     "facility": "St. Laurent Complex",
+    "activity": "18+ Pick-up hockey",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "18+ Pick-up hockey",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 2
+  },
+  {
+    "facility": "St. Laurent Complex",
     "activity": "Public skating",
     "startTime": "16:00",
     "endTime": "16:50",
     "periodStartDate": "2026-09-14",
     "periodEndDate": "2026-12-20",
-    "dayOfWeek": 4
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Public skating",
-    "startTime": "15:00",
-    "endTime": "15:50",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
-    "activity": "Adult skating",
-    "startTime": "12:00",
-    "endTime": "12:50",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 1
+    "dayOfWeek": 2
   },
   {
     "facility": "St. Laurent Complex",
@@ -21916,15 +21925,6 @@
   },
   {
     "facility": "St. Laurent Complex",
-    "activity": "Family skating",
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "periodStartDate": "2026-09-14",
-    "periodEndDate": "2026-12-20",
-    "dayOfWeek": 7
-  },
-  {
-    "facility": "St. Laurent Complex",
     "activity": "18+ Pick-up hockey",
     "startTime": "14:00",
     "endTime": "14:50",
@@ -21940,5 +21940,50 @@
     "periodStartDate": "2026-09-14",
     "periodEndDate": "2026-12-20",
     "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 4
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Adult skating",
+    "startTime": "12:00",
+    "endTime": "12:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "16:00",
+    "endTime": "16:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 5
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Family skating",
+    "startTime": "14:00",
+    "endTime": "14:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
+  },
+  {
+    "facility": "St. Laurent Complex",
+    "activity": "Public skating",
+    "startTime": "15:00",
+    "endTime": "15:50",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-12-20",
+    "dayOfWeek": 7
   }
 ]

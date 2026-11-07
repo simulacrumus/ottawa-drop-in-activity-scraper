@@ -19811,7 +19811,15 @@
       "day_of_week": 7
     }
   ],
-  "3f6201dffc263d8fc88b7063e39a2f99": [
+  "4ea8034cd16444dd58c7ee59447ca963": [
+    {
+      "activity": "Adult skating",
+      "start_time": "12:00",
+      "end_time": "12:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 1
+    },
     {
       "activity": "Public skating",
       "start_time": "13:00",
@@ -19821,28 +19829,28 @@
       "day_of_week": 1
     },
     {
+      "activity": "18+ Pick-up hockey",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
+      "activity": "18+ Pick-up hockey",
+      "start_time": "15:00",
+      "end_time": "15:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 2
+    },
+    {
       "activity": "Public skating",
       "start_time": "16:00",
       "end_time": "16:50",
       "period_start_date": "2026-09-14",
       "period_end_date": "2026-12-20",
-      "day_of_week": 4
-    },
-    {
-      "activity": "Public skating",
-      "start_time": "15:00",
-      "end_time": "15:50",
-      "period_start_date": "2026-09-14",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 7
-    },
-    {
-      "activity": "Adult skating",
-      "start_time": "12:00",
-      "end_time": "12:50",
-      "period_start_date": "2026-09-14",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 1
+      "day_of_week": 2
     },
     {
       "activity": "Adult skating",
@@ -19869,14 +19877,6 @@
       "day_of_week": 5
     },
     {
-      "activity": "Family skating",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "period_start_date": "2026-09-14",
-      "period_end_date": "2026-12-20",
-      "day_of_week": 7
-    },
-    {
       "activity": "18+ Pick-up hockey",
       "start_time": "14:00",
       "end_time": "14:50",
@@ -19891,6 +19891,46 @@
       "period_start_date": "2026-09-14",
       "period_end_date": "2026-12-20",
       "day_of_week": 4
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 4
+    },
+    {
+      "activity": "Adult skating",
+      "start_time": "12:00",
+      "end_time": "12:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 5
+    },
+    {
+      "activity": "Family skating",
+      "start_time": "14:00",
+      "end_time": "14:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 7
+    },
+    {
+      "activity": "Public skating",
+      "start_time": "15:00",
+      "end_time": "15:50",
+      "period_start_date": "2026-09-14",
+      "period_end_date": "2026-12-20",
+      "day_of_week": 7
     }
   ]
 }
